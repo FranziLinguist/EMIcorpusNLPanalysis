@@ -67,7 +67,7 @@ Misurare la complessità sintattica dei testi tramite statistiche a livello di f
 
 **Per ogni documento:**
 - Il testo viene processato con spaCy per ottenere la segmentazione in frasi e token.
-- Per ogni frase: conteggio token (escludendo punteggiatura e spazi), conteggio delle clausole subordinate (label di dipendenza: `advcl`, `acl`, `relcl`, `ccomp`, `xcomp`), calcolo della profondità massima dell'albero di parsing a partire dal ROOT.
+- Per ogni frase: conteggio token (escludendo punteggiatura e spazi), conteggio delle subordinate clauses (label di dipendenza: `advcl`, `acl`, `relcl`, `ccomp`, `xcomp`), calcolo della profondità massima dell'albero di parsing a partire dal ROOT.
 - Metriche aggregate per documento: numero di frasi, numero di token, lunghezza media della frase, media delle subordinate per frase, profondità media dell'albero.
 
 **Per disciplina:**

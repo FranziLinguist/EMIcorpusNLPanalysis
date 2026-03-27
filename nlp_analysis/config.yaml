@@ -1,0 +1,179 @@
+# Paths
+docs_dir: "./docs/EMI_"
+output_dir: "./output"
+results_dir: "./results"
+
+# Document format
+file_extension: "docx"
+
+# Discipline code is extracted from the filename prefix (before _AS\d).
+# Use this mapping to normalise any inconsistent prefixes found in the files.
+filename_code_mapping:
+  ALSPS_Zot: ELSPS_Zot
+
+# spaCy model
+spacy_model: "en_core_web_md"
+
+# Analysis parameters
+ngram_range: [1, 3]
+top_n_keywords: 20
+top_n_frequencies: 30
+lda_num_topics: 8
+lda_passes: 10
+wordcloud_max_words: 150
+dep_parse_max_sentences: 3
+figure_dpi: 150
+
+# Reporting verbs list
+reporting_verbs:
+  - argues
+  - claims
+  - suggests
+  - shows
+  - demonstrates
+  - states
+  - explains
+  - proposes
+  - believes
+  - observes
+  - finds
+  - indicates
+  - reveals
+  - notes
+  - maintains
+  - asserts
+  - contends
+
+# Nominalization suffixes
+nominalization_suffixes:
+  - -tion
+  - -sion
+  - -ment
+  - -ness
+  - -ity
+  - -ance
+  - -ence
+
+# Cohesive devices / discourse markers
+discourse_markers:
+  additive: ["moreover", "furthermore", "in addition", "additionally", "also", "besides"]
+  adversative: ["however", "nevertheless", "on the other hand", "in contrast", "yet", "although"]
+  causal: ["therefore", "consequently", "thus", "hence", "as a result", "because"]
+  sequential: ["first", "secondly", "thirdly", "finally", "next", "then", "subsequently"]
+  conclusive: ["in conclusion", "to summarize", "in summary", "overall", "to conclude"]
+
+# Academic formula n-grams
+academic_formulas:
+  - "the aim of this essay"
+  - "the purpose of this paper"
+  - "this paper discusses"
+  - "this essay argues"
+  - "the author argues that"
+  - "according to the author"
+  - "in conclusion"
+  - "it can be argued that"
+  - "it is important to note"
+  - "on the one hand"
+  - "on the other hand"
+  - "in other words"
+  - "for example"
+  - "for instance"
+  - "as a result"
+  - "in order to"
+  - "with regard to"
+  - "in terms of"
+  - "as mentioned above"
+  - "the findings suggest"
+
+# Similarity parameters
+ngram_overlap_char_n: 3
+ngram_overlap_word_n: [2, 3]
+use_sentence_embeddings: true
+
+# Text examples
+save_text_examples: true
+text_example_max_per_task: 5
+
+# Report language
+report_language: "it"
+
+# Discipline metadata
+disciplines:
+  CPH_Mor:
+    name: "Colonial and Postcolonial History"
+    instructor: "Morelli – Bobbio"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 31
+  GLD_Gog:
+    name: "Global and Local Development"
+    instructor: "Goglio"
+    mode: "computer"
+    type: "group"
+    expected_count: 4
+  AS_Gus:
+    name: "African Studies"
+    instructor: "Gusman"
+    mode: "computer"
+    type: "mixed"
+    expected_count: 14
+  EOK_Geu:
+    name: "Economics of Knowledge"
+    instructor: "Geuna"
+    mode: "computer"
+    type: "mixed"
+    expected_count: 13
+  DEIC_San:
+    name: "Development Economics and International Cooperation"
+    instructor: "Sanfilippo"
+    mode: "handwritten"
+    type: "group"
+    expected_count: 1
+  NAL_Car:
+    name: "North-American Literature"
+    instructor: "Carosso"
+    mode: "computer"
+    type: "individual"
+    expected_count: 8
+  NAL_DiL:
+    name: "North-American Literature"
+    instructor: "Di Loreto"
+    mode: "computer"
+    type: "individual"
+    expected_count: 6
+  SCSA_Bon:
+    name: "Synthetic Chemistry for Smart Application"
+    instructor: "Bonomo"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 52
+  CILE_Pol:
+    name: "Corporate and Insolvency Law for Economics"
+    instructor: "Pollastro"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 35
+  CLA_Pol:
+    name: "Corporate Law Advanced"
+    instructor: "Pollastro"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 19
+  ELSPS_Zot:
+    name: "English Linguistics (SPS)"
+    instructor: "Zottola"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 10
+  ELClass_Zot:
+    name: "English Linguistics (Class)"
+    instructor: "Zottola"
+    mode: "handwritten"
+    type: "individual"
+    expected_count: 7
+  DISS:
+    name: "Corpus tesi di laurea"
+    instructor: null
+    mode: null
+    type: "dissertation"
+    expected_count: 6

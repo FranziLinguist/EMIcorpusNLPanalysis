@@ -69,14 +69,14 @@ Misurare la complessità sintattica dei testi tramite statistiche a livello di f
 - Il testo viene processato con spaCy per ottenere la segmentazione in frasi e token.
 - Per ogni frase: conteggio token (escludendo punteggiatura e spazi), conteggio delle subordinate clauses (label di dipendenza: `advcl`, `acl`, `relcl`, `ccomp`, `xcomp`), calcolo della profondità massima dell'albero di parsing a partire dal ROOT.
 - Metriche aggregate per documento: numero di frasi, numero di token, lunghezza media della frase, media delle subordinate per frase, profondità media dell'albero.
-[ Note: | Label | Cos’è                                | Esempio                  |
-| ----- | ------------------------------------ | ------------------------ |
-| advcl | subordinata avverbiale               | because, when, if        |
-| acl   | subordinata che modifica un nome     | the decision to leave    |
-| relcl | proposizione relativa                | the book that I bought   |
-| ccomp | subordinata oggettiva con soggetto   | I think that he is right |
-| xcomp | subordinata oggettiva senza soggetto | I want to go             |
-]
+| Label | Cos’è | Esempio |
+|------|------|--------|
+| advcl | subordinata avverbiale | because, when, if |
+| acl | subordinata che modifica un nome | the decision to leave |
+| relcl | proposizione relativa | the book that I bought |
+| ccomp | subordinata oggettiva con soggetto | I think that he is right |
+| xcomp | subordinata oggettiva senza soggetto | I want to go |
+
 **Per disciplina:**
 - Tutte le distribuzioni dei documenti vengono aggregate per calcolare le stesse metriche a livello disciplinare.
 

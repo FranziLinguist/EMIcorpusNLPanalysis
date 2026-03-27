@@ -139,6 +139,16 @@ Quantificare tre dimensioni fondamentali della retorica accademica: (1) uso dei 
 - Metodo 2: verbo con tag `VBN` che ha come ausiliare "be" con dep `aux` o `auxpass`.
 - Calcolo del passive ratio: `passivi / (passivi + attivi)`.
 
+| Term      | Significato                             |
+| --------- | --------------------------------------- |
+| VBN       | participio passato                      |
+| nsubj     | soggetto attivo                         |
+| nsubjpass | soggetto passivo (chi subisce)          |
+| auxpass   | verbo ausiliare del passivo (was, were) |
+| obl:agent | agente del passivo (by companies)       |
+
+
+
 **Verbi di riporto:**
 - Lista configurabile in `config.yaml` (`reporting_verbs`).
 - Classificazione in tipi: `evidence`, `caution`, `position`, `critical_distance`, `certainty`, `subjective`, `neutral`.

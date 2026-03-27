@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Frase più corta
+[TEXT]   Statista.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Frase più corta
+[TEXT]   "
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Frase più corta
+[TEXT]   Apartheid8
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Frase più corta
+[TEXT]   (Sorgoni, 2023)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Frase più corta
+[TEXT]   143–151.
+

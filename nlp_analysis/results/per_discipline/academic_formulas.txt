@@ -1,0 +1,18 @@
+======================================================================
+  FORMULE ACCADEMICHE  –  PER DISCIPLINA
+======================================================================
+
+Disciplina             Totale  Den/1000t  Uniq ratio  Top formule
+--------------------------------------------------------------------------------
+AS_Gus                     82       1.95       0.600  'in order to'(27), 'for instance'(13), 'for example'(12), 'on the other hand'(11)
+CILE_Pol                   54       2.11       0.300  'for example'(18), 'in order to'(13), 'for instance'(10), 'in terms of'(7)
+CLA_Pol                    44       3.63       0.350  'in order to'(22), 'for example'(11), 'on the other hand'(6), 'in conclusion'(2)
+CPH_Mor                    59       2.61       0.550  'for example'(23), 'in order to'(12), 'on the other hand'(5), 'for instance'(5)
+DEIC_San                    7       2.76       0.250  'on the other hand'(3), 'for example'(1), 'for instance'(1), 'as a result'(1)
+ELClass_Zot                 9       3.34       0.050  'for example'(9)
+ELSPS_Zot                  28       4.71       0.200  'for example'(18), 'in order to'(6), 'on the other hand'(2), 'for instance'(2)
+EOK_Geu                    36       2.21       0.350  'for example'(17), 'in terms of'(7), 'in order to'(4), 'on the other hand'(3)
+GLD_Gog                    30       2.73       0.450  'for example'(10), 'in order to'(8), 'on the other hand'(3), 'for instance'(2)
+NAL_Car                    32       5.63       0.350  'in order to'(19), 'for example'(4), 'on the other hand'(3), 'in conclusion'(2)
+NAL_DiL                     3       0.39       0.100  'on the other hand'(2), 'in order to'(1)
+SCSA_Bon                   89       2.40       0.450  'for example'(46), 'in order to'(25), 'on the other hand'(7), 'for instance'(3)

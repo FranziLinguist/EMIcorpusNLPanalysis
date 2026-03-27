@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 15)
+[LABEL]  Connettivo adversative: 'however'
+[TEXT]   However, Nigeria benefited from a debt-relief plan.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 17)
+[LABEL]  Connettivo adversative: 'however'
+[TEXT]   However, the flow of the economy of this country still leads a big portion of the population to decide to take the path of migration.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 41)
+[LABEL]  Connettivo adversative: 'however'
+[TEXT]   However, despite all the efforts and good intentions of the Nigerian government to improve women’s status, there is still a huge inconsistency between the law and the reality of facts (Aja- Okorie, 2013).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 85)
+[LABEL]  Connettivo adversative: 'on the other hand'
+[TEXT]   On the other hand, the education of women has an impact on their decision-making power within the family, making them more independent and active in taking decisions concerning children.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 108)
+[LABEL]  Connettivo adversative: 'on the other hand'
+[TEXT]   On the other hand, considering the negative point of view, women are in employment positions and sectors that pay much less than men and have lower productivity levels.
+

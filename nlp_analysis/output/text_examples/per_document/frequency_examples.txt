@@ -1,0 +1,38 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Parola più frequente: 'women' (×99)
+[TEXT]   AS_Gus_AS2_P44_P45
+Women’s access to education in Nigeria: obstacles and achievements
+
+Abstract
+“Women’s access to education in Nigeria: obstacles and achievements.”
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Parola più frequente: 'digital' (×55)
+[TEXT]   AS_Gus_AS2_P46_P47
+‘Digital Authoritarianism in Africa and the Role of China in Providing Technology to Curb Human Rights’
+Introduction
+Digital authoritarianism is a term used to describe the use of digital technologies, such as the internet and social media, by governments to suppress dissent, restrict the freedom of expression, and monitor the activities of citizens.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Parola più frequente: 'south' (×77)
+[TEXT]   AS_Gus_AS2_P48_P49_P50
+“For the first time we feel at home in our house”: daily life in experiences of transgender people in South Africa, between laws and social perception
+
+INDEX
+Introduction
+The main objective of this paper is to investigate the meaning of being transexual in today’s South Africa, reflecting on transexuality’s daily consequences at a legal, social and relational level.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Parola più frequente: 'italian' (×44)
+[TEXT]   AS_Gus_AS2_P51_P52
+The Sexualization of African Women during the Colonial period in the Italian Empire
+Introduction
+Since the very beginning, Italian colonialism has been characterized by the exercise of power on African people, more specifically, in the area of the Horn of Africa.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Parola più frequente: 'food' (×144)
+[TEXT]   AS_Gus_AS2_P53_P171
+Urbanization, food insecurity and food desert framing in the African context
+
+Introduction
+

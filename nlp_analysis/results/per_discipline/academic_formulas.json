@@ -1,0 +1,270 @@
+{
+  "AS_Gus": {
+    "total_count": 82,
+    "density_per_1000_tokens": 1.95,
+    "unique_formula_ratio": 0.6,
+    "formula_counts": {
+      "in order to": 27,
+      "for instance": 13,
+      "for example": 12,
+      "on the other hand": 11,
+      "on the one hand": 5,
+      "as a result": 4,
+      "in terms of": 4,
+      "in conclusion": 2,
+      "as mentioned above": 1,
+      "according to the author": 1,
+      "the author argues that": 1,
+      "in other words": 1
+    },
+    "unique_formulas_found": [
+      "according to the author",
+      "as a result",
+      "as mentioned above",
+      "for example",
+      "for instance",
+      "in conclusion",
+      "in order to",
+      "in other words",
+      "in terms of",
+      "on the one hand",
+      "on the other hand",
+      "the author argues that"
+    ]
+  },
+  "CILE_Pol": {
+    "total_count": 54,
+    "density_per_1000_tokens": 2.11,
+    "unique_formula_ratio": 0.3,
+    "formula_counts": {
+      "for example": 18,
+      "in order to": 13,
+      "for instance": 10,
+      "in terms of": 7,
+      "on the other hand": 5,
+      "on the one hand": 1
+    },
+    "unique_formulas_found": [
+      "for example",
+      "for instance",
+      "in order to",
+      "in terms of",
+      "on the one hand",
+      "on the other hand"
+    ]
+  },
+  "CLA_Pol": {
+    "total_count": 44,
+    "density_per_1000_tokens": 3.63,
+    "unique_formula_ratio": 0.35,
+    "formula_counts": {
+      "in order to": 22,
+      "for example": 11,
+      "on the other hand": 6,
+      "in conclusion": 2,
+      "with regard to": 1,
+      "for instance": 1,
+      "in terms of": 1
+    },
+    "unique_formulas_found": [
+      "for example",
+      "for instance",
+      "in conclusion",
+      "in order to",
+      "in terms of",
+      "on the other hand",
+      "with regard to"
+    ]
+  },
+  "CPH_Mor": {
+    "total_count": 59,
+    "density_per_1000_tokens": 2.61,
+    "unique_formula_ratio": 0.55,
+    "formula_counts": {
+      "for example": 23,
+      "in order to": 12,
+      "on the other hand": 5,
+      "for instance": 5,
+      "in terms of": 4,
+      "as a result": 3,
+      "in conclusion": 3,
+      "with regard to": 1,
+      "on the one hand": 1,
+      "as mentioned above": 1,
+      "in other words": 1
+    },
+    "unique_formulas_found": [
+      "as a result",
+      "as mentioned above",
+      "for example",
+      "for instance",
+      "in conclusion",
+      "in order to",
+      "in other words",
+      "in terms of",
+      "on the one hand",
+      "on the other hand",
+      "with regard to"
+    ]
+  },
+  "DEIC_San": {
+    "total_count": 7,
+    "density_per_1000_tokens": 2.76,
+    "unique_formula_ratio": 0.25,
+    "formula_counts": {
+      "on the other hand": 3,
+      "for example": 1,
+      "for instance": 1,
+      "as a result": 1,
+      "in order to": 1
+    },
+    "unique_formulas_found": [
+      "as a result",
+      "for example",
+      "for instance",
+      "in order to",
+      "on the other hand"
+    ]
+  },
+  "ELClass_Zot": {
+    "total_count": 9,
+    "density_per_1000_tokens": 3.34,
+    "unique_formula_ratio": 0.05,
+    "formula_counts": {
+      "for example": 9
+    },
+    "unique_formulas_found": [
+      "for example"
+    ]
+  },
+  "ELSPS_Zot": {
+    "total_count": 28,
+    "density_per_1000_tokens": 4.71,
+    "unique_formula_ratio": 0.2,
+    "formula_counts": {
+      "for example": 18,
+      "in order to": 6,
+      "on the other hand": 2,
+      "for instance": 2
+    },
+    "unique_formulas_found": [
+      "for example",
+      "for instance",
+      "in order to",
+      "on the other hand"
+    ]
+  },
+  "EOK_Geu": {
+    "total_count": 36,
+    "density_per_1000_tokens": 2.21,
+    "unique_formula_ratio": 0.35,
+    "formula_counts": {
+      "for example": 17,
+      "in terms of": 7,
+      "in order to": 4,
+      "on the other hand": 3,
+      "for instance": 2,
+      "in other words": 2,
+      "as a result": 1
+    },
+    "unique_formulas_found": [
+      "as a result",
+      "for example",
+      "for instance",
+      "in order to",
+      "in other words",
+      "in terms of",
+      "on the other hand"
+    ]
+  },
+  "GLD_Gog": {
+    "total_count": 30,
+    "density_per_1000_tokens": 2.73,
+    "unique_formula_ratio": 0.45,
+    "formula_counts": {
+      "for example": 10,
+      "in order to": 8,
+      "on the other hand": 3,
+      "for instance": 2,
+      "as a result": 2,
+      "in terms of": 2,
+      "in other words": 1,
+      "in conclusion": 1,
+      "as mentioned above": 1
+    },
+    "unique_formulas_found": [
+      "as a result",
+      "as mentioned above",
+      "for example",
+      "for instance",
+      "in conclusion",
+      "in order to",
+      "in other words",
+      "in terms of",
+      "on the other hand"
+    ]
+  },
+  "NAL_Car": {
+    "total_count": 32,
+    "density_per_1000_tokens": 5.63,
+    "unique_formula_ratio": 0.35,
+    "formula_counts": {
+      "in order to": 19,
+      "for example": 4,
+      "on the other hand": 3,
+      "in conclusion": 2,
+      "for instance": 2,
+      "the author argues that": 1,
+      "on the one hand": 1
+    },
+    "unique_formulas_found": [
+      "for example",
+      "for instance",
+      "in conclusion",
+      "in order to",
+      "on the one hand",
+      "on the other hand",
+      "the author argues that"
+    ]
+  },
+  "NAL_DiL": {
+    "total_count": 3,
+    "density_per_1000_tokens": 0.39,
+    "unique_formula_ratio": 0.1,
+    "formula_counts": {
+      "on the other hand": 2,
+      "in order to": 1
+    },
+    "unique_formulas_found": [
+      "in order to",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon": {
+    "total_count": 89,
+    "density_per_1000_tokens": 2.4,
+    "unique_formula_ratio": 0.45,
+    "formula_counts": {
+      "for example": 46,
+      "in order to": 25,
+      "on the other hand": 7,
+      "for instance": 3,
+      "as a result": 3,
+      "in terms of": 2,
+      "with regard to": 1,
+      "as mentioned above": 1,
+      "in other words": 1
+    },
+    "unique_formulas_found": [
+      "as a result",
+      "as mentioned above",
+      "for example",
+      "for instance",
+      "in order to",
+      "in other words",
+      "in terms of",
+      "on the other hand",
+      "with regard to"
+    ]
+  }
+}

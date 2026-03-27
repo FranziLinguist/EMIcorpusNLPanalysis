@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: data_evidence (soggetto: 'Statistics')
+[TEXT]   Statistics in the report show that the increase in women's educational achievements is inversely proportional to the size of their families.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Agentività: data_evidence (soggetto: 'evidence')
+[TEXT]   Clear evidence of this is the high number of internet-caused arrests throughout the country.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Agentività: data_evidence (soggetto: 'measurements')
+[TEXT]   Such measurements become severer during political instability.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Agentività: data_evidence (soggetto: 'analysis')
+[TEXT]   This analysis tried to unriddle the perilous path of using digital tools in undemocratic ways and the double-edged aspect of social media.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Agentività: data_evidence (soggetto: 'survey')
+[TEXT]   A survey conducted by the Other Foundation17 and the Human Sciences Research Council18, between 2012 and 2015, shows what South Africans think about LGBTQI+ people.
+

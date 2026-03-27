@@ -1,0 +1,16 @@
+======================================================================
+  DEPENDENCY PARSING  –  PER DISCIPLINA
+======================================================================
+
+AS_Gus: [('punct', 7118), ('prep', 5441), ('pobj', 5362), ('det', 4265), ('amod', 3889), ('conj', 2282), ('nsubj', 2242), ('compound', 2077)]
+CILE_Pol: [('det', 3218), ('punct', 3185), ('pobj', 2981), ('prep', 2970), ('amod', 2028), ('nsubj', 1859), ('dobj', 1381), ('compound', 1253)]
+CLA_Pol: [('det', 1568), ('prep', 1485), ('pobj', 1455), ('punct', 1409), ('amod', 898), ('nsubj', 841), ('dobj', 654), ('aux', 555)]
+CPH_Mor: [('prep', 3048), ('pobj', 2992), ('punct', 2562), ('det', 2397), ('amod', 2093), ('nsubj', 1537), ('conj', 1208), ('dobj', 1122)]
+DEIC_San: [('punct', 554), ('pobj', 347), ('prep', 345), ('amod', 227), ('det', 216), ('compound', 190), ('conj', 167), ('ROOT', 137)]
+ELClass_Zot: [('punct', 374), ('det', 347), ('pobj', 308), ('prep', 304), ('nsubj', 237), ('amod', 233), ('ROOT', 165), ('dobj', 130)]
+ELSPS_Zot: [('punct', 968), ('det', 736), ('prep', 660), ('pobj', 637), ('nsubj', 460), ('dobj', 396), ('ROOT', 330), ('amod', 327)]
+EOK_Geu: [('punct', 3023), ('prep', 2067), ('pobj', 1972), ('amod', 1413), ('det', 1342), ('compound', 1213), ('conj', 978), ('nsubj', 974)]
+GLD_Gog: [('punct', 1561), ('prep', 1405), ('pobj', 1347), ('det', 1192), ('amod', 1020), ('conj', 681), ('nsubj', 635), ('dobj', 538)]
+NAL_Car: [('prep', 770), ('pobj', 768), ('punct', 722), ('det', 600), ('nsubj', 412), ('amod', 386), ('compound', 280), ('dobj', 254)]
+NAL_DiL: [('punct', 1177), ('prep', 945), ('pobj', 924), ('det', 819), ('nsubj', 668), ('amod', 455), ('dobj', 414), ('conj', 369)]
+SCSA_Bon: [('punct', 5704), ('prep', 4467), ('pobj', 4466), ('det', 4426), ('amod', 3010), ('nsubj', 2605), ('ROOT', 2049), ('compound', 2037)]

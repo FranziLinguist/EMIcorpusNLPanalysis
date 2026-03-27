@@ -1,0 +1,8002 @@
+{
+  "AS_Gus_AS2_P44_P45": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9999
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "AS_Gus_AS2_P46_P47": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9999
+      }
+    ]
+  },
+  "AS_Gus_AS2_P48_P49_P50": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9999
+      }
+    ]
+  },
+  "AS_Gus_AS2_P51_P52": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9999
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "AS_Gus_AS2_P53_P171": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9999
+      }
+    ]
+  },
+  "AS_Gus_AS1_P171": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P171.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9997,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9997
+      }
+    ]
+  },
+  "AS_Gus_AS1_P43": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.727,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2727
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.727
+      }
+    ]
+  },
+  "AS_Gus_AS1_P44": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P44.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9026,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0971
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9026
+      }
+    ]
+  },
+  "AS_Gus_AS1_P46": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.518,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.4818
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.518
+      }
+    ]
+  },
+  "AS_Gus_AS1_P47": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P47.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.6272,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.3726
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.6272
+      }
+    ]
+  },
+  "AS_Gus_AS1_P48": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P48.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9902,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0095
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9902
+      }
+    ]
+  },
+  "AS_Gus_AS1_P51": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P51.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.8455,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.1542
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.8455
+      }
+    ]
+  },
+  "AS_Gus_AS1_P52": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P52.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.7014,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2983
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.7014
+      }
+    ]
+  },
+  "AS_Gus_AS1_P53": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P53.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.5031,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.4966
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.5031
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P110": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P110.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P111": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P111.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P112": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P112.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9989,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9989
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P113": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P113.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P114.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9983,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9983
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P115": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P115.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P116": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P116.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P117": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P117.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P118": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P118.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P119": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P119.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P120": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P120.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9986,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9986
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P121": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P121.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P122": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P122.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P123": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P123.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P124": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P124.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P125": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P125.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS1_P126": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P126.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P113": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P113.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P114.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P116": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P116.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P120": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P120.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P122": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P122.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P123": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS2_P124": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P124.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P110": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P110.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P111": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P111.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P114.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P115": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P115.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P117": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P117.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P118": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P118.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P119": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P119.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P121": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P121.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9996,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9996
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P125": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P125.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P126": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P126.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CILE_Pol_AS3_P127": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P127.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol _AS1_P136": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol _AS1_P136.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.7715,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.7715
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2278
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P128": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P128.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.721,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.721
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2785
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P129": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P129.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P130": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P130.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.8299,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.8299
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.1696
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P131": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P131.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.7469,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.7469
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2525
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P132": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P132.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P133": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P133.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.883,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.883
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.1166
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P134": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P134.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P135": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P135.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.911,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0884
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.911
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P137": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P137.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.7886,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.7886
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2103
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P138": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P138.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P139": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P139.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9979,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9979
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0004
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P140": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P140.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P141": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P141.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9597,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9597
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0393
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P142": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P142.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P143": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P143.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P144": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P144.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P145": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P145.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CLA_Pol_AS1_P146": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P146.docx",
+    "dominant_topic": 2,
+    "dominant_topic_prob": 0.9989,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.9989
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P1": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P1.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.9985,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.9985
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P10": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P10.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.5803,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.5803
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4185
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P11": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P11.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9389,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0606
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9389
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P12": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P12.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.5129,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.5129
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4864
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P13": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P13.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.5635,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.4072
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0289
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.5635
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P14": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P14.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.5524,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.5524
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4468
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P15": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P15.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9335,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9335
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0309
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.035
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P16": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P16.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P17": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P17.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.7837,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.2159
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.7837
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P2": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P2.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.8113,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1839
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.8113
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0043
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P3": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P3.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.6424,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1597
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.6424
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.1973
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P4": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P4.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P5": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P5.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9985,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9985
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P6": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P6.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.6866,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.6866
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.3127
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P7": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P7.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P8": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P8.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CPH_Mor_AS1_P9": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P9.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P1": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P1.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.9985,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.9985
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P18": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P18.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9991
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P19": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P19.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.6949,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0651
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.6949
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.2396
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P20": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P20.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9993
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P21": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P21.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9994
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P22": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P22.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.6155,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.3841
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.6155
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P23": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P23.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9992
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P24": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P24.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.8632,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.136
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.8632
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P25": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P25.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9993
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P26": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P26.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.5092,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.5092
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4903
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P27": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P27.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9988
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P28": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P28.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.6934,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.3061
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.6934
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P29": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P29.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9993
+      }
+    ]
+  },
+  "CPH_Mor_AS2_P30": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P30.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.6474,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.3519
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.6474
+      }
+    ]
+  },
+  "DEIC_San_AS1_P35_P38_P41_P164": {
+    "discipline": "DEIC_San",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Sanfilippo_TRASCRIZIONI/DEIC_San_AS1_P35_P38_P41_P164.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9998,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9998
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "ELClass_Zot_AS1_P157": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELCLass_Zot_AS1/ELClass_Zot_AS1_P157.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.7177,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.7177
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.2813
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ELClass_Zot_AS2_P158": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P158.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9977,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9977
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0004
+      }
+    ]
+  },
+  "ELClass_Zot_AS2_P159": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P159.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "ELClass_Zot_AS2_P161": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P161.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9977,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9977
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0004
+      }
+    ]
+  },
+  "ELClass_Zot_AS2_P163": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P163.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9984,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9984
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ELClass_Zot_AS3_P160": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P160.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.5573,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.5573
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.4416
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ELClass_Zot_AS3_P162": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P162.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.5576,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.5576
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.4409
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "ALSPS_Zot_AS1_P147": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P147.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "ALSPS_Zot_AS1_P149": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P149.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.997,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.997
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0006
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0006
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0005
+      }
+    ]
+  },
+  "ALSPS_Zot_AS1_P152": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P152.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ALSPS_Zot_AS2_P148": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P148.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ALSPS_Zot_AS2_P155": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P155.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "ALSPS_Zot_AS3_P150": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P150.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "ALSPS_Zot_AS3_P151": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P151.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9987,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9987
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ALSPS_Zot_AS3_P153": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P153.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "ALSPS_Zot_AS4_P154": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P154.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "ALSPS_Zot_AS4_P156": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P156.docx",
+    "dominant_topic": 0,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS2_P34_P35_P40": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P34_P35_P40.docx",
+    "dominant_topic": 1,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.9999
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "EOK_Geu_AS2_P39_P164_P165": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P39_P164_P165.docx",
+    "dominant_topic": 4,
+    "dominant_topic_prob": 0.9999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.9999
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P34": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P34.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.6623,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.3371
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.6623
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P35": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P35.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.6725,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.6725
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.1585
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.1684
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P36": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P36.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P37": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P37.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.5361,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.4631
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.5361
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P38": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P38.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.7874,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.2117
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.7874
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "EOK_Geu_AS1_P39": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P39.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.7019,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.7019
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.1382
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.1595
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS3_P164": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P164.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS3_P165": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P165.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9922,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0072
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9922
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS3_P40": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P40.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.7791,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.7791
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.2194
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "EOK_Geu_AS3_P41": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P41.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "EOK_Geu_AS3_P42": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P42.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "GLD_Gog_AS1_P169_P170": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P169_P170.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.9614,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0384
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.9614
+      }
+    ]
+  },
+  "GLD_Gog_AS1_P16_P167_P168": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P16_P167_P168.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9998,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9998
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "GLD_Gog_AS1_P26": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P26.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9998,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9998
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "GLD_Gog_AS1_P31_P32_P33": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P31_P32_P33.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9998,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9998
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0
+      }
+    ]
+  },
+  "NAL_Car_AS1_P100": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P100.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9641,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9641
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0348
+      }
+    ]
+  },
+  "NAL_Car_AS1_P101": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P101.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.4596,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0972
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.4426
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4596
+      }
+    ]
+  },
+  "NAL_Car_AS1_P102": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P102.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "NAL_Car_AS1_P103": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P103.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.5152,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.5152
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.4839
+      }
+    ]
+  },
+  "NAL_Car_AS1_P104": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P104.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.8429,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.1563
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.8429
+      }
+    ]
+  },
+  "NAL_Car_AS1_P172": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.987,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0125
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.987
+      }
+    ]
+  },
+  "NAL_Car_AS1_P98": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P98.docx",
+    "dominant_topic": 7,
+    "dominant_topic_prob": 0.8671,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.1323
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.8671
+      }
+    ]
+  },
+  "NAL_Car_AS1_P99": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P99.docx",
+    "dominant_topic": 3,
+    "dominant_topic_prob": 0.7178,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.7178
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.2816
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P105": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P105.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9996,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9996
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P106": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P106.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P107": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P107.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P108": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P108.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.7759,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.7759
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.2237
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P109": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P109.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "NAL_DiL_AS1_P166": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P166.docx",
+    "dominant_topic": 5,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P54": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P54.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9754,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0234
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9754
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P55": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P55.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P56": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P56.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.8729,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1263
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.8729
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P57": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P57.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.8949,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1046
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.8949
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P58": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P58.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P59": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P59.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P60": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P60.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P61": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P61.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9997,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9997
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P62": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P62.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P63": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P63.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P64": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P64.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P65": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P65.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P66": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P66.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P67": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P67.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.999,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.999
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P68": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P68.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.894,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.105
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.894
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P69": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P69.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P70": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P70.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P71": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P71.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9315,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.068
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9315
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS1_P72": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P72.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.8775,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1215
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.8775
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P54": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P54.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P56": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P56.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P62": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P62.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9987,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9987
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P67": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P67.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P68": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P68.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.8767,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1226
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.8767
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P69": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P69.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P70": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P70.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P72": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P72.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.8916,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.1073
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.8916
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P73": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P73.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P74": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P74.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P75": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P75.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P76": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P76.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P77": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P77.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9996,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9996
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P78": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P78.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9987,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9987
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P79": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P79.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9985,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9985
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P80": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P80.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P81": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P81.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P82": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P82.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P83": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P83.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9988,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9988
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P84": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P84.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.998,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0004
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.998
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P85": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P85.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9985,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0003
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9985
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0003
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P86": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P86.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P87": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P87.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9993,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9993
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P88": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P88.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9991,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9991
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0002
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P89": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P89.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P90": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P90.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P91": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P91.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P92": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P92.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9996,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9996
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P93": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P93.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9995,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9995
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P94": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P94.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P95": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P95.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9994,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9994
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P96": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P96.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9996,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9996
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  },
+  "SCSA_Bon_AS2_P97": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P97.docx",
+    "dominant_topic": 6,
+    "dominant_topic_prob": 0.9992,
+    "topic_distribution": [
+      {
+        "topic_id": 0,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 1,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 2,
+        "probability": 0.0002
+      },
+      {
+        "topic_id": 3,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 4,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 5,
+        "probability": 0.0001
+      },
+      {
+        "topic_id": 6,
+        "probability": 0.9992
+      },
+      {
+        "topic_id": 7,
+        "probability": 0.0001
+      }
+    ]
+  }
+}

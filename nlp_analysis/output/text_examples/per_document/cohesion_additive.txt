@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 19)
+[LABEL]  Connettivo additive: 'also'
+[TEXT]   The migration is also influenced by one of the current main problems of the country: the continuous fight against the terroristic action by Boko Haram that caused numerous escapes and refugees to seek asylum; and the Herder– farmer conflict, a continuous clash between Muslims and Christians in the centre of Nigeria.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 20)
+[LABEL]  Connettivo additive: 'in addition'
+[TEXT]   In addition to issues of poverty, declining social development and general inequalities, Nigeria are facing another important problem that, if resolved, could not only change the economic flow of the country but also give a cultural reset to achieve more equity and independence for women and other marginalized groups: the lack of education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 20)
+[LABEL]  Connettivo additive: 'also'
+[TEXT]   In addition to issues of poverty, declining social development and general inequalities, Nigeria are facing another important problem that, if resolved, could not only change the economic flow of the country but also give a cultural reset to achieve more equity and independence for women and other marginalized groups: the lack of education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 42)
+[LABEL]  Connettivo additive: 'furthermore'
+[TEXT]   Furthermore, during the first years of the XXI century, an important set of policy initiatives have been embarked on by the Nigerian government.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 47)
+[LABEL]  Connettivo additive: 'additionally'
+[TEXT]   Additionally, as the data confirms, the illiteracy rate among adult females (70%) is higher than the rate among adult males (46%) (Singh et al., 1992).
+

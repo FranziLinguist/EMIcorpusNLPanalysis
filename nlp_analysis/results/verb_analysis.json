@@ -1,0 +1,5498 @@
+{
+  "per_document": {
+    "AS_Gus_AS2_P44_P45": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx",
+      "total_verbs": 622,
+      "modal_counts": {
+        "will": 10,
+        "could": 1,
+        "must": 10,
+        "can": 8,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "volition": 10,
+        "ability": 9,
+        "permission": 9,
+        "possibility": 1,
+        "obligation": 11
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "strong_claim": 10,
+        "ability": 8,
+        "recommendation": 1
+      },
+      "passive_count": 43,
+      "active_count": 400,
+      "passive_ratio": 0.0971,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS2_P46_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx",
+      "total_verbs": 706,
+      "modal_counts": {
+        "may": 3,
+        "can": 13,
+        "will": 2,
+        "must": 1,
+        "might": 2,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "permission": 17,
+        "possibility": 6,
+        "ability": 14,
+        "volition": 2,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 6,
+        "ability": 13,
+        "strong_claim": 1
+      },
+      "passive_count": 76,
+      "active_count": 400,
+      "passive_ratio": 0.1597,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS2_P48_P49_P50": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx",
+      "total_verbs": 1209,
+      "modal_counts": {
+        "will": 13,
+        "can": 22,
+        "may": 4,
+        "could": 8,
+        "would": 7,
+        "should": 7,
+        "must": 2,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "volition": 20,
+        "ability": 30,
+        "permission": 34,
+        "possibility": 13,
+        "obligation": 9
+      },
+      "epistemic_counts": {
+        "ability": 22,
+        "hedging": 13,
+        "recommendation": 7,
+        "strong_claim": 2
+      },
+      "passive_count": 137,
+      "active_count": 669,
+      "passive_ratio": 0.17,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS2_P51_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx",
+      "total_verbs": 506,
+      "modal_counts": {
+        "must": 1,
+        "can": 7,
+        "will": 4,
+        "would": 5,
+        "could": 3
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 10,
+        "permission": 10,
+        "volition": 9,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "strong_claim": 1,
+        "ability": 7,
+        "hedging": 3
+      },
+      "passive_count": 58,
+      "active_count": 293,
+      "passive_ratio": 0.1652,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS2_P53_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx",
+      "total_verbs": 488,
+      "modal_counts": {
+        "may": 6,
+        "can": 6,
+        "will": 3,
+        "would": 5,
+        "could": 6
+      },
+      "modal_category_counts": {
+        "permission": 18,
+        "possibility": 12,
+        "ability": 12,
+        "volition": 8
+      },
+      "epistemic_counts": {
+        "hedging": 12,
+        "ability": 6
+      },
+      "passive_count": 45,
+      "active_count": 276,
+      "passive_ratio": 0.1402,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P171.docx",
+      "total_verbs": 301,
+      "modal_counts": {
+        "would": 2,
+        "could": 3,
+        "should": 5,
+        "can": 4
+      },
+      "modal_category_counts": {
+        "volition": 2,
+        "ability": 7,
+        "permission": 7,
+        "possibility": 3,
+        "obligation": 5
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "recommendation": 5,
+        "ability": 4
+      },
+      "passive_count": 30,
+      "active_count": 166,
+      "passive_ratio": 0.1531,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P43": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx",
+      "total_verbs": 302,
+      "modal_counts": {
+        "can": 7,
+        "might": 1,
+        "must": 2,
+        "may": 1,
+        "would": 2,
+        "should": 3
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 8,
+        "possibility": 2,
+        "obligation": 5,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "hedging": 2,
+        "strong_claim": 2,
+        "recommendation": 3
+      },
+      "passive_count": 27,
+      "active_count": 166,
+      "passive_ratio": 0.1399,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P44": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P44.docx",
+      "total_verbs": 282,
+      "modal_counts": {
+        "can": 6,
+        "would": 1,
+        "should": 2,
+        "will": 2
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "volition": 3,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "recommendation": 2
+      },
+      "passive_count": 25,
+      "active_count": 167,
+      "passive_ratio": 0.1302,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P46": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx",
+      "total_verbs": 296,
+      "modal_counts": {
+        "will": 2,
+        "might": 5,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "volition": 4,
+        "possibility": 5
+      },
+      "epistemic_counts": {
+        "hedging": 5
+      },
+      "passive_count": 23,
+      "active_count": 170,
+      "passive_ratio": 0.1192,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P47.docx",
+      "total_verbs": 301,
+      "modal_counts": {
+        "can": 6,
+        "would": 4,
+        "might": 4,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 7,
+        "volition": 4,
+        "possibility": 5
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 5
+      },
+      "passive_count": 19,
+      "active_count": 158,
+      "passive_ratio": 0.1073,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P48": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P48.docx",
+      "total_verbs": 276,
+      "modal_counts": {
+        "can": 5,
+        "will": 1,
+        "could": 1,
+        "must": 4,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "volition": 1,
+        "possibility": 1,
+        "obligation": 5
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "hedging": 1,
+        "strong_claim": 4,
+        "recommendation": 1
+      },
+      "passive_count": 28,
+      "active_count": 149,
+      "passive_ratio": 0.1582,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P51": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P51.docx",
+      "total_verbs": 262,
+      "modal_counts": {
+        "can": 5,
+        "might": 1,
+        "will": 2,
+        "may": 1,
+        "would": 3,
+        "could": 1,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 7,
+        "possibility": 3,
+        "volition": 5,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "hedging": 3,
+        "strong_claim": 1
+      },
+      "passive_count": 24,
+      "active_count": 140,
+      "passive_ratio": 0.1463,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P52.docx",
+      "total_verbs": 326,
+      "modal_counts": {
+        "can": 5,
+        "should": 6,
+        "could": 5,
+        "may": 10,
+        "would": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 20,
+        "obligation": 6,
+        "possibility": 15,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "recommendation": 6,
+        "hedging": 15
+      },
+      "passive_count": 32,
+      "active_count": 185,
+      "passive_ratio": 0.1475,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "AS_Gus_AS1_P53": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P53.docx",
+      "total_verbs": 281,
+      "modal_counts": {
+        "should": 1,
+        "will": 3,
+        "can": 6,
+        "would": 6,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "volition": 9,
+        "ability": 6,
+        "permission": 7,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "ability": 6,
+        "hedging": 1
+      },
+      "passive_count": 25,
+      "active_count": 172,
+      "passive_ratio": 0.1269,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P110.docx",
+      "total_verbs": 157,
+      "modal_counts": {
+        "can": 8,
+        "will": 7,
+        "would": 1,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 8,
+        "permission": 9,
+        "volition": 8,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "hedging": 1
+      },
+      "passive_count": 22,
+      "active_count": 70,
+      "passive_ratio": 0.2391,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P111.docx",
+      "total_verbs": 106,
+      "modal_counts": {
+        "can": 9,
+        "could": 2,
+        "may": 1,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 12,
+        "possibility": 3,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 9,
+        "hedging": 3,
+        "recommendation": 1
+      },
+      "passive_count": 10,
+      "active_count": 49,
+      "passive_ratio": 0.1695,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P112": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P112.docx",
+      "total_verbs": 99,
+      "modal_counts": {
+        "can": 3,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "strong_claim": 1
+      },
+      "passive_count": 9,
+      "active_count": 51,
+      "passive_ratio": 0.15,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P113.docx",
+      "total_verbs": 100,
+      "modal_counts": {
+        "could": 1,
+        "can": 7
+      },
+      "modal_category_counts": {
+        "ability": 8,
+        "permission": 8,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 7
+      },
+      "passive_count": 11,
+      "active_count": 49,
+      "passive_ratio": 0.1833,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P114.docx",
+      "total_verbs": 46,
+      "modal_counts": {
+        "will": 2,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "volition": 2,
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "ability": 2
+      },
+      "passive_count": 2,
+      "active_count": 23,
+      "passive_ratio": 0.08,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P115.docx",
+      "total_verbs": 79,
+      "modal_counts": {
+        "can": 4,
+        "could": 1,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "possibility": 1,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 1,
+        "recommendation": 1
+      },
+      "passive_count": 5,
+      "active_count": 46,
+      "passive_ratio": 0.098,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P116.docx",
+      "total_verbs": 194,
+      "modal_counts": {
+        "might": 3,
+        "can": 8,
+        "will": 5
+      },
+      "modal_category_counts": {
+        "possibility": 3,
+        "ability": 8,
+        "permission": 8,
+        "volition": 5
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "ability": 8
+      },
+      "passive_count": 25,
+      "active_count": 95,
+      "passive_ratio": 0.2083,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P117.docx",
+      "total_verbs": 119,
+      "modal_counts": {
+        "can": 4,
+        "would": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 4
+      },
+      "passive_count": 7,
+      "active_count": 63,
+      "passive_ratio": 0.1,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P118.docx",
+      "total_verbs": 110,
+      "modal_counts": {
+        "must": 4,
+        "can": 7,
+        "could": 3
+      },
+      "modal_category_counts": {
+        "obligation": 4,
+        "ability": 10,
+        "permission": 10,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "strong_claim": 4,
+        "ability": 7,
+        "hedging": 3
+      },
+      "passive_count": 9,
+      "active_count": 59,
+      "passive_ratio": 0.1324,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P119.docx",
+      "total_verbs": 151,
+      "modal_counts": {
+        "can": 7,
+        "should": 2,
+        "could": 2,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 9,
+        "permission": 9,
+        "obligation": 3,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "recommendation": 2,
+        "hedging": 2,
+        "strong_claim": 1
+      },
+      "passive_count": 11,
+      "active_count": 91,
+      "passive_ratio": 0.1078,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P120.docx",
+      "total_verbs": 68,
+      "modal_counts": {
+        "must": 1,
+        "can": 3
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "strong_claim": 1,
+        "ability": 3
+      },
+      "passive_count": 7,
+      "active_count": 33,
+      "passive_ratio": 0.175,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P121.docx",
+      "total_verbs": 146,
+      "modal_counts": {
+        "can": 13,
+        "will": 4,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 13,
+        "permission": 13,
+        "volition": 4,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 13,
+        "recommendation": 1
+      },
+      "passive_count": 6,
+      "active_count": 93,
+      "passive_ratio": 0.0606,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P122.docx",
+      "total_verbs": 114,
+      "modal_counts": {
+        "can": 8,
+        "could": 2,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 10,
+        "possibility": 2,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "hedging": 2
+      },
+      "passive_count": 13,
+      "active_count": 55,
+      "passive_ratio": 0.1912,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P123.docx",
+      "total_verbs": 143,
+      "modal_counts": {
+        "could": 2,
+        "might": 3,
+        "can": 6,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 8,
+        "permission": 9,
+        "possibility": 6
+      },
+      "epistemic_counts": {
+        "hedging": 6,
+        "ability": 6
+      },
+      "passive_count": 16,
+      "active_count": 75,
+      "passive_ratio": 0.1758,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P124.docx",
+      "total_verbs": 145,
+      "modal_counts": {
+        "can": 10,
+        "will": 1,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 10,
+        "volition": 1,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 10,
+        "recommendation": 1
+      },
+      "passive_count": 9,
+      "active_count": 80,
+      "passive_ratio": 0.1011,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P125.docx",
+      "total_verbs": 142,
+      "modal_counts": {
+        "may": 3,
+        "can": 9
+      },
+      "modal_category_counts": {
+        "permission": 12,
+        "possibility": 3,
+        "ability": 9
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "ability": 9
+      },
+      "passive_count": 17,
+      "active_count": 65,
+      "passive_ratio": 0.2073,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS1_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P126.docx",
+      "total_verbs": 107,
+      "modal_counts": {
+        "can": 4,
+        "may": 2,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 6,
+        "possibility": 2,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 2,
+        "strong_claim": 1
+      },
+      "passive_count": 9,
+      "active_count": 63,
+      "passive_ratio": 0.125,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P113.docx",
+      "total_verbs": 132,
+      "modal_counts": {
+        "can": 6,
+        "must": 2
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "strong_claim": 2
+      },
+      "passive_count": 7,
+      "active_count": 95,
+      "passive_ratio": 0.0686,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P114.docx",
+      "total_verbs": 122,
+      "modal_counts": {
+        "can": 3,
+        "may": 8,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 11,
+        "possibility": 8,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "hedging": 8,
+        "strong_claim": 1
+      },
+      "passive_count": 8,
+      "active_count": 81,
+      "passive_ratio": 0.0899,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P116.docx",
+      "total_verbs": 235,
+      "modal_counts": {
+        "can": 9,
+        "will": 4,
+        "might": 7
+      },
+      "modal_category_counts": {
+        "ability": 9,
+        "permission": 9,
+        "volition": 4,
+        "possibility": 7
+      },
+      "epistemic_counts": {
+        "ability": 9,
+        "hedging": 7
+      },
+      "passive_count": 27,
+      "active_count": 125,
+      "passive_ratio": 0.1776,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P120.docx",
+      "total_verbs": 83,
+      "modal_counts": {
+        "can": 6,
+        "could": 1,
+        "may": 2
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 9,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 3
+      },
+      "passive_count": 6,
+      "active_count": 51,
+      "passive_ratio": 0.1053,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P122.docx",
+      "total_verbs": 123,
+      "modal_counts": {
+        "can": 9,
+        "could": 1,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 10,
+        "possibility": 1,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 9,
+        "hedging": 1
+      },
+      "passive_count": 9,
+      "active_count": 73,
+      "passive_ratio": 0.1098,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx",
+      "total_verbs": 168,
+      "modal_counts": {
+        "can": 7,
+        "shall": 3,
+        "may": 2,
+        "will": 1,
+        "should": 1,
+        "must": 1,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 9,
+        "obligation": 5,
+        "volition": 6,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "hedging": 2,
+        "recommendation": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 18,
+      "active_count": 97,
+      "passive_ratio": 0.1565,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS2_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P124.docx",
+      "total_verbs": 134,
+      "modal_counts": {
+        "can": 7,
+        "must": 1,
+        "will": 2,
+        "would": 1,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "obligation": 1,
+        "volition": 3,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "strong_claim": 1,
+        "hedging": 1
+      },
+      "passive_count": 12,
+      "active_count": 78,
+      "passive_ratio": 0.1333,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P110.docx",
+      "total_verbs": 196,
+      "modal_counts": {
+        "can": 8,
+        "could": 9,
+        "would": 10,
+        "will": 5
+      },
+      "modal_category_counts": {
+        "ability": 17,
+        "permission": 17,
+        "possibility": 9,
+        "volition": 15
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "hedging": 9
+      },
+      "passive_count": 15,
+      "active_count": 89,
+      "passive_ratio": 0.1442,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P111.docx",
+      "total_verbs": 124,
+      "modal_counts": {
+        "can": 9,
+        "could": 2,
+        "may": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 12,
+        "possibility": 3,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 9,
+        "hedging": 3
+      },
+      "passive_count": 11,
+      "active_count": 65,
+      "passive_ratio": 0.1447,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P114.docx",
+      "total_verbs": 98,
+      "modal_counts": {
+        "can": 2,
+        "may": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 3,
+        "possibility": 1,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "hedging": 1
+      },
+      "passive_count": 7,
+      "active_count": 68,
+      "passive_ratio": 0.0933,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P115.docx",
+      "total_verbs": 153,
+      "modal_counts": {
+        "can": 3,
+        "could": 7,
+        "would": 3,
+        "will": 3
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 10,
+        "possibility": 7,
+        "volition": 6
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "hedging": 7
+      },
+      "passive_count": 6,
+      "active_count": 88,
+      "passive_ratio": 0.0638,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P117.docx",
+      "total_verbs": 121,
+      "modal_counts": {
+        "can": 2,
+        "could": 1,
+        "would": 1,
+        "may": 9,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 12,
+        "possibility": 10,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "hedging": 10
+      },
+      "passive_count": 8,
+      "active_count": 68,
+      "passive_ratio": 0.1053,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P118.docx",
+      "total_verbs": 134,
+      "modal_counts": {
+        "can": 11,
+        "could": 3,
+        "would": 1,
+        "must": 4
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 14,
+        "possibility": 3,
+        "volition": 1,
+        "obligation": 4
+      },
+      "epistemic_counts": {
+        "ability": 11,
+        "hedging": 3,
+        "strong_claim": 4
+      },
+      "passive_count": 9,
+      "active_count": 75,
+      "passive_ratio": 0.1071,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P119.docx",
+      "total_verbs": 126,
+      "modal_counts": {
+        "must": 1,
+        "could": 1,
+        "may": 3,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 2,
+        "permission": 5,
+        "possibility": 4
+      },
+      "epistemic_counts": {
+        "strong_claim": 1,
+        "hedging": 4,
+        "ability": 1
+      },
+      "passive_count": 14,
+      "active_count": 67,
+      "passive_ratio": 0.1728,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P121.docx",
+      "total_verbs": 221,
+      "modal_counts": {
+        "can": 22,
+        "will": 9,
+        "may": 1,
+        "could": 1,
+        "must": 2
+      },
+      "modal_category_counts": {
+        "ability": 23,
+        "permission": 24,
+        "volition": 9,
+        "possibility": 2,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 22,
+        "hedging": 2,
+        "strong_claim": 2
+      },
+      "passive_count": 7,
+      "active_count": 134,
+      "passive_ratio": 0.0496,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P125.docx",
+      "total_verbs": 148,
+      "modal_counts": {
+        "can": 6,
+        "could": 1,
+        "may": 7,
+        "will": 4
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 14,
+        "possibility": 8,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 8
+      },
+      "passive_count": 12,
+      "active_count": 76,
+      "passive_ratio": 0.1364,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P126.docx",
+      "total_verbs": 145,
+      "modal_counts": {
+        "can": 17,
+        "could": 1,
+        "may": 7,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "ability": 18,
+        "permission": 25,
+        "possibility": 8,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 17,
+        "hedging": 8
+      },
+      "passive_count": 9,
+      "active_count": 74,
+      "passive_ratio": 0.1084,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol_AS3_P127": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P127.docx",
+      "total_verbs": 163,
+      "modal_counts": {
+        "would": 4,
+        "can": 10,
+        "could": 1,
+        "may": 2,
+        "must": 3,
+        "will": 3
+      },
+      "modal_category_counts": {
+        "volition": 7,
+        "ability": 11,
+        "permission": 13,
+        "possibility": 3,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "ability": 10,
+        "hedging": 3,
+        "strong_claim": 3
+      },
+      "passive_count": 13,
+      "active_count": 90,
+      "passive_ratio": 0.1262,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol _AS1_P136": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol _AS1_P136.docx",
+      "total_verbs": 95,
+      "modal_counts": {
+        "can": 2,
+        "must": 4,
+        "would": 1,
+        "might": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "obligation": 4,
+        "volition": 1,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "strong_claim": 4,
+        "hedging": 2
+      },
+      "passive_count": 7,
+      "active_count": 59,
+      "passive_ratio": 0.1061,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P128": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P128.docx",
+      "total_verbs": 154,
+      "modal_counts": {
+        "may": 7,
+        "can": 2,
+        "will": 5,
+        "must": 4
+      },
+      "modal_category_counts": {
+        "permission": 9,
+        "possibility": 7,
+        "ability": 2,
+        "volition": 5,
+        "obligation": 4
+      },
+      "epistemic_counts": {
+        "hedging": 7,
+        "ability": 2,
+        "strong_claim": 4
+      },
+      "passive_count": 11,
+      "active_count": 89,
+      "passive_ratio": 0.11,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P129": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P129.docx",
+      "total_verbs": 144,
+      "modal_counts": {
+        "would": 4,
+        "can": 4,
+        "may": 3,
+        "could": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "volition": 5,
+        "ability": 5,
+        "permission": 8,
+        "possibility": 4
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 4
+      },
+      "passive_count": 10,
+      "active_count": 92,
+      "passive_ratio": 0.098,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P130": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P130.docx",
+      "total_verbs": 205,
+      "modal_counts": {
+        "can": 8,
+        "must": 2,
+        "will": 10,
+        "would": 1,
+        "may": 2,
+        "might": 1,
+        "could": 2
+      },
+      "modal_category_counts": {
+        "ability": 10,
+        "permission": 12,
+        "obligation": 2,
+        "volition": 11,
+        "possibility": 5
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "strong_claim": 2,
+        "hedging": 5
+      },
+      "passive_count": 12,
+      "active_count": 119,
+      "passive_ratio": 0.0916,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P131": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P131.docx",
+      "total_verbs": 133,
+      "modal_counts": {
+        "can": 8,
+        "should": 2,
+        "must": 1,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 8,
+        "permission": 8,
+        "obligation": 3,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "recommendation": 2,
+        "strong_claim": 1
+      },
+      "passive_count": 11,
+      "active_count": 76,
+      "passive_ratio": 0.1264,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P132": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P132.docx",
+      "total_verbs": 108,
+      "modal_counts": {
+        "can": 4,
+        "will": 2,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "ability": 4
+      },
+      "passive_count": 12,
+      "active_count": 63,
+      "passive_ratio": 0.16,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P133": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P133.docx",
+      "total_verbs": 215,
+      "modal_counts": {
+        "can": 6,
+        "must": 2,
+        "could": 2,
+        "would": 3,
+        "should": 3
+      },
+      "modal_category_counts": {
+        "ability": 8,
+        "permission": 8,
+        "obligation": 5,
+        "possibility": 2,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "strong_claim": 2,
+        "hedging": 2,
+        "recommendation": 3
+      },
+      "passive_count": 25,
+      "active_count": 100,
+      "passive_ratio": 0.2,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P134": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P134.docx",
+      "total_verbs": 137,
+      "modal_counts": {
+        "can": 6,
+        "will": 11,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "volition": 13
+      },
+      "epistemic_counts": {
+        "ability": 6
+      },
+      "passive_count": 15,
+      "active_count": 64,
+      "passive_ratio": 0.1899,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P135": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P135.docx",
+      "total_verbs": 133,
+      "modal_counts": {
+        "can": 3,
+        "could": 1,
+        "will": 5,
+        "would": 1,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 5,
+        "possibility": 2,
+        "volition": 6
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "hedging": 2
+      },
+      "passive_count": 6,
+      "active_count": 93,
+      "passive_ratio": 0.0606,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P137": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P137.docx",
+      "total_verbs": 65,
+      "modal_counts": {
+        "would": 1
+      },
+      "modal_category_counts": {
+        "volition": 1
+      },
+      "epistemic_counts": {},
+      "passive_count": 9,
+      "active_count": 33,
+      "passive_ratio": 0.2143,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P138": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P138.docx",
+      "total_verbs": 144,
+      "modal_counts": {
+        "can": 7,
+        "could": 8,
+        "must": 6,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 15,
+        "permission": 15,
+        "possibility": 8,
+        "obligation": 8
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "hedging": 8,
+        "strong_claim": 6,
+        "recommendation": 2
+      },
+      "passive_count": 17,
+      "active_count": 69,
+      "passive_ratio": 0.1977,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P139": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P139.docx",
+      "total_verbs": 51,
+      "modal_counts": {
+        "can": 2,
+        "will": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 2
+      },
+      "passive_count": 1,
+      "active_count": 28,
+      "passive_ratio": 0.0345,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P140": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P140.docx",
+      "total_verbs": 78,
+      "modal_counts": {
+        "can": 7,
+        "will": 1,
+        "would": 3
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "ability": 7
+      },
+      "passive_count": 6,
+      "active_count": 45,
+      "passive_ratio": 0.1176,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P141": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P141.docx",
+      "total_verbs": 80,
+      "modal_counts": {
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 4,
+      "active_count": 55,
+      "passive_ratio": 0.0678,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P142": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P142.docx",
+      "total_verbs": 127,
+      "modal_counts": {
+        "will": 3,
+        "could": 6,
+        "would": 3,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "volition": 6,
+        "ability": 8,
+        "permission": 8,
+        "possibility": 6
+      },
+      "epistemic_counts": {
+        "hedging": 6,
+        "ability": 2
+      },
+      "passive_count": 8,
+      "active_count": 76,
+      "passive_ratio": 0.0952,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P143": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P143.docx",
+      "total_verbs": 94,
+      "modal_counts": {
+        "may": 2,
+        "can": 4,
+        "will": 3,
+        "would": 1,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "permission": 7,
+        "possibility": 3,
+        "ability": 5,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "ability": 4
+      },
+      "passive_count": 12,
+      "active_count": 46,
+      "passive_ratio": 0.2069,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P144": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P144.docx",
+      "total_verbs": 132,
+      "modal_counts": {
+        "can": 6,
+        "will": 8,
+        "may": 1,
+        "would": 1,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 8,
+        "volition": 9,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 2
+      },
+      "passive_count": 8,
+      "active_count": 79,
+      "passive_ratio": 0.092,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P145": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P145.docx",
+      "total_verbs": 105,
+      "modal_counts": {
+        "could": 1,
+        "will": 6,
+        "would": 4,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "possibility": 1,
+        "volition": 10
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1
+      },
+      "passive_count": 5,
+      "active_count": 70,
+      "passive_ratio": 0.0667,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol_AS1_P146": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P146.docx",
+      "total_verbs": 87,
+      "modal_counts": {
+        "can": 3,
+        "will": 2,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 8,
+      "active_count": 48,
+      "passive_ratio": 0.1429,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P1.docx",
+      "total_verbs": 51,
+      "modal_counts": {},
+      "modal_category_counts": {},
+      "epistemic_counts": {},
+      "passive_count": 1,
+      "active_count": 22,
+      "passive_ratio": 0.0435,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P10": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P10.docx",
+      "total_verbs": 53,
+      "modal_counts": {
+        "can": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "ability": 2
+      },
+      "passive_count": 5,
+      "active_count": 34,
+      "passive_ratio": 0.1282,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P11": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P11.docx",
+      "total_verbs": 117,
+      "modal_counts": {
+        "can": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "ability": 2
+      },
+      "passive_count": 0,
+      "active_count": 89,
+      "passive_ratio": 0.0,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P12": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P12.docx",
+      "total_verbs": 153,
+      "modal_counts": {
+        "could": 4,
+        "would": 4,
+        "can": 2,
+        "will": 1,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "possibility": 4,
+        "volition": 5,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "hedging": 4,
+        "ability": 2,
+        "recommendation": 2
+      },
+      "passive_count": 12,
+      "active_count": 74,
+      "passive_ratio": 0.1395,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P13": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P13.docx",
+      "total_verbs": 147,
+      "modal_counts": {
+        "can": 2,
+        "would": 1,
+        "could": 1,
+        "will": 1,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "volition": 2,
+        "possibility": 1,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "hedging": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 10,
+      "active_count": 93,
+      "passive_ratio": 0.0971,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P14": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P14.docx",
+      "total_verbs": 124,
+      "modal_counts": {
+        "will": 1,
+        "could": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "volition": 2,
+        "ability": 1,
+        "permission": 1,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1
+      },
+      "passive_count": 8,
+      "active_count": 79,
+      "passive_ratio": 0.092,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P15": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P15.docx",
+      "total_verbs": 118,
+      "modal_counts": {
+        "can": 1,
+        "would": 1,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1,
+        "volition": 1,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 1,
+        "recommendation": 2
+      },
+      "passive_count": 12,
+      "active_count": 70,
+      "passive_ratio": 0.1463,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P16": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P16.docx",
+      "total_verbs": 103,
+      "modal_counts": {
+        "could": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1
+      },
+      "passive_count": 15,
+      "active_count": 65,
+      "passive_ratio": 0.1875,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P17": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P17.docx",
+      "total_verbs": 189,
+      "modal_counts": {
+        "could": 3,
+        "would": 3,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "possibility": 3,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "ability": 1
+      },
+      "passive_count": 22,
+      "active_count": 107,
+      "passive_ratio": 0.1705,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P2": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P2.docx",
+      "total_verbs": 147,
+      "modal_counts": {
+        "could": 1,
+        "can": 4
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 4
+      },
+      "passive_count": 18,
+      "active_count": 86,
+      "passive_ratio": 0.1731,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P3": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P3.docx",
+      "total_verbs": 112,
+      "modal_counts": {
+        "can": 4,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "recommendation": 1
+      },
+      "passive_count": 12,
+      "active_count": 72,
+      "passive_ratio": 0.1429,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P4": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P4.docx",
+      "total_verbs": 176,
+      "modal_counts": {
+        "would": 1,
+        "could": 6
+      },
+      "modal_category_counts": {
+        "volition": 1,
+        "ability": 6,
+        "permission": 6,
+        "possibility": 6
+      },
+      "epistemic_counts": {
+        "hedging": 6
+      },
+      "passive_count": 13,
+      "active_count": 103,
+      "passive_ratio": 0.1121,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P5": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P5.docx",
+      "total_verbs": 49,
+      "modal_counts": {
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 9,
+      "active_count": 24,
+      "passive_ratio": 0.2727,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P6": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P6.docx",
+      "total_verbs": 99,
+      "modal_counts": {
+        "can": 1,
+        "could": 4
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "possibility": 4
+      },
+      "epistemic_counts": {
+        "ability": 1,
+        "hedging": 4
+      },
+      "passive_count": 9,
+      "active_count": 67,
+      "passive_ratio": 0.1184,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P7": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P7.docx",
+      "total_verbs": 131,
+      "modal_counts": {
+        "could": 2,
+        "will": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "possibility": 2,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 1
+      },
+      "passive_count": 19,
+      "active_count": 72,
+      "passive_ratio": 0.2088,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P8": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P8.docx",
+      "total_verbs": 98,
+      "modal_counts": {
+        "would": 6,
+        "could": 2
+      },
+      "modal_category_counts": {
+        "volition": 6,
+        "ability": 2,
+        "permission": 2,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2
+      },
+      "passive_count": 7,
+      "active_count": 54,
+      "passive_ratio": 0.1148,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS1_P9": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P9.docx",
+      "total_verbs": 168,
+      "modal_counts": {
+        "can": 6,
+        "would": 3,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "volition": 3,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 1
+      },
+      "passive_count": 19,
+      "active_count": 103,
+      "passive_ratio": 0.1557,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P1.docx",
+      "total_verbs": 66,
+      "modal_counts": {},
+      "modal_category_counts": {},
+      "epistemic_counts": {},
+      "passive_count": 0,
+      "active_count": 30,
+      "passive_ratio": 0.0,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P18": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P18.docx",
+      "total_verbs": 90,
+      "modal_counts": {
+        "could": 4,
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "possibility": 4
+      },
+      "epistemic_counts": {
+        "hedging": 4,
+        "ability": 3
+      },
+      "passive_count": 8,
+      "active_count": 53,
+      "passive_ratio": 0.1311,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P19": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P19.docx",
+      "total_verbs": 143,
+      "modal_counts": {
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "ability": 1
+      },
+      "passive_count": 13,
+      "active_count": 86,
+      "passive_ratio": 0.1313,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P20": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P20.docx",
+      "total_verbs": 86,
+      "modal_counts": {
+        "may": 1,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "permission": 3,
+        "possibility": 1,
+        "ability": 2
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 2
+      },
+      "passive_count": 6,
+      "active_count": 53,
+      "passive_ratio": 0.1017,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P21": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P21.docx",
+      "total_verbs": 114,
+      "modal_counts": {
+        "should": 2,
+        "could": 2,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "ability": 3,
+        "permission": 3,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "hedging": 2,
+        "ability": 1
+      },
+      "passive_count": 6,
+      "active_count": 85,
+      "passive_ratio": 0.0659,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P22": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P22.docx",
+      "total_verbs": 164,
+      "modal_counts": {
+        "can": 2,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "recommendation": 1
+      },
+      "passive_count": 13,
+      "active_count": 103,
+      "passive_ratio": 0.1121,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P23": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P23.docx",
+      "total_verbs": 78,
+      "modal_counts": {},
+      "modal_category_counts": {},
+      "epistemic_counts": {},
+      "passive_count": 10,
+      "active_count": 46,
+      "passive_ratio": 0.1786,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P24": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P24.docx",
+      "total_verbs": 78,
+      "modal_counts": {
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1
+      },
+      "passive_count": 12,
+      "active_count": 44,
+      "passive_ratio": 0.2143,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P25": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P25.docx",
+      "total_verbs": 98,
+      "modal_counts": {
+        "could": 1,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2
+      },
+      "passive_count": 6,
+      "active_count": 62,
+      "passive_ratio": 0.0882,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P26": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P26.docx",
+      "total_verbs": 128,
+      "modal_counts": {
+        "can": 4,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 5,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 1
+      },
+      "passive_count": 9,
+      "active_count": 76,
+      "passive_ratio": 0.1059,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P27": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P27.docx",
+      "total_verbs": 89,
+      "modal_counts": {
+        "can": 3,
+        "should": 3,
+        "will": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "obligation": 3,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "recommendation": 3
+      },
+      "passive_count": 1,
+      "active_count": 58,
+      "passive_ratio": 0.0169,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P28": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P28.docx",
+      "total_verbs": 103,
+      "modal_counts": {
+        "can": 4
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4
+      },
+      "epistemic_counts": {
+        "ability": 4
+      },
+      "passive_count": 10,
+      "active_count": 65,
+      "passive_ratio": 0.1333,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P29": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P29.docx",
+      "total_verbs": 120,
+      "modal_counts": {
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "ability": 1
+      },
+      "passive_count": 9,
+      "active_count": 70,
+      "passive_ratio": 0.1139,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor_AS2_P30": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P30.docx",
+      "total_verbs": 153,
+      "modal_counts": {
+        "could": 2,
+        "can": 4
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 4
+      },
+      "passive_count": 19,
+      "active_count": 77,
+      "passive_ratio": 0.1979,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "DEIC_San_AS1_P35_P38_P41_P164": {
+      "discipline": "DEIC_San",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Sanfilippo_TRASCRIZIONI/DEIC_San_AS1_P35_P38_P41_P164.docx",
+      "total_verbs": 301,
+      "modal_counts": {
+        "could": 1,
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 3
+      },
+      "passive_count": 34,
+      "active_count": 186,
+      "passive_ratio": 0.1545,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS1_P157": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELCLass_Zot_AS1/ELClass_Zot_AS1_P157.docx",
+      "total_verbs": 113,
+      "modal_counts": {
+        "can": 3,
+        "would": 1,
+        "might": 2,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "volition": 1,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "hedging": 3
+      },
+      "passive_count": 9,
+      "active_count": 65,
+      "passive_ratio": 0.1216,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS2_P158": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P158.docx",
+      "total_verbs": 41,
+      "modal_counts": {},
+      "modal_category_counts": {},
+      "epistemic_counts": {},
+      "passive_count": 5,
+      "active_count": 20,
+      "passive_ratio": 0.2,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS2_P159": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P159.docx",
+      "total_verbs": 102,
+      "modal_counts": {
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 9,
+      "active_count": 58,
+      "passive_ratio": 0.1343,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS2_P161": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P161.docx",
+      "total_verbs": 48,
+      "modal_counts": {
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 2,
+      "active_count": 26,
+      "passive_ratio": 0.0714,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS2_P163": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P163.docx",
+      "total_verbs": 60,
+      "modal_counts": {
+        "can": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "ability": 2
+      },
+      "passive_count": 4,
+      "active_count": 29,
+      "passive_ratio": 0.1212,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS3_P160": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P160.docx",
+      "total_verbs": 81,
+      "modal_counts": {
+        "could": 5,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "possibility": 5
+      },
+      "epistemic_counts": {
+        "hedging": 5,
+        "ability": 2
+      },
+      "passive_count": 5,
+      "active_count": 47,
+      "passive_ratio": 0.0962,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot_AS3_P162": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P162.docx",
+      "total_verbs": 69,
+      "modal_counts": {
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "ability": 3
+      },
+      "passive_count": 1,
+      "active_count": 47,
+      "passive_ratio": 0.0208,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS1_P147": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P147.docx",
+      "total_verbs": 187,
+      "modal_counts": {
+        "can": 14,
+        "might": 2,
+        "should": 2,
+        "will": 3,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 14,
+        "possibility": 2,
+        "obligation": 2,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "ability": 14,
+        "hedging": 2,
+        "recommendation": 2
+      },
+      "passive_count": 20,
+      "active_count": 86,
+      "passive_ratio": 0.1887,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS1_P149": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P149.docx",
+      "total_verbs": 29,
+      "modal_counts": {
+        "can": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "ability": 1
+      },
+      "passive_count": 1,
+      "active_count": 24,
+      "passive_ratio": 0.04,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS1_P152": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P152.docx",
+      "total_verbs": 86,
+      "modal_counts": {
+        "can": 5
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5
+      },
+      "epistemic_counts": {
+        "ability": 5
+      },
+      "passive_count": 12,
+      "active_count": 46,
+      "passive_ratio": 0.2069,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS2_P148": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P148.docx",
+      "total_verbs": 138,
+      "modal_counts": {
+        "can": 8,
+        "could": 3,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 11,
+        "possibility": 3,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 8,
+        "hedging": 3
+      },
+      "passive_count": 8,
+      "active_count": 92,
+      "passive_ratio": 0.08,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS2_P155": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P155.docx",
+      "total_verbs": 144,
+      "modal_counts": {
+        "could": 3,
+        "can": 6,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 9,
+        "permission": 10,
+        "possibility": 4
+      },
+      "epistemic_counts": {
+        "hedging": 4,
+        "ability": 6
+      },
+      "passive_count": 9,
+      "active_count": 83,
+      "passive_ratio": 0.0978,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS3_P150": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P150.docx",
+      "total_verbs": 150,
+      "modal_counts": {
+        "should": 2,
+        "can": 7,
+        "could": 7,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "obligation": 3,
+        "ability": 14,
+        "permission": 14,
+        "possibility": 7
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "ability": 7,
+        "hedging": 7,
+        "strong_claim": 1
+      },
+      "passive_count": 12,
+      "active_count": 73,
+      "passive_ratio": 0.1412,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS3_P151": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P151.docx",
+      "total_verbs": 83,
+      "modal_counts": {
+        "could": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2
+      },
+      "passive_count": 3,
+      "active_count": 54,
+      "passive_ratio": 0.0526,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS3_P153": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P153.docx",
+      "total_verbs": 59,
+      "modal_counts": {},
+      "modal_category_counts": {},
+      "epistemic_counts": {},
+      "passive_count": 7,
+      "active_count": 38,
+      "passive_ratio": 0.1556,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS4_P154": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P154.docx",
+      "total_verbs": 94,
+      "modal_counts": {
+        "can": 9
+      },
+      "modal_category_counts": {
+        "ability": 9,
+        "permission": 9
+      },
+      "epistemic_counts": {
+        "ability": 9
+      },
+      "passive_count": 9,
+      "active_count": 51,
+      "passive_ratio": 0.15,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ALSPS_Zot_AS4_P156": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P156.docx",
+      "total_verbs": 209,
+      "modal_counts": {
+        "can": 10,
+        "must": 2,
+        "might": 1,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 11,
+        "obligation": 2,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 10,
+        "strong_claim": 2,
+        "hedging": 2
+      },
+      "passive_count": 22,
+      "active_count": 113,
+      "passive_ratio": 0.163,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS2_P34_P35_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P34_P35_P40.docx",
+      "total_verbs": 660,
+      "modal_counts": {
+        "may": 10,
+        "would": 5,
+        "can": 8,
+        "could": 2,
+        "should": 1,
+        "must": 1,
+        "will": 4,
+        "might": 2
+      },
+      "modal_category_counts": {
+        "permission": 20,
+        "possibility": 14,
+        "volition": 9,
+        "ability": 10,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "hedging": 14,
+        "ability": 8,
+        "recommendation": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 40,
+      "active_count": 440,
+      "passive_ratio": 0.0833,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS2_P39_P164_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P39_P164_P165.docx",
+      "total_verbs": 469,
+      "modal_counts": {
+        "will": 18,
+        "could": 2,
+        "would": 1,
+        "can": 7,
+        "might": 1,
+        "may": 2,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "volition": 19,
+        "ability": 9,
+        "permission": 11,
+        "possibility": 5,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 5,
+        "ability": 7,
+        "recommendation": 1
+      },
+      "passive_count": 29,
+      "active_count": 310,
+      "passive_ratio": 0.0855,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P34": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P34.docx",
+      "total_verbs": 140,
+      "modal_counts": {
+        "can": 5,
+        "should": 1,
+        "will": 1,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 6,
+        "obligation": 1,
+        "volition": 1,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "recommendation": 1,
+        "hedging": 1
+      },
+      "passive_count": 18,
+      "active_count": 72,
+      "passive_ratio": 0.2,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P35": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P35.docx",
+      "total_verbs": 100,
+      "modal_counts": {
+        "can": 4,
+        "must": 2,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "obligation": 2,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "strong_claim": 2,
+        "hedging": 1
+      },
+      "passive_count": 8,
+      "active_count": 64,
+      "passive_ratio": 0.1111,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P36": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P36.docx",
+      "total_verbs": 107,
+      "modal_counts": {
+        "can": 4,
+        "could": 3,
+        "would": 1,
+        "will": 2
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "possibility": 3,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 3
+      },
+      "passive_count": 4,
+      "active_count": 66,
+      "passive_ratio": 0.0571,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P37": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P37.docx",
+      "total_verbs": 129,
+      "modal_counts": {
+        "can": 3,
+        "could": 4,
+        "would": 6,
+        "will": 1,
+        "may": 3
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 10,
+        "possibility": 7,
+        "volition": 7
+      },
+      "epistemic_counts": {
+        "ability": 3,
+        "hedging": 7
+      },
+      "passive_count": 7,
+      "active_count": 76,
+      "passive_ratio": 0.0843,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P38": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P38.docx",
+      "total_verbs": 108,
+      "modal_counts": {
+        "should": 1,
+        "can": 3,
+        "will": 4,
+        "might": 3
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 3,
+        "permission": 3,
+        "volition": 4,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "ability": 3,
+        "hedging": 3
+      },
+      "passive_count": 6,
+      "active_count": 58,
+      "passive_ratio": 0.0938,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS1_P39": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P39.docx",
+      "total_verbs": 152,
+      "modal_counts": {
+        "should": 1,
+        "might": 2,
+        "can": 5,
+        "could": 2,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "possibility": 4,
+        "ability": 7,
+        "permission": 7,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "hedging": 4,
+        "ability": 5
+      },
+      "passive_count": 11,
+      "active_count": 100,
+      "passive_ratio": 0.0991,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS3_P164": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P164.docx",
+      "total_verbs": 161,
+      "modal_counts": {
+        "would": 4,
+        "will": 19,
+        "could": 2,
+        "should": 3,
+        "can": 6
+      },
+      "modal_category_counts": {
+        "volition": 23,
+        "ability": 8,
+        "permission": 8,
+        "possibility": 2,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "recommendation": 3,
+        "ability": 6
+      },
+      "passive_count": 1,
+      "active_count": 92,
+      "passive_ratio": 0.0108,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS3_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P165.docx",
+      "total_verbs": 147,
+      "modal_counts": {
+        "can": 9,
+        "should": 2,
+        "may": 2
+      },
+      "modal_category_counts": {
+        "ability": 9,
+        "permission": 11,
+        "obligation": 2,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 9,
+        "recommendation": 2,
+        "hedging": 2
+      },
+      "passive_count": 7,
+      "active_count": 95,
+      "passive_ratio": 0.0686,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS3_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P40.docx",
+      "total_verbs": 59,
+      "modal_counts": {
+        "would": 1,
+        "could": 2,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "volition": 1,
+        "ability": 3,
+        "permission": 3,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 1
+      },
+      "passive_count": 4,
+      "active_count": 33,
+      "passive_ratio": 0.1081,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS3_P41": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P41.docx",
+      "total_verbs": 151,
+      "modal_counts": {
+        "can": 7,
+        "will": 5,
+        "might": 3,
+        "may": 3,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 10,
+        "volition": 5,
+        "possibility": 6,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "hedging": 6,
+        "recommendation": 1
+      },
+      "passive_count": 8,
+      "active_count": 82,
+      "passive_ratio": 0.0889,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu_AS3_P42": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P42.docx",
+      "total_verbs": 141,
+      "modal_counts": {
+        "would": 2,
+        "can": 15,
+        "should": 1,
+        "will": 3
+      },
+      "modal_category_counts": {
+        "volition": 5,
+        "ability": 15,
+        "permission": 15,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 15,
+        "recommendation": 1
+      },
+      "passive_count": 0,
+      "active_count": 88,
+      "passive_ratio": 0.0,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "GLD_Gog_AS1_P169_P170": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P169_P170.docx",
+      "total_verbs": 451,
+      "modal_counts": {
+        "could": 7,
+        "can": 10,
+        "must": 2,
+        "will": 6,
+        "would": 4,
+        "might": 4,
+        "may": 2,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 17,
+        "permission": 19,
+        "possibility": 13,
+        "obligation": 3,
+        "volition": 10
+      },
+      "epistemic_counts": {
+        "hedging": 13,
+        "ability": 10,
+        "strong_claim": 2,
+        "recommendation": 1
+      },
+      "passive_count": 30,
+      "active_count": 272,
+      "passive_ratio": 0.0993,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "GLD_Gog_AS1_P16_P167_P168": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P16_P167_P168.docx",
+      "total_verbs": 420,
+      "modal_counts": {
+        "will": 5,
+        "can": 10,
+        "could": 5,
+        "should": 5,
+        "must": 1,
+        "may": 2,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "volition": 7,
+        "ability": 15,
+        "permission": 17,
+        "possibility": 7,
+        "obligation": 6
+      },
+      "epistemic_counts": {
+        "ability": 10,
+        "hedging": 7,
+        "recommendation": 5,
+        "strong_claim": 1
+      },
+      "passive_count": 42,
+      "active_count": 243,
+      "passive_ratio": 0.1474,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "GLD_Gog_AS1_P26": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P26.docx",
+      "total_verbs": 470,
+      "modal_counts": {
+        "can": 13,
+        "must": 7,
+        "could": 11,
+        "may": 5,
+        "should": 8,
+        "will": 3
+      },
+      "modal_category_counts": {
+        "ability": 24,
+        "permission": 29,
+        "obligation": 15,
+        "possibility": 16,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "ability": 13,
+        "strong_claim": 7,
+        "hedging": 16,
+        "recommendation": 8
+      },
+      "passive_count": 41,
+      "active_count": 264,
+      "passive_ratio": 0.1344,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "GLD_Gog_AS1_P31_P32_P33": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P31_P32_P33.docx",
+      "total_verbs": 465,
+      "modal_counts": {
+        "can": 11,
+        "could": 5,
+        "may": 7,
+        "will": 1,
+        "would": 3,
+        "should": 3,
+        "might": 3
+      },
+      "modal_category_counts": {
+        "ability": 16,
+        "permission": 23,
+        "possibility": 15,
+        "volition": 4,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "ability": 11,
+        "hedging": 15,
+        "recommendation": 3
+      },
+      "passive_count": 31,
+      "active_count": 314,
+      "passive_ratio": 0.0899,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P100": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P100.docx",
+      "total_verbs": 63,
+      "modal_counts": {
+        "can": 1,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "ability": 1,
+        "permission": 1,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 1,
+        "recommendation": 1
+      },
+      "passive_count": 7,
+      "active_count": 38,
+      "passive_ratio": 0.1556,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P101": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P101.docx",
+      "total_verbs": 99,
+      "modal_counts": {
+        "can": 4,
+        "must": 1,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "strong_claim": 1,
+        "recommendation": 2
+      },
+      "passive_count": 8,
+      "active_count": 56,
+      "passive_ratio": 0.125,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P102": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P102.docx",
+      "total_verbs": 161,
+      "modal_counts": {
+        "will": 2,
+        "might": 6,
+        "can": 5,
+        "could": 1,
+        "should": 3
+      },
+      "modal_category_counts": {
+        "volition": 2,
+        "possibility": 7,
+        "ability": 6,
+        "permission": 6,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "hedging": 7,
+        "ability": 5,
+        "recommendation": 3
+      },
+      "passive_count": 15,
+      "active_count": 90,
+      "passive_ratio": 0.1429,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P103": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P103.docx",
+      "total_verbs": 79,
+      "modal_counts": {
+        "should": 1,
+        "could": 1,
+        "may": 1,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 3,
+        "permission": 4,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "hedging": 2,
+        "ability": 2
+      },
+      "passive_count": 4,
+      "active_count": 41,
+      "passive_ratio": 0.0889,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P104": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P104.docx",
+      "total_verbs": 111,
+      "modal_counts": {
+        "can": 5,
+        "could": 2,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "possibility": 2,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "hedging": 2,
+        "recommendation": 2
+      },
+      "passive_count": 3,
+      "active_count": 73,
+      "passive_ratio": 0.0395,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P172": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx",
+      "total_verbs": 120,
+      "modal_counts": {
+        "would": 6,
+        "ought": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "volition": 6,
+        "obligation": 1,
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "ability": 1
+      },
+      "passive_count": 12,
+      "active_count": 81,
+      "passive_ratio": 0.129,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P98": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P98.docx",
+      "total_verbs": 137,
+      "modal_counts": {
+        "must": 2,
+        "should": 2,
+        "may": 1,
+        "can": 2,
+        "would": 1,
+        "might": 2
+      },
+      "modal_category_counts": {
+        "obligation": 4,
+        "permission": 3,
+        "possibility": 3,
+        "ability": 2,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "strong_claim": 2,
+        "recommendation": 2,
+        "hedging": 3,
+        "ability": 2
+      },
+      "passive_count": 7,
+      "active_count": 87,
+      "passive_ratio": 0.0745,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car_AS1_P99": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P99.docx",
+      "total_verbs": 131,
+      "modal_counts": {
+        "can": 12,
+        "should": 2,
+        "could": 2
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 14,
+        "obligation": 2,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 12,
+        "recommendation": 2,
+        "hedging": 2
+      },
+      "passive_count": 9,
+      "active_count": 73,
+      "passive_ratio": 0.1098,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P105": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P105.docx",
+      "total_verbs": 273,
+      "modal_counts": {
+        "should": 1,
+        "may": 5,
+        "can": 5,
+        "would": 1,
+        "could": 2,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "permission": 12,
+        "possibility": 7,
+        "ability": 7,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "hedging": 7,
+        "ability": 5
+      },
+      "passive_count": 22,
+      "active_count": 155,
+      "passive_ratio": 0.1243,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P106": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P106.docx",
+      "total_verbs": 245,
+      "modal_counts": {
+        "should": 1,
+        "may": 2,
+        "can": 3,
+        "would": 3,
+        "could": 3,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "permission": 8,
+        "possibility": 5,
+        "ability": 6,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "hedging": 5,
+        "ability": 3,
+        "strong_claim": 1
+      },
+      "passive_count": 13,
+      "active_count": 140,
+      "passive_ratio": 0.085,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P107": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P107.docx",
+      "total_verbs": 251,
+      "modal_counts": {
+        "should": 2,
+        "could": 7,
+        "would": 3,
+        "will": 2,
+        "may": 1,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "ability": 9,
+        "permission": 10,
+        "possibility": 8,
+        "volition": 5
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "hedging": 8,
+        "ability": 2
+      },
+      "passive_count": 12,
+      "active_count": 164,
+      "passive_ratio": 0.0682,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P108": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P108.docx",
+      "total_verbs": 223,
+      "modal_counts": {
+        "should": 2,
+        "could": 3,
+        "would": 1,
+        "will": 2,
+        "may": 3,
+        "can": 4
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "ability": 7,
+        "permission": 10,
+        "possibility": 6,
+        "volition": 3
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "hedging": 6,
+        "ability": 4
+      },
+      "passive_count": 16,
+      "active_count": 133,
+      "passive_ratio": 0.1074,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P109": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P109.docx",
+      "total_verbs": 233,
+      "modal_counts": {
+        "should": 3,
+        "could": 2,
+        "would": 3,
+        "will": 3,
+        "may": 1,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "obligation": 3,
+        "ability": 4,
+        "permission": 5,
+        "possibility": 3,
+        "volition": 6
+      },
+      "epistemic_counts": {
+        "recommendation": 3,
+        "hedging": 3,
+        "ability": 2
+      },
+      "passive_count": 15,
+      "active_count": 135,
+      "passive_ratio": 0.1,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL_AS1_P166": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P166.docx",
+      "total_verbs": 243,
+      "modal_counts": {
+        "should": 2,
+        "could": 6,
+        "would": 1,
+        "will": 3,
+        "may": 1,
+        "can": 5
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "ability": 11,
+        "permission": 12,
+        "possibility": 7,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "hedging": 7,
+        "ability": 5
+      },
+      "passive_count": 12,
+      "active_count": 153,
+      "passive_ratio": 0.0727,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P54.docx",
+      "total_verbs": 64,
+      "modal_counts": {
+        "can": 2,
+        "will": 3,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "ability": 2,
+        "permission": 2,
+        "volition": 3,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "recommendation": 2
+      },
+      "passive_count": 3,
+      "active_count": 34,
+      "passive_ratio": 0.0811,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P55": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P55.docx",
+      "total_verbs": 77,
+      "modal_counts": {
+        "can": 2,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "ability": 3,
+        "permission": 3,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "hedging": 1
+      },
+      "passive_count": 6,
+      "active_count": 56,
+      "passive_ratio": 0.0968,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P56.docx",
+      "total_verbs": 78,
+      "modal_counts": {
+        "can": 5,
+        "will": 1,
+        "should": 5
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "volition": 1,
+        "obligation": 5
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "recommendation": 5
+      },
+      "passive_count": 2,
+      "active_count": 49,
+      "passive_ratio": 0.0392,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P57": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P57.docx",
+      "total_verbs": 180,
+      "modal_counts": {
+        "should": 2,
+        "could": 3,
+        "can": 15,
+        "must": 1,
+        "will": 2
+      },
+      "modal_category_counts": {
+        "obligation": 3,
+        "ability": 18,
+        "permission": 18,
+        "possibility": 3,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "hedging": 3,
+        "ability": 15,
+        "strong_claim": 1
+      },
+      "passive_count": 18,
+      "active_count": 84,
+      "passive_ratio": 0.1765,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P58": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P58.docx",
+      "total_verbs": 160,
+      "modal_counts": {
+        "should": 1,
+        "can": 8
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "ability": 8,
+        "permission": 8
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "ability": 8
+      },
+      "passive_count": 16,
+      "active_count": 79,
+      "passive_ratio": 0.1684,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P59": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P59.docx",
+      "total_verbs": 110,
+      "modal_counts": {
+        "can": 4,
+        "should": 11,
+        "will": 2
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "obligation": 11,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "recommendation": 11
+      },
+      "passive_count": 6,
+      "active_count": 58,
+      "passive_ratio": 0.0938,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P60": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P60.docx",
+      "total_verbs": 166,
+      "modal_counts": {
+        "can": 13,
+        "will": 6,
+        "should": 15,
+        "could": 1,
+        "might": 1,
+        "may": 1
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 15,
+        "volition": 6,
+        "obligation": 15,
+        "possibility": 3
+      },
+      "epistemic_counts": {
+        "ability": 13,
+        "recommendation": 15,
+        "hedging": 3
+      },
+      "passive_count": 7,
+      "active_count": 85,
+      "passive_ratio": 0.0761,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P61": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P61.docx",
+      "total_verbs": 319,
+      "modal_counts": {
+        "will": 33,
+        "can": 25,
+        "should": 5,
+        "could": 2
+      },
+      "modal_category_counts": {
+        "volition": 33,
+        "ability": 27,
+        "permission": 27,
+        "obligation": 5,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 25,
+        "recommendation": 5,
+        "hedging": 2
+      },
+      "passive_count": 40,
+      "active_count": 126,
+      "passive_ratio": 0.241,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P62.docx",
+      "total_verbs": 65,
+      "modal_counts": {
+        "can": 5,
+        "should": 1,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "recommendation": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 1,
+      "active_count": 46,
+      "passive_ratio": 0.0213,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P63": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P63.docx",
+      "total_verbs": 164,
+      "modal_counts": {
+        "will": 2,
+        "would": 1,
+        "might": 2,
+        "should": 3,
+        "can": 2
+      },
+      "modal_category_counts": {
+        "volition": 3,
+        "possibility": 2,
+        "obligation": 3,
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "recommendation": 3,
+        "ability": 2
+      },
+      "passive_count": 11,
+      "active_count": 108,
+      "passive_ratio": 0.0924,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P64": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P64.docx",
+      "total_verbs": 79,
+      "modal_counts": {
+        "can": 5
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5
+      },
+      "epistemic_counts": {
+        "ability": 5
+      },
+      "passive_count": 0,
+      "active_count": 60,
+      "passive_ratio": 0.0,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P65": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P65.docx",
+      "total_verbs": 91,
+      "modal_counts": {
+        "can": 5,
+        "should": 2,
+        "must": 2
+      },
+      "modal_category_counts": {
+        "ability": 5,
+        "permission": 5,
+        "obligation": 4
+      },
+      "epistemic_counts": {
+        "ability": 5,
+        "recommendation": 2,
+        "strong_claim": 2
+      },
+      "passive_count": 0,
+      "active_count": 60,
+      "passive_ratio": 0.0,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P66": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P66.docx",
+      "total_verbs": 90,
+      "modal_counts": {
+        "can": 7
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7
+      },
+      "epistemic_counts": {
+        "ability": 7
+      },
+      "passive_count": 6,
+      "active_count": 54,
+      "passive_ratio": 0.1,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P67.docx",
+      "total_verbs": 89,
+      "modal_counts": {
+        "can": 11
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 11
+      },
+      "epistemic_counts": {
+        "ability": 11
+      },
+      "passive_count": 7,
+      "active_count": 45,
+      "passive_ratio": 0.1346,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P68.docx",
+      "total_verbs": 69,
+      "modal_counts": {
+        "can": 7,
+        "will": 1
+      },
+      "modal_category_counts": {
+        "ability": 7,
+        "permission": 7,
+        "volition": 1
+      },
+      "epistemic_counts": {
+        "ability": 7
+      },
+      "passive_count": 1,
+      "active_count": 49,
+      "passive_ratio": 0.02,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P69.docx",
+      "total_verbs": 113,
+      "modal_counts": {
+        "will": 3,
+        "may": 1,
+        "should": 8,
+        "would": 1,
+        "can": 3,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "volition": 4,
+        "permission": 5,
+        "possibility": 2,
+        "obligation": 8,
+        "ability": 4
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "recommendation": 8,
+        "ability": 3
+      },
+      "passive_count": 5,
+      "active_count": 64,
+      "passive_ratio": 0.0725,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P70.docx",
+      "total_verbs": 137,
+      "modal_counts": {
+        "can": 17,
+        "will": 2
+      },
+      "modal_category_counts": {
+        "ability": 17,
+        "permission": 17,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 17
+      },
+      "passive_count": 2,
+      "active_count": 81,
+      "passive_ratio": 0.0241,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P71": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P71.docx",
+      "total_verbs": 158,
+      "modal_counts": {
+        "will": 5,
+        "should": 8,
+        "might": 3,
+        "can": 12,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "volition": 5,
+        "obligation": 8,
+        "possibility": 4,
+        "ability": 13,
+        "permission": 13
+      },
+      "epistemic_counts": {
+        "recommendation": 8,
+        "hedging": 4,
+        "ability": 12
+      },
+      "passive_count": 15,
+      "active_count": 81,
+      "passive_ratio": 0.1562,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS1_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P72.docx",
+      "total_verbs": 69,
+      "modal_counts": {
+        "will": 1,
+        "can": 2,
+        "could": 1,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "volition": 1,
+        "ability": 3,
+        "permission": 3,
+        "possibility": 2
+      },
+      "epistemic_counts": {
+        "ability": 2,
+        "hedging": 2
+      },
+      "passive_count": 6,
+      "active_count": 35,
+      "passive_ratio": 0.1463,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P54.docx",
+      "total_verbs": 102,
+      "modal_counts": {
+        "might": 1,
+        "will": 3,
+        "can": 8,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 4,
+        "ability": 8,
+        "permission": 8
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 8
+      },
+      "passive_count": 5,
+      "active_count": 57,
+      "passive_ratio": 0.0806,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P56.docx",
+      "total_verbs": 119,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "may": 1,
+        "can": 7,
+        "would": 1,
+        "should": 1
+      },
+      "modal_category_counts": {
+        "possibility": 2,
+        "volition": 2,
+        "permission": 8,
+        "ability": 7,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 7,
+        "recommendation": 1
+      },
+      "passive_count": 2,
+      "active_count": 81,
+      "passive_ratio": 0.0241,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P62.docx",
+      "total_verbs": 71,
+      "modal_counts": {
+        "might": 1,
+        "will": 5,
+        "would": 2,
+        "must": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 7,
+        "obligation": 1,
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "strong_claim": 1,
+        "ability": 1
+      },
+      "passive_count": 2,
+      "active_count": 38,
+      "passive_ratio": 0.05,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P67.docx",
+      "total_verbs": 100,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "may": 1,
+        "would": 1,
+        "can": 4
+      },
+      "modal_category_counts": {
+        "possibility": 2,
+        "volition": 2,
+        "permission": 5,
+        "ability": 4
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 4
+      },
+      "passive_count": 10,
+      "active_count": 49,
+      "passive_ratio": 0.1695,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P68.docx",
+      "total_verbs": 95,
+      "modal_counts": {
+        "should": 2,
+        "can": 7,
+        "might": 1,
+        "will": 3,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "obligation": 2,
+        "ability": 7,
+        "permission": 7,
+        "possibility": 1,
+        "volition": 4
+      },
+      "epistemic_counts": {
+        "recommendation": 2,
+        "ability": 7,
+        "hedging": 1
+      },
+      "passive_count": 3,
+      "active_count": 59,
+      "passive_ratio": 0.0484,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P69.docx",
+      "total_verbs": 183,
+      "modal_counts": {
+        "could": 1,
+        "might": 1,
+        "will": 1,
+        "can": 13,
+        "should": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 14,
+        "possibility": 2,
+        "volition": 2,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 13,
+        "recommendation": 1
+      },
+      "passive_count": 16,
+      "active_count": 99,
+      "passive_ratio": 0.1391,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P70.docx",
+      "total_verbs": 111,
+      "modal_counts": {
+        "might": 2,
+        "will": 2,
+        "can": 9,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 2,
+        "volition": 3,
+        "ability": 9,
+        "permission": 9
+      },
+      "epistemic_counts": {
+        "hedging": 2,
+        "ability": 9
+      },
+      "passive_count": 1,
+      "active_count": 66,
+      "passive_ratio": 0.0149,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P72.docx",
+      "total_verbs": 56,
+      "modal_counts": {
+        "can": 6,
+        "might": 1,
+        "will": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 6,
+        "permission": 6,
+        "possibility": 1,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 6,
+        "hedging": 1
+      },
+      "passive_count": 6,
+      "active_count": 20,
+      "passive_ratio": 0.2308,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P73": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P73.docx",
+      "total_verbs": 123,
+      "modal_counts": {
+        "would": 2,
+        "might": 1,
+        "will": 2,
+        "can": 7
+      },
+      "modal_category_counts": {
+        "volition": 4,
+        "possibility": 1,
+        "ability": 7,
+        "permission": 7
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 7
+      },
+      "passive_count": 12,
+      "active_count": 68,
+      "passive_ratio": 0.15,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P74": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P74.docx",
+      "total_verbs": 108,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "should": 2,
+        "can": 5,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "obligation": 2,
+        "ability": 5,
+        "permission": 5
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "recommendation": 2,
+        "ability": 5
+      },
+      "passive_count": 8,
+      "active_count": 62,
+      "passive_ratio": 0.1143,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P75": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P75.docx",
+      "total_verbs": 93,
+      "modal_counts": {
+        "would": 2,
+        "might": 1,
+        "will": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "volition": 3,
+        "possibility": 1,
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1
+      },
+      "passive_count": 6,
+      "active_count": 56,
+      "passive_ratio": 0.0968,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P76": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P76.docx",
+      "total_verbs": 63,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "can": 1,
+        "would": 1,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "ability": 1,
+        "permission": 1,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 5,
+      "active_count": 36,
+      "passive_ratio": 0.122,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P77": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P77.docx",
+      "total_verbs": 174,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "should": 3,
+        "may": 1,
+        "can": 5,
+        "would": 2,
+        "could": 1
+      },
+      "modal_category_counts": {
+        "possibility": 3,
+        "volition": 3,
+        "obligation": 3,
+        "permission": 7,
+        "ability": 6
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "recommendation": 3,
+        "ability": 5
+      },
+      "passive_count": 11,
+      "active_count": 104,
+      "passive_ratio": 0.0957,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P78": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P78.docx",
+      "total_verbs": 73,
+      "modal_counts": {
+        "might": 1,
+        "will": 5,
+        "can": 4,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 6,
+        "ability": 4,
+        "permission": 4
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 4
+      },
+      "passive_count": 5,
+      "active_count": 38,
+      "passive_ratio": 0.1163,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P79": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P79.docx",
+      "total_verbs": 56,
+      "modal_counts": {
+        "might": 1,
+        "will": 4,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 6
+      },
+      "epistemic_counts": {
+        "hedging": 1
+      },
+      "passive_count": 4,
+      "active_count": 31,
+      "passive_ratio": 0.1143,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P80": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P80.docx",
+      "total_verbs": 149,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "could": 3,
+        "can": 4,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 4,
+        "volition": 2,
+        "ability": 7,
+        "permission": 7
+      },
+      "epistemic_counts": {
+        "hedging": 4,
+        "ability": 4
+      },
+      "passive_count": 25,
+      "active_count": 73,
+      "passive_ratio": 0.2551,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P81": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P81.docx",
+      "total_verbs": 152,
+      "modal_counts": {
+        "can": 14,
+        "might": 1,
+        "will": 5,
+        "would": 2,
+        "should": 3
+      },
+      "modal_category_counts": {
+        "ability": 14,
+        "permission": 14,
+        "possibility": 1,
+        "volition": 7,
+        "obligation": 3
+      },
+      "epistemic_counts": {
+        "ability": 14,
+        "hedging": 1,
+        "recommendation": 3
+      },
+      "passive_count": 11,
+      "active_count": 76,
+      "passive_ratio": 0.1264,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P82": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P82.docx",
+      "total_verbs": 114,
+      "modal_counts": {
+        "can": 4,
+        "might": 2,
+        "will": 1,
+        "may": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 5,
+        "possibility": 3,
+        "volition": 2
+      },
+      "epistemic_counts": {
+        "ability": 4,
+        "hedging": 3
+      },
+      "passive_count": 9,
+      "active_count": 55,
+      "passive_ratio": 0.1406,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P83": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P83.docx",
+      "total_verbs": 68,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "can": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1
+      },
+      "passive_count": 5,
+      "active_count": 45,
+      "passive_ratio": 0.1,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P84": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P84.docx",
+      "total_verbs": 43,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "would": 1,
+        "can": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "ability": 1,
+        "permission": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 1
+      },
+      "passive_count": 2,
+      "active_count": 24,
+      "passive_ratio": 0.0769,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P85": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P85.docx",
+      "total_verbs": 76,
+      "modal_counts": {
+        "might": 1,
+        "will": 2,
+        "can": 2,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 4,
+        "ability": 2,
+        "permission": 2
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 2
+      },
+      "passive_count": 11,
+      "active_count": 34,
+      "passive_ratio": 0.2444,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P86": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P86.docx",
+      "total_verbs": 105,
+      "modal_counts": {
+        "should": 1,
+        "might": 1,
+        "will": 1,
+        "could": 2,
+        "can": 6,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "obligation": 1,
+        "possibility": 3,
+        "volition": 2,
+        "ability": 8,
+        "permission": 8
+      },
+      "epistemic_counts": {
+        "recommendation": 1,
+        "hedging": 3,
+        "ability": 6
+      },
+      "passive_count": 11,
+      "active_count": 55,
+      "passive_ratio": 0.1667,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P87": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P87.docx",
+      "total_verbs": 135,
+      "modal_counts": {
+        "can": 11,
+        "might": 1,
+        "will": 6,
+        "would": 1,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "ability": 11,
+        "permission": 11,
+        "possibility": 1,
+        "volition": 7,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 11,
+        "hedging": 1,
+        "strong_claim": 1
+      },
+      "passive_count": 14,
+      "active_count": 60,
+      "passive_ratio": 0.1892,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P88": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P88.docx",
+      "total_verbs": 92,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "can": 3,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 3
+      },
+      "passive_count": 4,
+      "active_count": 67,
+      "passive_ratio": 0.0563,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P89": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P89.docx",
+      "total_verbs": 114,
+      "modal_counts": {
+        "might": 1,
+        "will": 5,
+        "can": 5,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 7,
+        "ability": 5,
+        "permission": 5
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 5
+      },
+      "passive_count": 14,
+      "active_count": 49,
+      "passive_ratio": 0.2222,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P90": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P90.docx",
+      "total_verbs": 151,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "can": 3,
+        "could": 2,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 3,
+        "volition": 2,
+        "ability": 5,
+        "permission": 5
+      },
+      "epistemic_counts": {
+        "hedging": 3,
+        "ability": 3
+      },
+      "passive_count": 17,
+      "active_count": 81,
+      "passive_ratio": 0.1735,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P91": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P91.docx",
+      "total_verbs": 147,
+      "modal_counts": {
+        "can": 10,
+        "might": 1,
+        "will": 1,
+        "could": 5,
+        "must": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "ability": 15,
+        "permission": 15,
+        "possibility": 6,
+        "volition": 2,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "ability": 10,
+        "hedging": 6,
+        "strong_claim": 1
+      },
+      "passive_count": 6,
+      "active_count": 79,
+      "passive_ratio": 0.0706,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P92": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P92.docx",
+      "total_verbs": 211,
+      "modal_counts": {
+        "might": 1,
+        "will": 3,
+        "can": 16,
+        "would": 2
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 5,
+        "ability": 16,
+        "permission": 16
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 16
+      },
+      "passive_count": 18,
+      "active_count": 108,
+      "passive_ratio": 0.1429,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P93": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P93.docx",
+      "total_verbs": 195,
+      "modal_counts": {
+        "might": 1,
+        "will": 1,
+        "can": 18,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 2,
+        "ability": 18,
+        "permission": 18
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 18
+      },
+      "passive_count": 21,
+      "active_count": 107,
+      "passive_ratio": 0.1641,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P94": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P94.docx",
+      "total_verbs": 128,
+      "modal_counts": {
+        "might": 1,
+        "will": 4,
+        "can": 15,
+        "would": 2,
+        "should": 2
+      },
+      "modal_category_counts": {
+        "possibility": 1,
+        "volition": 6,
+        "ability": 15,
+        "permission": 15,
+        "obligation": 2
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 15,
+        "recommendation": 2
+      },
+      "passive_count": 15,
+      "active_count": 50,
+      "passive_ratio": 0.2308,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P95": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P95.docx",
+      "total_verbs": 182,
+      "modal_counts": {
+        "might": 2,
+        "will": 1,
+        "could": 3,
+        "can": 9,
+        "must": 1,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "possibility": 5,
+        "volition": 2,
+        "ability": 12,
+        "permission": 12,
+        "obligation": 1
+      },
+      "epistemic_counts": {
+        "hedging": 5,
+        "ability": 9,
+        "strong_claim": 1
+      },
+      "passive_count": 24,
+      "active_count": 89,
+      "passive_ratio": 0.2124,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P96": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P96.docx",
+      "total_verbs": 203,
+      "modal_counts": {
+        "will": 6,
+        "can": 7,
+        "might": 1,
+        "could": 5,
+        "must": 1,
+        "should": 5,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "volition": 7,
+        "ability": 12,
+        "permission": 12,
+        "possibility": 6,
+        "obligation": 6
+      },
+      "epistemic_counts": {
+        "ability": 7,
+        "hedging": 6,
+        "strong_claim": 1,
+        "recommendation": 5
+      },
+      "passive_count": 17,
+      "active_count": 95,
+      "passive_ratio": 0.1518,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon_AS2_P97": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P97.docx",
+      "total_verbs": 123,
+      "modal_counts": {
+        "will": 3,
+        "might": 1,
+        "can": 3,
+        "would": 1
+      },
+      "modal_category_counts": {
+        "volition": 4,
+        "possibility": 1,
+        "ability": 3,
+        "permission": 3
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 3
+      },
+      "passive_count": 12,
+      "active_count": 71,
+      "passive_ratio": 0.1446,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    }
+  },
+  "per_discipline": {
+    "AS_Gus": {
+      "total_verbs": 6158,
+      "modal_counts": {
+        "will": 43,
+        "could": 29,
+        "must": 21,
+        "can": 100,
+        "should": 26,
+        "may": 27,
+        "might": 14,
+        "would": 38
+      },
+      "modal_category_counts": {
+        "volition": 81,
+        "ability": 129,
+        "permission": 156,
+        "possibility": 70,
+        "obligation": 47
+      },
+      "epistemic_counts": {
+        "hedging": 70,
+        "strong_claim": 21,
+        "ability": 100,
+        "recommendation": 26
+      },
+      "passive_count": 592,
+      "active_count": 3511,
+      "passive_ratio": 0.1443,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CILE_Pol": {
+      "total_verbs": 4652,
+      "modal_counts": {
+        "can": 250,
+        "will": 54,
+        "would": 29,
+        "may": 51,
+        "could": 42,
+        "should": 7,
+        "must": 23,
+        "might": 14,
+        "shall": 3
+      },
+      "modal_category_counts": {
+        "ability": 292,
+        "permission": 343,
+        "volition": 86,
+        "possibility": 107,
+        "obligation": 33
+      },
+      "epistemic_counts": {
+        "ability": 250,
+        "hedging": 107,
+        "recommendation": 7,
+        "strong_claim": 23
+      },
+      "passive_count": 386,
+      "active_count": 2554,
+      "passive_ratio": 0.1313,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CLA_Pol": {
+      "total_verbs": 2287,
+      "modal_counts": {
+        "can": 78,
+        "must": 19,
+        "would": 29,
+        "might": 3,
+        "may": 16,
+        "will": 59,
+        "could": 23,
+        "should": 7
+      },
+      "modal_category_counts": {
+        "ability": 101,
+        "permission": 117,
+        "obligation": 26,
+        "volition": 88,
+        "possibility": 42
+      },
+      "epistemic_counts": {
+        "ability": 78,
+        "strong_claim": 19,
+        "hedging": 42,
+        "recommendation": 7
+      },
+      "passive_count": 187,
+      "active_count": 1304,
+      "passive_ratio": 0.1254,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "CPH_Mor": {
+      "total_verbs": 3545,
+      "modal_counts": {
+        "can": 55,
+        "could": 36,
+        "would": 20,
+        "will": 7,
+        "should": 11,
+        "must": 1,
+        "may": 2,
+        "might": 1
+      },
+      "modal_category_counts": {
+        "ability": 91,
+        "permission": 93,
+        "possibility": 39,
+        "volition": 27,
+        "obligation": 12
+      },
+      "epistemic_counts": {
+        "ability": 55,
+        "hedging": 39,
+        "recommendation": 11,
+        "strong_claim": 1
+      },
+      "passive_count": 313,
+      "active_count": 2122,
+      "passive_ratio": 0.1285,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "DEIC_San": {
+      "total_verbs": 301,
+      "modal_counts": {
+        "could": 1,
+        "can": 3
+      },
+      "modal_category_counts": {
+        "ability": 4,
+        "permission": 4,
+        "possibility": 1
+      },
+      "epistemic_counts": {
+        "hedging": 1,
+        "ability": 3
+      },
+      "passive_count": 34,
+      "active_count": 186,
+      "passive_ratio": 0.1545,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELClass_Zot": {
+      "total_verbs": 514,
+      "modal_counts": {
+        "can": 16,
+        "would": 1,
+        "might": 2,
+        "could": 6
+      },
+      "modal_category_counts": {
+        "ability": 22,
+        "permission": 22,
+        "volition": 1,
+        "possibility": 8
+      },
+      "epistemic_counts": {
+        "ability": 16,
+        "hedging": 8
+      },
+      "passive_count": 35,
+      "active_count": 292,
+      "passive_ratio": 0.107,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "ELSPS_Zot": {
+      "total_verbs": 1179,
+      "modal_counts": {
+        "can": 60,
+        "might": 3,
+        "should": 4,
+        "will": 3,
+        "would": 2,
+        "could": 16,
+        "may": 1,
+        "must": 3
+      },
+      "modal_category_counts": {
+        "ability": 76,
+        "permission": 77,
+        "possibility": 20,
+        "obligation": 7,
+        "volition": 5
+      },
+      "epistemic_counts": {
+        "ability": 60,
+        "hedging": 20,
+        "recommendation": 4,
+        "strong_claim": 3
+      },
+      "passive_count": 103,
+      "active_count": 660,
+      "passive_ratio": 0.135,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "EOK_Geu": {
+      "total_verbs": 2524,
+      "modal_counts": {
+        "may": 21,
+        "would": 21,
+        "can": 77,
+        "could": 17,
+        "should": 12,
+        "must": 3,
+        "will": 57,
+        "might": 12
+      },
+      "modal_category_counts": {
+        "permission": 115,
+        "possibility": 50,
+        "volition": 78,
+        "ability": 94,
+        "obligation": 15
+      },
+      "epistemic_counts": {
+        "hedging": 50,
+        "ability": 77,
+        "recommendation": 12,
+        "strong_claim": 3
+      },
+      "passive_count": 143,
+      "active_count": 1576,
+      "passive_ratio": 0.0832,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "GLD_Gog": {
+      "total_verbs": 1806,
+      "modal_counts": {
+        "could": 28,
+        "can": 44,
+        "must": 10,
+        "will": 15,
+        "would": 9,
+        "might": 7,
+        "may": 16,
+        "should": 17
+      },
+      "modal_category_counts": {
+        "ability": 72,
+        "permission": 88,
+        "possibility": 51,
+        "obligation": 27,
+        "volition": 24
+      },
+      "epistemic_counts": {
+        "hedging": 51,
+        "ability": 44,
+        "strong_claim": 10,
+        "recommendation": 17
+      },
+      "passive_count": 144,
+      "active_count": 1093,
+      "passive_ratio": 0.1164,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_Car": {
+      "total_verbs": 901,
+      "modal_counts": {
+        "can": 32,
+        "should": 13,
+        "must": 3,
+        "will": 2,
+        "might": 8,
+        "could": 6,
+        "may": 2,
+        "would": 7,
+        "ought": 1
+      },
+      "modal_category_counts": {
+        "ability": 38,
+        "permission": 40,
+        "obligation": 17,
+        "volition": 9,
+        "possibility": 16
+      },
+      "epistemic_counts": {
+        "ability": 32,
+        "recommendation": 13,
+        "strong_claim": 3,
+        "hedging": 16
+      },
+      "passive_count": 65,
+      "active_count": 539,
+      "passive_ratio": 0.1076,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "NAL_DiL": {
+      "total_verbs": 1468,
+      "modal_counts": {
+        "should": 11,
+        "may": 13,
+        "can": 21,
+        "would": 12,
+        "could": 23,
+        "will": 11,
+        "must": 1
+      },
+      "modal_category_counts": {
+        "obligation": 12,
+        "permission": 57,
+        "possibility": 36,
+        "ability": 44,
+        "volition": 23
+      },
+      "epistemic_counts": {
+        "recommendation": 11,
+        "hedging": 36,
+        "ability": 21,
+        "strong_claim": 1
+      },
+      "passive_count": 90,
+      "active_count": 880,
+      "passive_ratio": 0.0928,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    },
+    "SCSA_Bon": {
+      "total_verbs": 6193,
+      "modal_counts": {
+        "can": 360,
+        "will": 137,
+        "should": 83,
+        "could": 32,
+        "must": 10,
+        "might": 43,
+        "may": 6,
+        "would": 45
+      },
+      "modal_category_counts": {
+        "ability": 392,
+        "permission": 398,
+        "volition": 182,
+        "obligation": 93,
+        "possibility": 81
+      },
+      "epistemic_counts": {
+        "ability": 360,
+        "recommendation": 83,
+        "hedging": 81,
+        "strong_claim": 10
+      },
+      "passive_count": 484,
+      "active_count": 3336,
+      "passive_ratio": 0.1267,
+      "reporting_verb_counts": {},
+      "reporting_type_counts": {}
+    }
+  }
+}

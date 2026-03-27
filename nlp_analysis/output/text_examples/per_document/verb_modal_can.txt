@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: can
+[TEXT]   For example, considering access to universities, only between 5% and 15% of the people applying for admission can be accepted every year because of the limited carrying capacity of the universities (Idogho et al., 2012).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: can
+[TEXT]   It cannot be denied that, despite the improvement in women’s enrolment in education, it is not sufficient and a severe situation of disparity between the two sexes continues to characterize Nigeria at all levels of education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: can
+[TEXT]   The National Policy on Education (1981), mentioned in the previous paragraph, defines national spending on education as ‘the greatest investment that the nation can make for the quick development of its economic, political, sociological, and human resources’ (Nwogu, 2015, p. 148).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: can
+[TEXT]   Promoting women’s access to employment can help to acquire innovation, productivity, and long-term effects on economic growth.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: can
+[TEXT]   While for females, if they can choose to keep the following school, they are influenced to become gentle nurses or primary school teachers.
+

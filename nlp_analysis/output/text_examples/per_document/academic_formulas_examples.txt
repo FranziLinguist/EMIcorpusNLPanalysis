@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Formula accademica: 'on the other hand' (×2)
+[TEXT]   On the other hand, the education of women has an impact on their decision-making power within the family, making them more independent and active in taking decisions concerning children.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Formula accademica: 'for example' (×2)
+[TEXT]   For example, considering access to universities, only between 5% and 15% of the people applying for admission can be accepted every year because of the limited carrying capacity of the universities (Idogho et al.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Formula accademica: 'as a result' (×1)
+[TEXT]   As a result, a share of the national budget was needed for debt repayment.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Formula accademica: 'on the one hand' (×1)
+[TEXT]   On the one hand, technology has the potential to introduce transparency and mechanisms to hold politicians accountable for their abuses, through e-voting processes during elections.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Formula accademica: 'for example' (×1)
+[TEXT]   For example, the government of Kenya assigned about fifteen million US dollars in 2014 to establish a security surveillance system throughout the country that contained different technologies such as CCTV cameras on the streets and public areas, all manufactured by Huawei, as part of the company’s “Safe City” initiatives (Calzati, 2022).
+

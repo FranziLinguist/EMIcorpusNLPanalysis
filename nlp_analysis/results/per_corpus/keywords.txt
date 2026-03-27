@@ -1,0 +1,26 @@
+======================================================================
+  KEYWORDS TF-IDF  –  CORPUS
+======================================================================
+
+Keyword                                  Score
+-----------------------------------------------
+reaction                              0.021633
+band                                  0.021280
+example                               0.019433
+used                                  0.019068
+market                                0.018404
+company                               0.017962
+people                                0.017474
+different                             0.017157
+reactions                             0.016786
+use                                   0.016368
+shareholders                          0.016161
+gap                                   0.015739
+important                             0.015609
+way                                   0.015469
+like                                  0.015398
+energy                                0.015385
+case                                  0.015273
+bioconjugation                        0.015250
+material                              0.015185
+strategies                            0.014997

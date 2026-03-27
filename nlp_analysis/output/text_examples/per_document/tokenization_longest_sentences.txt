@@ -1,0 +1,25 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Frase più lunga
+[TEXT]   Tratto da https://www.unicef.org/nigeria/education
+Aja-Okorie, U. (2013) ‘Women education in Nigeria: problems and implications for family role and stability’, European Scientific Journal
+Ojobo, J.A. (2008) ‘Education: A catalyst for Women Empowerment in Nigeria’, Ethiopian Journal of Education and Science
+Akubuilo, F. et al. (2012) ‘Women Education in Nigeria: Predicaments and Hopes’, International Journal of Advancements in Research & Technology
+British Council Nigeria (2012) ‘Gender in Nigeria Report 2012: improving the lives of girls and women in Nigeria.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Frase più lunga
+[TEXT]   As China today is the main exporter of artificial intelligence technology in the world, both private and state-backed Chinese companies have been involved in the manufacture and sale of surveillance technology to different governments and security forces throughout Africa, starting with invasive spyware software for chasing members of the opposition in Uganda and ending with the distribution of CCTV cameras throughout Zimbabwe.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Frase più lunga
+[TEXT]   As far as acceptance and inclusion are concerned, the last few words uttered in the interview could be representative: “I think there are two schools of thought, the first one is that we live in South African constitutional democracy, so at the base of it, ultimately, we need to respect everyone’s human rights and not try to impede or violate anyone on that, but at a social level, it’s about learning, it’s about respecting one another and seeing one another the very human and, at a very basic level, to say I see you, you see me, I respect you, you respect me and that’s what it’s all about”.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Frase più lunga
+[TEXT]   Indeed, since a history of ethnological research during the colonial and fascist periods is lacking, it is difficult to track down information on such practices, contacts with the population, field works, or the methodological and theoretical approaches, except through informal channels.
+To be fair this gap is not accidental, on the contrary, a process of removal of such an uncomfortable past has been carried out in the years following the end of fascism (Dore, 1980).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Frase più lunga
+[TEXT]   The food desert framing could definitely allow policy-makers and scholars to broaden the food and nutrition insecurity debate, including compelling problems, such as the inaccessibility to food deriving from the scarcity of affordable and healthy food shops in poor areas, the lack of proper cooking utensils to store or prepare nutritious meals, or the very poor quality (and sometimes even contamination or pollution) of food produce sold by informal retailers who, in fact, account for almost the 70% of the food market in some poor urban areas.
+

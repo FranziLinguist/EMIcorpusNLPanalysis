@@ -1,0 +1,2962 @@
+{
+  "per_document": {
+    "AS_Gus_AS2_P44_P45": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 1.13,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 2,
+        "for example": 2,
+        "as a result": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS2_P46_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 0.64,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the one hand": 1,
+        "for example": 1,
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "on the one hand"
+      ]
+    },
+    "AS_Gus_AS2_P48_P49_P50": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx",
+      "total_count": 15,
+      "density_per_1000_tokens": 1.75,
+      "unique_formula_ratio": 0.35,
+      "formula_counts": {
+        "in conclusion": 2,
+        "for example": 1,
+        "for instance": 3,
+        "as a result": 1,
+        "in order to": 6,
+        "in terms of": 1,
+        "as mentioned above": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "as mentioned above",
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in terms of"
+      ]
+    },
+    "AS_Gus_AS2_P51_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx",
+      "total_count": 6,
+      "density_per_1000_tokens": 1.46,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "according to the author": 1,
+        "on the one hand": 1,
+        "on the other hand": 1,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "according to the author",
+        "in order to",
+        "on the one hand",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS2_P53_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx",
+      "total_count": 10,
+      "density_per_1000_tokens": 2.5,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 2,
+        "for instance": 3,
+        "as a result": 1,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS1_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P171.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 2.29,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS1_P43": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 2.15,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the one hand": 2,
+        "for example": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in terms of",
+        "on the one hand"
+      ]
+    },
+    "AS_Gus_AS1_P44": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P44.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "AS_Gus_AS1_P46": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 2.88,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "on the one hand": 1,
+        "on the other hand": 2,
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the one hand",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS1_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P47.docx",
+      "total_count": 6,
+      "density_per_1000_tokens": 3.24,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "the author argues that": 1,
+        "in other words": 1,
+        "for example": 4
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in other words",
+        "the author argues that"
+      ]
+    },
+    "AS_Gus_AS1_P48": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P48.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 1.24,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "as a result": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "in order to"
+      ]
+    },
+    "AS_Gus_AS1_P51": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P51.docx",
+      "total_count": 13,
+      "density_per_1000_tokens": 6.86,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "for instance": 3,
+        "in order to": 8,
+        "in terms of": 2
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in order to",
+        "in terms of"
+      ]
+    },
+    "AS_Gus_AS1_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P52.docx",
+      "total_count": 7,
+      "density_per_1000_tokens": 3.61,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 4,
+        "for instance": 3
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "on the other hand"
+      ]
+    },
+    "AS_Gus_AS1_P53": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P53.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 1.1,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS1_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P110.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.42,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CILE_Pol_AS1_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P111.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.85,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 2,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS1_P112": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P112.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.75,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "CILE_Pol_AS1_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P113.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.04,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS1_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P114.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS1_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P115.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.66,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CILE_Pol_AS1_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P116.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 1.9,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "on the other hand"
+      ]
+    },
+    "CILE_Pol_AS1_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P117.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 3.76,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for instance": 2,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS1_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P118.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.41,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CILE_Pol_AS1_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P119.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 3.16,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in terms of": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in terms of"
+      ]
+    },
+    "CILE_Pol_AS1_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P120.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS1_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P121.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS1_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P122.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.72,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "CILE_Pol_AS1_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P123.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.56,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "CILE_Pol_AS1_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P124.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.32,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CILE_Pol_AS1_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P125.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS1_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P126.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 5.61,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "on the one hand": 1,
+        "for example": 1,
+        "in order to": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "in terms of",
+        "on the one hand"
+      ]
+    },
+    "CILE_Pol_AS2_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P113.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.42,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS2_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P114.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.32,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS2_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P116.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 0.85,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance"
+      ]
+    },
+    "CILE_Pol_AS2_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P120.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS2_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P122.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS2_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS2_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P124.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS3_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P110.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS3_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P111.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.55,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS3_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P114.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS3_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P115.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.34,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS3_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P117.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 7.7,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for instance": 2,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in order to"
+      ]
+    },
+    "CILE_Pol_AS3_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P118.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.66,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CILE_Pol_AS3_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P119.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.15,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "CILE_Pol_AS3_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P121.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CILE_Pol_AS3_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P125.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 5.31,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for instance": 4
+      },
+      "unique_formulas_found": [
+        "for instance"
+      ]
+    },
+    "CILE_Pol_AS3_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P126.docx",
+      "total_count": 6,
+      "density_per_1000_tokens": 7.76,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 2,
+        "in terms of": 4
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in terms of"
+      ]
+    },
+    "CILE_Pol_AS3_P127": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P127.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.25,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CLA_Pol _AS1_P136": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol _AS1_P136.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.73,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CLA_Pol_AS1_P128": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P128.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 3.5,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in order to": 2,
+        "with regard to": 1
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "with regard to"
+      ]
+    },
+    "CLA_Pol_AS1_P129": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P129.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.25,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P130": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P130.docx",
+      "total_count": 10,
+      "density_per_1000_tokens": 9.42,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 4,
+        "for example": 2,
+        "in order to": 4
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "CLA_Pol_AS1_P131": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P131.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.19,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "CLA_Pol_AS1_P132": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P132.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.65,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance"
+      ]
+    },
+    "CLA_Pol_AS1_P133": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P133.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.72,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "CLA_Pol_AS1_P134": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P134.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.78,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in conclusion": 1,
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in conclusion"
+      ]
+    },
+    "CLA_Pol_AS1_P135": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P135.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.75,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P137": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P137.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 5.19,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P138": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P138.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.25,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "in terms of"
+      ]
+    },
+    "CLA_Pol_AS1_P139": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P139.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 3.79,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CLA_Pol_AS1_P140": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P140.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.33,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CLA_Pol_AS1_P141": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P141.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.26,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CLA_Pol_AS1_P142": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P142.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.39,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P143": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P143.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.17,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P144": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P144.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 7.59,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 4
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P145": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P145.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 5.32,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in conclusion": 1,
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in conclusion",
+        "in order to"
+      ]
+    },
+    "CLA_Pol_AS1_P146": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P146.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 4.32,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CPH_Mor_AS1_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P1.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS1_P10": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P10.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.48,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS1_P11": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P11.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.09,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS1_P12": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P12.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS1_P13": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P13.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.06,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "as a result": 2
+      },
+      "unique_formulas_found": [
+        "as a result"
+      ]
+    },
+    "CPH_Mor_AS1_P14": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P14.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS1_P15": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P15.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS1_P16": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P16.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.31,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in conclusion": 1
+      },
+      "unique_formulas_found": [
+        "in conclusion"
+      ]
+    },
+    "CPH_Mor_AS1_P17": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P17.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.59,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "in order to": 1,
+        "with regard to": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "in terms of",
+        "with regard to"
+      ]
+    },
+    "CPH_Mor_AS1_P2": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P2.docx",
+      "total_count": 7,
+      "density_per_1000_tokens": 8.06,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the one hand": 1,
+        "on the other hand": 1,
+        "as a result": 1,
+        "in order to": 1,
+        "in terms of": 3
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "in order to",
+        "in terms of",
+        "on the one hand",
+        "on the other hand"
+      ]
+    },
+    "CPH_Mor_AS1_P3": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P3.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.39,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "for example": 1,
+        "for instance": 1,
+        "as mentioned above": 1
+      },
+      "unique_formulas_found": [
+        "as mentioned above",
+        "for example",
+        "for instance"
+      ]
+    },
+    "CPH_Mor_AS1_P4": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P4.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 4.16,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 4
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CPH_Mor_AS1_P5": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P5.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.79,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS1_P6": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P6.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.61,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 2,
+        "in other words": 1
+      },
+      "unique_formulas_found": [
+        "in other words",
+        "on the other hand"
+      ]
+    },
+    "CPH_Mor_AS1_P7": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P7.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS1_P8": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P8.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.61,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS1_P9": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P9.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 5.34,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "in conclusion": 1,
+        "for example": 2,
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in conclusion",
+        "in order to"
+      ]
+    },
+    "CPH_Mor_AS2_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P1.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.54,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P18": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P18.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 5.33,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for instance": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "CPH_Mor_AS2_P19": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P19.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.47,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "CPH_Mor_AS2_P20": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P20.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.09,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 3
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P21": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P21.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 3.75,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "in conclusion": 1,
+        "on the other hand": 1,
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in conclusion",
+        "on the other hand"
+      ]
+    },
+    "CPH_Mor_AS2_P22": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P22.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 0.82,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P23": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P23.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "CPH_Mor_AS2_P24": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P24.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.71,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P25": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P25.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.28,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P26": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P26.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.14,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P27": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P27.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.14,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P28": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P28.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.35,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "CPH_Mor_AS2_P29": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P29.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 6.38,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 4,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "CPH_Mor_AS2_P30": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P30.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 3.33,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "for instance": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance"
+      ]
+    },
+    "DEIC_San_AS1_P35_P38_P41_P164": {
+      "discipline": "DEIC_San",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Sanfilippo_TRASCRIZIONI/DEIC_San_AS1_P35_P38_P41_P164.docx",
+      "total_count": 7,
+      "density_per_1000_tokens": 2.75,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the other hand": 3,
+        "for example": 1,
+        "for instance": 1,
+        "as a result": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "ELClass_Zot_AS1_P157": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELCLass_Zot_AS1/ELClass_Zot_AS1_P157.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.4,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ELClass_Zot_AS2_P158": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P158.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 3.91,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ELClass_Zot_AS2_P159": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P159.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "ELClass_Zot_AS2_P161": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P161.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 7.69,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ELClass_Zot_AS2_P163": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P163.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 5.73,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ELClass_Zot_AS3_P160": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P160.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "ELClass_Zot_AS3_P162": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P162.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 5.81,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ALSPS_Zot_AS1_P147": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P147.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.34,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "ALSPS_Zot_AS1_P149": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P149.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 5.46,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "ALSPS_Zot_AS1_P152": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P152.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 7.89,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 4
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ALSPS_Zot_AS2_P148": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P148.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 5.99,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 3
+      },
+      "unique_formulas_found": [
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "ALSPS_Zot_AS2_P155": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P155.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 5.49,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 2,
+        "for instance": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance"
+      ]
+    },
+    "ALSPS_Zot_AS3_P150": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P150.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "ALSPS_Zot_AS3_P151": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P151.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 6.22,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 3
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ALSPS_Zot_AS3_P153": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P153.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 5.32,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 3
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ALSPS_Zot_AS4_P154": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P154.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.16,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ALSPS_Zot_AS4_P156": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P156.docx",
+      "total_count": 6,
+      "density_per_1000_tokens": 6.23,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 2,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "EOK_Geu_AS2_P34_P35_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P34_P35_P40.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 0.86,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 2,
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "EOK_Geu_AS2_P39_P164_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P39_P164_P165.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 0.94,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "for example": 1,
+        "for instance": 1,
+        "as a result": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in terms of"
+      ]
+    },
+    "EOK_Geu_AS1_P34": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P34.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "EOK_Geu_AS1_P35": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P35.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.19,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in other words": 2
+      },
+      "unique_formulas_found": [
+        "in other words"
+      ]
+    },
+    "EOK_Geu_AS1_P36": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P36.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.71,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "EOK_Geu_AS1_P37": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P37.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.12,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "EOK_Geu_AS1_P38": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P38.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 8.58,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in order to": 1,
+        "in terms of": 4
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "in terms of"
+      ]
+    },
+    "EOK_Geu_AS1_P39": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P39.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.44,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "EOK_Geu_AS3_P164": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P164.docx",
+      "total_count": 7,
+      "density_per_1000_tokens": 7.95,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 7
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "EOK_Geu_AS3_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P165.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.63,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for instance": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "for instance",
+        "in terms of"
+      ]
+    },
+    "EOK_Geu_AS3_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P40.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 6.25,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in order to": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "in terms of"
+      ]
+    },
+    "EOK_Geu_AS3_P41": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P41.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.23,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "EOK_Geu_AS3_P42": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P42.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 5.08,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 4
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "GLD_Gog_AS1_P169_P170": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P169_P170.docx",
+      "total_count": 8,
+      "density_per_1000_tokens": 3.0,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "in other words": 1,
+        "for example": 5,
+        "for instance": 1,
+        "as a result": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in other words"
+      ]
+    },
+    "GLD_Gog_AS1_P16_P167_P168": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P16_P167_P168.docx",
+      "total_count": 10,
+      "density_per_1000_tokens": 3.68,
+      "unique_formula_ratio": 0.3,
+      "formula_counts": {
+        "in conclusion": 1,
+        "on the other hand": 2,
+        "for example": 2,
+        "for instance": 1,
+        "in order to": 3,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in terms of",
+        "on the other hand"
+      ]
+    },
+    "GLD_Gog_AS1_P26": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P26.docx",
+      "total_count": 8,
+      "density_per_1000_tokens": 2.83,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "on the other hand": 1,
+        "as a result": 1,
+        "in order to": 5,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "in order to",
+        "in terms of",
+        "on the other hand"
+      ]
+    },
+    "GLD_Gog_AS1_P31_P32_P33": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P31_P32_P33.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 1.42,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 3,
+        "as mentioned above": 1
+      },
+      "unique_formulas_found": [
+        "as mentioned above",
+        "for example"
+      ]
+    },
+    "NAL_Car_AS1_P100": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P100.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 4.81,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "NAL_Car_AS1_P101": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P101.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.62,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "the author argues that": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "the author argues that"
+      ]
+    },
+    "NAL_Car_AS1_P102": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P102.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.78,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "in conclusion": 1,
+        "on the other hand": 1,
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in conclusion",
+        "on the other hand"
+      ]
+    },
+    "NAL_Car_AS1_P103": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P103.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.88,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "NAL_Car_AS1_P104": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P104.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.32,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "in conclusion": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in conclusion",
+        "in order to"
+      ]
+    },
+    "NAL_Car_AS1_P172": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx",
+      "total_count": 11,
+      "density_per_1000_tokens": 11.87,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "for example": 1,
+        "for instance": 1,
+        "in order to": 9
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in order to"
+      ]
+    },
+    "NAL_Car_AS1_P98": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P98.docx",
+      "total_count": 9,
+      "density_per_1000_tokens": 10.5,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the one hand": 1,
+        "on the other hand": 1,
+        "for example": 1,
+        "for instance": 1,
+        "in order to": 5
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in order to",
+        "on the one hand",
+        "on the other hand"
+      ]
+    },
+    "NAL_Car_AS1_P99": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P99.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.59,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "NAL_DiL_AS1_P105": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P105.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 0.66,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "NAL_DiL_AS1_P106": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P106.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "NAL_DiL_AS1_P107": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P107.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "NAL_DiL_AS1_P108": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P108.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 0.84,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "NAL_DiL_AS1_P109": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P109.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 0.78,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "NAL_DiL_AS1_P166": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P166.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P54.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.57,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS1_P55": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P55.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P56.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 2.0,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance"
+      ]
+    },
+    "SCSA_Bon_AS1_P57": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P57.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 1.91,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS1_P58": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P58.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P59": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P59.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.54,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS1_P60": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P60.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.25,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "as a result": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS1_P61": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P61.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 3.05,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 3,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS1_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P62.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P63": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P63.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.06,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "on the other hand": 1
+      },
+      "unique_formulas_found": [
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS1_P64": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P64.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P65": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P65.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.67,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for instance"
+      ]
+    },
+    "SCSA_Bon_AS1_P66": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P66.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P67.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.7,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS1_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P68.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P69.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.66,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "in terms of"
+      ]
+    },
+    "SCSA_Bon_AS1_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P70.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS1_P71": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P71.docx",
+      "total_count": 10,
+      "density_per_1000_tokens": 10.4,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 4,
+        "as a result": 1,
+        "in order to": 3,
+        "with regard to": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "in order to",
+        "on the other hand",
+        "with regard to"
+      ]
+    },
+    "SCSA_Bon_AS1_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P72.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P54.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.57,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "in terms of"
+      ]
+    },
+    "SCSA_Bon_AS2_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P56.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.62,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "for instance": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance"
+      ]
+    },
+    "SCSA_Bon_AS2_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P62.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P67.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P68.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P69.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P70.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P72.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P73": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P73.docx",
+      "total_count": 6,
+      "density_per_1000_tokens": 6.83,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 5,
+        "as mentioned above": 1
+      },
+      "unique_formulas_found": [
+        "as mentioned above",
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P74": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P74.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P75": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P75.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P76": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P76.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P77": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P77.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.65,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P78": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P78.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 4.62,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P79": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P79.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 3.18,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P80": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P80.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 5.64,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 2,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P81": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P81.docx",
+      "total_count": 8,
+      "density_per_1000_tokens": 9.01,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 5,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P82": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P82.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.47,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "in other words": 1
+      },
+      "unique_formulas_found": [
+        "in other words"
+      ]
+    },
+    "SCSA_Bon_AS2_P83": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P83.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 4.41,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P84": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P84.docx",
+      "total_count": 0,
+      "density_per_1000_tokens": 0.0,
+      "unique_formula_ratio": 0.0,
+      "formula_counts": {},
+      "unique_formulas_found": []
+    },
+    "SCSA_Bon_AS2_P85": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P85.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 7.25,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P86": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P86.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.36,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P87": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P87.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.55,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P88": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P88.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 3.54,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P89": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P89.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 4.26,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS2_P90": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P90.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.01,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "as a result": 1
+      },
+      "unique_formulas_found": [
+        "as a result"
+      ]
+    },
+    "SCSA_Bon_AS2_P91": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P91.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.94,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 2,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    },
+    "SCSA_Bon_AS2_P92": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P92.docx",
+      "total_count": 4,
+      "density_per_1000_tokens": 3.08,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 4
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P93": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P93.docx",
+      "total_count": 3,
+      "density_per_1000_tokens": 2.56,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 3
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P94": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P94.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.37,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P95": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P95.docx",
+      "total_count": 1,
+      "density_per_1000_tokens": 1.11,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 1
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "SCSA_Bon_AS2_P96": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P96.docx",
+      "total_count": 5,
+      "density_per_1000_tokens": 3.83,
+      "unique_formula_ratio": 0.15,
+      "formula_counts": {
+        "on the other hand": 1,
+        "for example": 1,
+        "in order to": 3
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon_AS2_P97": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P97.docx",
+      "total_count": 2,
+      "density_per_1000_tokens": 2.83,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "for example": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "in order to"
+      ]
+    }
+  },
+  "per_discipline": {
+    "AS_Gus": {
+      "total_count": 82,
+      "density_per_1000_tokens": 1.95,
+      "unique_formula_ratio": 0.6,
+      "formula_counts": {
+        "in order to": 27,
+        "for instance": 13,
+        "for example": 12,
+        "on the other hand": 11,
+        "on the one hand": 5,
+        "as a result": 4,
+        "in terms of": 4,
+        "in conclusion": 2,
+        "as mentioned above": 1,
+        "according to the author": 1,
+        "the author argues that": 1,
+        "in other words": 1
+      },
+      "unique_formulas_found": [
+        "according to the author",
+        "as a result",
+        "as mentioned above",
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in other words",
+        "in terms of",
+        "on the one hand",
+        "on the other hand",
+        "the author argues that"
+      ]
+    },
+    "CILE_Pol": {
+      "total_count": 54,
+      "density_per_1000_tokens": 2.05,
+      "unique_formula_ratio": 0.3,
+      "formula_counts": {
+        "for example": 18,
+        "in order to": 13,
+        "for instance": 10,
+        "in terms of": 7,
+        "on the other hand": 5,
+        "on the one hand": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in order to",
+        "in terms of",
+        "on the one hand",
+        "on the other hand"
+      ]
+    },
+    "CLA_Pol": {
+      "total_count": 44,
+      "density_per_1000_tokens": 3.56,
+      "unique_formula_ratio": 0.35,
+      "formula_counts": {
+        "in order to": 22,
+        "for example": 11,
+        "on the other hand": 6,
+        "in conclusion": 2,
+        "with regard to": 1,
+        "for instance": 1,
+        "in terms of": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in terms of",
+        "on the other hand",
+        "with regard to"
+      ]
+    },
+    "CPH_Mor": {
+      "total_count": 59,
+      "density_per_1000_tokens": 2.57,
+      "unique_formula_ratio": 0.55,
+      "formula_counts": {
+        "for example": 23,
+        "in order to": 12,
+        "on the other hand": 5,
+        "for instance": 5,
+        "in terms of": 4,
+        "as a result": 3,
+        "in conclusion": 3,
+        "with regard to": 1,
+        "on the one hand": 1,
+        "as mentioned above": 1,
+        "in other words": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "as mentioned above",
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in other words",
+        "in terms of",
+        "on the one hand",
+        "on the other hand",
+        "with regard to"
+      ]
+    },
+    "DEIC_San": {
+      "total_count": 7,
+      "density_per_1000_tokens": 2.75,
+      "unique_formula_ratio": 0.25,
+      "formula_counts": {
+        "on the other hand": 3,
+        "for example": 1,
+        "for instance": 1,
+        "as a result": 1,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "ELClass_Zot": {
+      "total_count": 9,
+      "density_per_1000_tokens": 3.2,
+      "unique_formula_ratio": 0.05,
+      "formula_counts": {
+        "for example": 9
+      },
+      "unique_formulas_found": [
+        "for example"
+      ]
+    },
+    "ELSPS_Zot": {
+      "total_count": 28,
+      "density_per_1000_tokens": 4.57,
+      "unique_formula_ratio": 0.2,
+      "formula_counts": {
+        "for example": 18,
+        "in order to": 6,
+        "on the other hand": 2,
+        "for instance": 2
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "EOK_Geu": {
+      "total_count": 36,
+      "density_per_1000_tokens": 2.18,
+      "unique_formula_ratio": 0.35,
+      "formula_counts": {
+        "for example": 17,
+        "in terms of": 7,
+        "in order to": 4,
+        "on the other hand": 3,
+        "for instance": 2,
+        "in other words": 2,
+        "as a result": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "for example",
+        "for instance",
+        "in order to",
+        "in other words",
+        "in terms of",
+        "on the other hand"
+      ]
+    },
+    "GLD_Gog": {
+      "total_count": 30,
+      "density_per_1000_tokens": 2.72,
+      "unique_formula_ratio": 0.45,
+      "formula_counts": {
+        "for example": 10,
+        "in order to": 8,
+        "on the other hand": 3,
+        "for instance": 2,
+        "as a result": 2,
+        "in terms of": 2,
+        "in other words": 1,
+        "in conclusion": 1,
+        "as mentioned above": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "as mentioned above",
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "in other words",
+        "in terms of",
+        "on the other hand"
+      ]
+    },
+    "NAL_Car": {
+      "total_count": 32,
+      "density_per_1000_tokens": 5.57,
+      "unique_formula_ratio": 0.35,
+      "formula_counts": {
+        "in order to": 19,
+        "for example": 4,
+        "on the other hand": 3,
+        "in conclusion": 2,
+        "for instance": 2,
+        "the author argues that": 1,
+        "on the one hand": 1
+      },
+      "unique_formulas_found": [
+        "for example",
+        "for instance",
+        "in conclusion",
+        "in order to",
+        "on the one hand",
+        "on the other hand",
+        "the author argues that"
+      ]
+    },
+    "NAL_DiL": {
+      "total_count": 3,
+      "density_per_1000_tokens": 0.38,
+      "unique_formula_ratio": 0.1,
+      "formula_counts": {
+        "on the other hand": 2,
+        "in order to": 1
+      },
+      "unique_formulas_found": [
+        "in order to",
+        "on the other hand"
+      ]
+    },
+    "SCSA_Bon": {
+      "total_count": 89,
+      "density_per_1000_tokens": 2.32,
+      "unique_formula_ratio": 0.45,
+      "formula_counts": {
+        "for example": 46,
+        "in order to": 25,
+        "on the other hand": 7,
+        "for instance": 3,
+        "as a result": 3,
+        "in terms of": 2,
+        "with regard to": 1,
+        "as mentioned above": 1,
+        "in other words": 1
+      },
+      "unique_formulas_found": [
+        "as a result",
+        "as mentioned above",
+        "for example",
+        "for instance",
+        "in order to",
+        "in other words",
+        "in terms of",
+        "on the other hand",
+        "with regard to"
+      ]
+    }
+  }
+}

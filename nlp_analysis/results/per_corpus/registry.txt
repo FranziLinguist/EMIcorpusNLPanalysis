@@ -1,0 +1,21 @@
+======================================================================
+  REGISTRY  –  CORPUS OVERVIEW
+======================================================================
+
+Totale discipline: 12
+Totale documenti: 200
+
+Disciplina            N documenti
+-----------------------------------
+AS_Gus                         14
+CILE_Pol                       35
+CLA_Pol                        19
+CPH_Mor                        31
+DEIC_San                        1
+ELClass_Zot                     7
+ELSPS_Zot                      10
+EOK_Geu                        13
+GLD_Gog                         4
+NAL_Car                         8
+NAL_DiL                         6
+SCSA_Bon                       52

@@ -1,0 +1,23 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 94)
+[LABEL]  Connettivo conclusive: 'overall'
+[TEXT]   Delaying the age at which having children, both the fertility rate and the overall population growth reduced (ibidem).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 151)
+[LABEL]  Connettivo conclusive: 'overall'
+[TEXT]   (We should All Be Feminists, 2014)
+Conclusion
+Looking at the overall situation of women in Nigeria it is clear that many steps must still be made to reach the status of gender equality in educational issues.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx (sentence 246)
+[LABEL]  Connettivo conclusive: 'in conclusion'
+[TEXT]   In conclusion, antropopoiesi aims at constructing, molding and shaping bodies and minds in the image and likeness of one’s own culture and society, so as to preserve social survival and cultural existence: “Per fare questo deve educare i nuovi nati, insegnare loro non solo a camminare, ma a farlo nel giusto modo previsto dalla propria società; non solo a mangiare, ma a saper distinguere i cibi puri da quelli abominevoli; non solo a riprodursi, ma a farlo coerentemente con le leggi culturali”55.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx (sentence 275)
+[LABEL]  Connettivo conclusive: 'in conclusion'
+[TEXT]   In conclusion, LGBTQI+ people of South Africa just claim their right to exist and to be included in the society.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx (sentence 109)
+[LABEL]  Connettivo conclusive: 'to conclude'
+[TEXT]   Conclusion
+To conclude, the food desert framing may be undoubtedly a useful way out of the current limited (rural) understanding of food and nutrition insecurity issues.
+

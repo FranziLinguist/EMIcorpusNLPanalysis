@@ -1,0 +1,32 @@
+======================================================================
+  COESIONE  –  PER DISCIPLINA
+======================================================================
+
+Disciplina            Tot mark  Den/100s  Div idx  Categorie
+---------------------------------------------------------------------------
+AS_Gus                     484     28.16    0.056  additive:175 | adversative:81 | causal:136 | conclusive:6 | sequential:86
+CILE_Pol                   294     24.69    0.068  additive:132 | adversative:26 | causal:80 | conclusive:2 | sequential:54
+CLA_Pol                    127     24.47    0.126  additive:43 | adversative:17 | causal:23 | conclusive:5 | sequential:39
+CPH_Mor                    275     27.12    0.080  additive:97 | adversative:26 | causal:74 | conclusive:12 | sequential:66
+DEIC_San                    17     11.64    0.706  additive:6 | adversative:6 | causal:4 | sequential:1
+ELClass_Zot                 34     20.48    0.176  additive:8 | adversative:1 | causal:7 | sequential:18
+ELSPS_Zot                   52     15.85    0.135  additive:12 | adversative:2 | causal:23 | sequential:15
+EOK_Geu                    193     18.61    0.124  additive:91 | adversative:44 | causal:28 | conclusive:3 | sequential:27
+GLD_Gog                    130     33.94    0.192  additive:51 | adversative:19 | causal:24 | conclusive:7 | sequential:29
+NAL_Car                     55     22.45    0.291  additive:22 | adversative:12 | causal:13 | conclusive:2 | sequential:6
+NAL_DiL                     58     16.43    0.207  additive:14 | adversative:5 | causal:14 | sequential:25
+SCSA_Bon                   326     15.52    0.055  additive:153 | adversative:19 | causal:89 | conclusive:1 | sequential:64
+
+Top 5 marcatori per disciplina:
+  AS_Gus: also(112), first(51), because(50), however(39), thus(35)
+  CILE_Pol: also(108), because(54), first(25), then(20), however(17)
+  CLA_Pol: also(31), then(28), because(17), however(10), moreover(10)
+  CPH_Mor: also(79), because(56), first(41), then(15), however(14)
+  DEIC_San: also(4), on the other hand(3), however(1), because(1), thus(1)
+  ELClass_Zot: first(13), also(8), because(7), then(4), in contrast(1)
+  ELSPS_Zot: because(21), also(12), first(8), then(5), finally(2)
+  EOK_Geu: also(67), however(14), because(13), first(13), moreover(13)
+  GLD_Gog: also(37), first(17), however(10), because(10), thus(6)
+  NAL_Car: also(12), because(6), however(6), first(5), therefore(5)
+  NAL_DiL: first(13), because(13), then(11), also(7), moreover(6)
+  SCSA_Bon: also(147), because(74), then(34), first(27), however(9)

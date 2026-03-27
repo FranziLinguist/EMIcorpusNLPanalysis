@@ -1,0 +1,1010 @@
+{
+  "AS_Gus": {
+    "keywords": [
+      {
+        "keyword": "ferguson",
+        "score": 0.055617
+      },
+      {
+        "keyword": "transgender",
+        "score": 0.054012
+      },
+      {
+        "keyword": "nigeria",
+        "score": 0.053692
+      },
+      {
+        "keyword": "insecurity",
+        "score": 0.047411
+      },
+      {
+        "keyword": "surveillance",
+        "score": 0.047411
+      },
+      {
+        "keyword": "convergence",
+        "score": 0.047411
+      },
+      {
+        "keyword": "transgender people",
+        "score": 0.046478
+      },
+      {
+        "keyword": "source https",
+        "score": 0.045088
+      },
+      {
+        "keyword": "ferguson 2006",
+        "score": 0.045088
+      },
+      {
+        "keyword": "south",
+        "score": 0.044413
+      },
+      {
+        "keyword": "globalization",
+        "score": 0.044335
+      },
+      {
+        "keyword": "food insecurity",
+        "score": 0.044317
+      },
+      {
+        "keyword": "african continent",
+        "score": 0.043484
+      },
+      {
+        "keyword": "apartheid",
+        "score": 0.043484
+      },
+      {
+        "keyword": "continent",
+        "score": 0.043425
+      },
+      {
+        "keyword": "modernity",
+        "score": 0.04316
+      },
+      {
+        "keyword": "africans",
+        "score": 0.042762
+      },
+      {
+        "keyword": "nigerian",
+        "score": 0.042578
+      },
+      {
+        "keyword": "digital authoritarianism",
+        "score": 0.042578
+      },
+      {
+        "keyword": "urbanization",
+        "score": 0.042578
+      }
+    ]
+  },
+  "CILE_Pol": {
+    "keywords": [
+      {
+        "keyword": "shareholders",
+        "score": 0.078249
+      },
+      {
+        "keyword": "corporation",
+        "score": 0.067451
+      },
+      {
+        "keyword": "dominant position",
+        "score": 0.067333
+      },
+      {
+        "keyword": "constituencies",
+        "score": 0.064687
+      },
+      {
+        "keyword": "external constituencies",
+        "score": 0.063923
+      },
+      {
+        "keyword": "shareholder",
+        "score": 0.062231
+      },
+      {
+        "keyword": "directors",
+        "score": 0.060682
+      },
+      {
+        "keyword": "corporate law",
+        "score": 0.060473
+      },
+      {
+        "keyword": "legal personality",
+        "score": 0.060045
+      },
+      {
+        "keyword": "business corporation",
+        "score": 0.060045
+      },
+      {
+        "keyword": "merger",
+        "score": 0.059825
+      },
+      {
+        "keyword": "ownership",
+        "score": 0.059515
+      },
+      {
+        "keyword": "managers",
+        "score": 0.058705
+      },
+      {
+        "keyword": "dispersed",
+        "score": 0.058412
+      },
+      {
+        "keyword": "creditors",
+        "score": 0.057902
+      },
+      {
+        "keyword": "corp",
+        "score": 0.057902
+      },
+      {
+        "keyword": "prospectus",
+        "score": 0.057638
+      },
+      {
+        "keyword": "minority shareholders",
+        "score": 0.057369
+      },
+      {
+        "keyword": "dispersed ownership",
+        "score": 0.057093
+      },
+      {
+        "keyword": "corporate",
+        "score": 0.056976
+      }
+    ]
+  },
+  "CLA_Pol": {
+    "keywords": [
+      {
+        "keyword": "mifid",
+        "score": 0.085191
+      },
+      {
+        "keyword": "mifid ii",
+        "score": 0.082928
+      },
+      {
+        "keyword": "instruments",
+        "score": 0.081011
+      },
+      {
+        "keyword": "financial instruments",
+        "score": 0.077701
+      },
+      {
+        "keyword": "derivative",
+        "score": 0.076732
+      },
+      {
+        "keyword": "financial instrument",
+        "score": 0.076226
+      },
+      {
+        "keyword": "alpha",
+        "score": 0.076203
+      },
+      {
+        "keyword": "natural gas",
+        "score": 0.074611
+      },
+      {
+        "keyword": "client",
+        "score": 0.072634
+      },
+      {
+        "keyword": "algorithmic trading",
+        "score": 0.072185
+      },
+      {
+        "keyword": "algorithmic",
+        "score": 0.072185
+      },
+      {
+        "keyword": "company alpha",
+        "score": 0.07152
+      },
+      {
+        "keyword": "product providers",
+        "score": 0.070828
+      },
+      {
+        "keyword": "orders",
+        "score": 0.070106
+      },
+      {
+        "keyword": "high frequency",
+        "score": 0.070106
+      },
+      {
+        "keyword": "frequency trading",
+        "score": 0.069353
+      },
+      {
+        "keyword": "types financial",
+        "score": 0.068564
+      },
+      {
+        "keyword": "hft",
+        "score": 0.068564
+      },
+      {
+        "keyword": "underlying",
+        "score": 0.067518
+      },
+      {
+        "keyword": "asking advice",
+        "score": 0.066867
+      }
+    ]
+  },
+  "CPH_Mor": {
+    "keywords": [
+      {
+        "keyword": "empires",
+        "score": 0.078719
+      },
+      {
+        "keyword": "merchants",
+        "score": 0.072115
+      },
+      {
+        "keyword": "merchant",
+        "score": 0.071851
+      },
+      {
+        "keyword": "spanish",
+        "score": 0.068901
+      },
+      {
+        "keyword": "merchant networks",
+        "score": 0.067164
+      },
+      {
+        "keyword": "empire",
+        "score": 0.065264
+      },
+      {
+        "keyword": "15th",
+        "score": 0.063385
+      },
+      {
+        "keyword": "theory drain",
+        "score": 0.061868
+      },
+      {
+        "keyword": "south asia",
+        "score": 0.061324
+      },
+      {
+        "keyword": "native american",
+        "score": 0.061324
+      },
+      {
+        "keyword": "15th 16th",
+        "score": 0.061324
+      },
+      {
+        "keyword": "16th century",
+        "score": 0.06076
+      },
+      {
+        "keyword": "decolonization",
+        "score": 0.059844
+      },
+      {
+        "keyword": "imperial economy",
+        "score": 0.059559
+      },
+      {
+        "keyword": "british imperial",
+        "score": 0.059559
+      },
+      {
+        "keyword": "indian",
+        "score": 0.059451
+      },
+      {
+        "keyword": "native",
+        "score": 0.058938
+      },
+      {
+        "keyword": "atlantic",
+        "score": 0.058598
+      },
+      {
+        "keyword": "europeans",
+        "score": 0.058385
+      },
+      {
+        "keyword": "colonialism",
+        "score": 0.058098
+      }
+    ]
+  },
+  "DEIC_San": {
+    "keywords": [
+      {
+        "keyword": "informal economy",
+        "score": 0.152465
+      },
+      {
+        "keyword": "informality",
+        "score": 0.150826
+      },
+      {
+        "keyword": "ilo",
+        "score": 0.14132
+      },
+      {
+        "keyword": "elgin",
+        "score": 0.117873
+      },
+      {
+        "keyword": "informal",
+        "score": 0.113568
+      },
+      {
+        "keyword": "informal employment",
+        "score": 0.113531
+      },
+      {
+        "keyword": "formal sector",
+        "score": 0.102925
+      },
+      {
+        "keyword": "informal sector",
+        "score": 0.101231
+      },
+      {
+        "keyword": "graph",
+        "score": 0.101231
+      },
+      {
+        "keyword": "formal",
+        "score": 0.097665
+      },
+      {
+        "keyword": "shleifer 2014",
+        "score": 0.096203
+      },
+      {
+        "keyword": "shleifer",
+        "score": 0.096203
+      },
+      {
+        "keyword": "porta",
+        "score": 0.096203
+      },
+      {
+        "keyword": "economic agents",
+        "score": 0.096203
+      },
+      {
+        "keyword": "la porta",
+        "score": 0.096203
+      },
+      {
+        "keyword": "source using",
+        "score": 0.096203
+      },
+      {
+        "keyword": "2017 source",
+        "score": 0.096203
+      },
+      {
+        "keyword": "using data",
+        "score": 0.096203
+      },
+      {
+        "keyword": "ilo org",
+        "score": 0.096203
+      },
+      {
+        "keyword": "al 2021",
+        "score": 0.093274
+      }
+    ]
+  },
+  "ELClass_Zot": {
+    "keywords": [
+      {
+        "keyword": "ethnolect",
+        "score": 0.147601
+      },
+      {
+        "keyword": "disability",
+        "score": 0.145667
+      },
+      {
+        "keyword": "racist discourse",
+        "score": 0.144287
+      },
+      {
+        "keyword": "medical model",
+        "score": 0.140685
+      },
+      {
+        "keyword": "dijk",
+        "score": 0.136738
+      },
+      {
+        "keyword": "van dijk",
+        "score": 0.136738
+      },
+      {
+        "keyword": "sexism",
+        "score": 0.1363
+      },
+      {
+        "keyword": "linguistic strategies",
+        "score": 0.132376
+      },
+      {
+        "keyword": "strategies identified",
+        "score": 0.127499
+      },
+      {
+        "keyword": "identified forms",
+        "score": 0.127499
+      },
+      {
+        "keyword": "identity language",
+        "score": 0.127499
+      },
+      {
+        "keyword": "direct sexism",
+        "score": 0.121971
+      },
+      {
+        "keyword": "linguistic",
+        "score": 0.120402
+      },
+      {
+        "keyword": "van",
+        "score": 0.117432
+      },
+      {
+        "keyword": "community practice",
+        "score": 0.115588
+      },
+      {
+        "keyword": "related disability",
+        "score": 0.115588
+      },
+      {
+        "keyword": "model language",
+        "score": 0.115588
+      },
+      {
+        "keyword": "blind person",
+        "score": 0.10804
+      },
+      {
+        "keyword": "person language",
+        "score": 0.10804
+      },
+      {
+        "keyword": "past provide",
+        "score": 0.10804
+      }
+    ]
+  },
+  "ELSPS_Zot": {
+    "keywords": [
+      {
+        "keyword": "persuasion",
+        "score": 0.134836
+      },
+      {
+        "keyword": "justify answer",
+        "score": 0.124543
+      },
+      {
+        "keyword": "example justify",
+        "score": 0.122935
+      },
+      {
+        "keyword": "speaker",
+        "score": 0.109243
+      },
+      {
+        "keyword": "model persuasion",
+        "score": 0.107841
+      },
+      {
+        "keyword": "provide example",
+        "score": 0.105578
+      },
+      {
+        "keyword": "model argumentation",
+        "score": 0.103143
+      },
+      {
+        "keyword": "persuasion defined",
+        "score": 0.099492
+      },
+      {
+        "keyword": "sarcasm",
+        "score": 0.099492
+      },
+      {
+        "keyword": "interviewer",
+        "score": 0.097466
+      },
+      {
+        "keyword": "interviewee",
+        "score": 0.097466
+      },
+      {
+        "keyword": "argumentation defined",
+        "score": 0.095277
+      },
+      {
+        "keyword": "politician",
+        "score": 0.095277
+      },
+      {
+        "keyword": "appeal",
+        "score": 0.094965
+      },
+      {
+        "keyword": "argumentation",
+        "score": 0.09382
+      },
+      {
+        "keyword": "answer model",
+        "score": 0.092899
+      },
+      {
+        "keyword": "persuasion appeal",
+        "score": 0.092899
+      },
+      {
+        "keyword": "boo",
+        "score": 0.090293
+      },
+      {
+        "keyword": "institutional discourse",
+        "score": 0.090293
+      },
+      {
+        "keyword": "logos",
+        "score": 0.090293
+      }
+    ]
+  },
+  "EOK_Geu": {
+    "keywords": [
+      {
+        "keyword": "sci hub",
+        "score": 0.089597
+      },
+      {
+        "keyword": "sci",
+        "score": 0.089597
+      },
+      {
+        "keyword": "hub",
+        "score": 0.076947
+      },
+      {
+        "keyword": "libraries",
+        "score": 0.067771
+      },
+      {
+        "keyword": "innovation",
+        "score": 0.066639
+      },
+      {
+        "keyword": "brain",
+        "score": 0.066519
+      },
+      {
+        "keyword": "skilled migration",
+        "score": 0.065998
+      },
+      {
+        "keyword": "skilled",
+        "score": 0.065992
+      },
+      {
+        "keyword": "brain drain",
+        "score": 0.064275
+      },
+      {
+        "keyword": "shadow libraries",
+        "score": 0.062507
+      },
+      {
+        "keyword": "university industry",
+        "score": 0.061705
+      },
+      {
+        "keyword": "publishers",
+        "score": 0.058007
+      },
+      {
+        "keyword": "journal publishing",
+        "score": 0.058007
+      },
+      {
+        "keyword": "highly skilled",
+        "score": 0.056928
+      },
+      {
+        "keyword": "open access",
+        "score": 0.056928
+      },
+      {
+        "keyword": "use sci",
+        "score": 0.056928
+      },
+      {
+        "keyword": "drain",
+        "score": 0.056778
+      },
+      {
+        "keyword": "female brain",
+        "score": 0.055768
+      },
+      {
+        "keyword": "docquier",
+        "score": 0.055768
+      },
+      {
+        "keyword": "high skilled",
+        "score": 0.05556
+      }
+    ]
+  },
+  "GLD_Gog": {
+    "keywords": [
+      {
+        "keyword": "sdgs",
+        "score": 0.096587
+      },
+      {
+        "keyword": "interdisciplinarity",
+        "score": 0.092625
+      },
+      {
+        "keyword": "ngos",
+        "score": 0.091539
+      },
+      {
+        "keyword": "anthropocene",
+        "score": 0.087713
+      },
+      {
+        "keyword": "development studies",
+        "score": 0.083314
+      },
+      {
+        "keyword": "foreign agents",
+        "score": 0.078961
+      },
+      {
+        "keyword": "anthropocene risk",
+        "score": 0.076383
+      },
+      {
+        "keyword": "targets",
+        "score": 0.076383
+      },
+      {
+        "keyword": "norwegian",
+        "score": 0.073435
+      },
+      {
+        "keyword": "programme",
+        "score": 0.071786
+      },
+      {
+        "keyword": "agents law",
+        "score": 0.068031
+      },
+      {
+        "keyword": "interdisciplinary",
+        "score": 0.068031
+      },
+      {
+        "keyword": "russian",
+        "score": 0.06674
+      },
+      {
+        "keyword": "development",
+        "score": 0.066306
+      },
+      {
+        "keyword": "mdgs",
+        "score": 0.064378
+      },
+      {
+        "keyword": "haug",
+        "score": 0.063434
+      },
+      {
+        "keyword": "weaknesses",
+        "score": 0.063434
+      },
+      {
+        "keyword": "kazakhstan",
+        "score": 0.061651
+      },
+      {
+        "keyword": "finance",
+        "score": 0.061641
+      },
+      {
+        "keyword": "russia",
+        "score": 0.060796
+      }
+    ]
+  },
+  "NAL_Car": {
+    "keywords": [
+      {
+        "keyword": "individualism",
+        "score": 0.148108
+      },
+      {
+        "keyword": "murray",
+        "score": 0.135573
+      },
+      {
+        "keyword": "reliance",
+        "score": 0.125947
+      },
+      {
+        "keyword": "self reliance",
+        "score": 0.121006
+      },
+      {
+        "keyword": "melting",
+        "score": 0.111587
+      },
+      {
+        "keyword": "thoreau",
+        "score": 0.111587
+      },
+      {
+        "keyword": "pot",
+        "score": 0.111587
+      },
+      {
+        "keyword": "melting pot",
+        "score": 0.111587
+      },
+      {
+        "keyword": "bellah",
+        "score": 0.103078
+      },
+      {
+        "keyword": "hoover",
+        "score": 0.103078
+      },
+      {
+        "keyword": "diaz",
+        "score": 0.100504
+      },
+      {
+        "keyword": "emerson",
+        "score": 0.100504
+      },
+      {
+        "keyword": "american individualism",
+        "score": 0.100504
+      },
+      {
+        "keyword": "drown",
+        "score": 0.097685
+      },
+      {
+        "keyword": "american families",
+        "score": 0.097685
+      },
+      {
+        "keyword": "myth",
+        "score": 0.097211
+      },
+      {
+        "keyword": "independent american",
+        "score": 0.094568
+      },
+      {
+        "keyword": "myth independent",
+        "score": 0.094568
+      },
+      {
+        "keyword": "families",
+        "score": 0.0918
+      },
+      {
+        "keyword": "individual freedom",
+        "score": 0.091085
+      }
+    ]
+  },
+  "NAL_DiL": {
+    "keywords": [
+      {
+        "keyword": "mercy",
+        "score": 0.092907
+      },
+      {
+        "keyword": "master",
+        "score": 0.087052
+      },
+      {
+        "keyword": "ah",
+        "score": 0.085675
+      },
+      {
+        "keyword": "harriet",
+        "score": 0.08096
+      },
+      {
+        "keyword": "jacobs",
+        "score": 0.08096
+      },
+      {
+        "keyword": "passage",
+        "score": 0.080346
+      },
+      {
+        "keyword": "irene",
+        "score": 0.079142
+      },
+      {
+        "keyword": "wheatley",
+        "score": 0.079142
+      },
+      {
+        "keyword": "jacob",
+        "score": 0.079142
+      },
+      {
+        "keyword": "girl",
+        "score": 0.077931
+      },
+      {
+        "keyword": "excerpted",
+        "score": 0.077166
+      },
+      {
+        "keyword": "toni",
+        "score": 0.077166
+      },
+      {
+        "keyword": "toni morrison",
+        "score": 0.077166
+      },
+      {
+        "keyword": "pride",
+        "score": 0.07693
+      },
+      {
+        "keyword": "novel",
+        "score": 0.07693
+      },
+      {
+        "keyword": "phillis wheatley",
+        "score": 0.075001
+      },
+      {
+        "keyword": "phillis",
+        "score": 0.075001
+      },
+      {
+        "keyword": "clare",
+        "score": 0.075001
+      },
+      {
+        "keyword": "narrative voice",
+        "score": 0.072609
+      },
+      {
+        "keyword": "slave girl",
+        "score": 0.072609
+      }
+    ]
+  },
+  "SCSA_Bon": {
+    "keywords": [
+      {
+        "keyword": "band",
+        "score": 0.065283
+      },
+      {
+        "keyword": "pd",
+        "score": 0.061363
+      },
+      {
+        "keyword": "reactions",
+        "score": 0.060824
+      },
+      {
+        "keyword": "bioconjugation",
+        "score": 0.05866
+      },
+      {
+        "keyword": "band gap",
+        "score": 0.058602
+      },
+      {
+        "keyword": "polymers",
+        "score": 0.054883
+      },
+      {
+        "keyword": "conductivity",
+        "score": 0.054623
+      },
+      {
+        "keyword": "semiconductor",
+        "score": 0.054623
+      },
+      {
+        "keyword": "solar",
+        "score": 0.054534
+      },
+      {
+        "keyword": "polymer",
+        "score": 0.054445
+      },
+      {
+        "keyword": "metal",
+        "score": 0.053986
+      },
+      {
+        "keyword": "palladium",
+        "score": 0.05289
+      },
+      {
+        "keyword": "nm",
+        "score": 0.052677
+      },
+      {
+        "keyword": "amine",
+        "score": 0.051654
+      },
+      {
+        "keyword": "coupling",
+        "score": 0.051533
+      },
+      {
+        "keyword": "reaction",
+        "score": 0.051225
+      },
+      {
+        "keyword": "organic",
+        "score": 0.051162
+      },
+      {
+        "keyword": "molecules",
+        "score": 0.050906
+      },
+      {
+        "keyword": "catalysis",
+        "score": 0.050643
+      },
+      {
+        "keyword": "graphic",
+        "score": 0.050643
+      }
+    ]
+  }
+}

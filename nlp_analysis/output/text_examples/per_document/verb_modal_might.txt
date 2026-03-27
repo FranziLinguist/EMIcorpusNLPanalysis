@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: might
+[TEXT]   They even make them listen to the recording of these calls to point out where they might have offended the government or violated the law.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: might
+[TEXT]   Also, internet service providers are obligated to block any prohibited information they might stumble upon, like banned topics and phrases, which are periodically announced by the government.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: might
+[TEXT]   Raising consciousness about gender issues and LGBTQI+ struggles is therefore fundamental and might be reached by intensifying education programs on gender discourses: “Maybe in the school they should be taught about transgender people, maybe we should teach others that we are human and we’re supposed to learn more about one another”58.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx
+[LABEL]  Modale: might
+[TEXT]   After the Cold War period, it might seem that Africa is once again in a period of economic growth, it is spoken of as a continent with great resources and therefore excellent possibilities for growth, but the reality seems different.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx
+[LABEL]  Modale: might
+[TEXT]   This trend is slightly changing, and it is noticeable in the swift made by media and magazines in considering Africa as a “Hopeless continent”, as the Economist titled its cover story in May 2000, to referring to it as “Africa rising” just ten years later, to finally titling Africa as being subject to “The new scramble” and to how Africans might overturn and win this tendency.
+

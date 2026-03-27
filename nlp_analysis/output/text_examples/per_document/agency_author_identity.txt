@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: author_identity (soggetto: 'we')
+[TEXT]   There are single stories that had a huge influential impact in global terms, that we all know, like the one from Chimamanda Ngozi Adichie.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: author_identity (soggetto: 'we')
+[TEXT]   To encapsulate the essence of this essay, it is important to underline and states her message as a feminist: “My definition of a feminist is a man or a woman who says, yes, there’s a problem with gender as it is today and we must fix it, we must do better.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: author_identity (soggetto: 'we')
+[TEXT]   To encapsulate the essence of this essay, it is important to underline and states her message as a feminist: “My definition of a feminist is a man or a woman who says, yes, there’s a problem with gender as it is today and we must fix it, we must do better.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: author_identity (soggetto: 'We')
+[TEXT]   (We should All Be Feminists, 2014)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Agentività: author_identity (soggetto: 'We')
+[TEXT]   They Know Everything We Do": Telecom and Internet Surveillance in Ethiopia.
+

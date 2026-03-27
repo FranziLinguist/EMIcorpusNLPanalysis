@@ -1,0 +1,4 @@
+[SOURCE] Corpus
+[LABEL]  Coppia più simile (TF-IDF coseno)
+[TEXT]   AS_Gus ↔ CPH_Mor: cosine=0.3915
+

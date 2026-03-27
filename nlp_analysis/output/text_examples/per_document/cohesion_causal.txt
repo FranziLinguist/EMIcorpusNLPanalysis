@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 13)
+[LABEL]  Connettivo causal: 'as a result'
+[TEXT]   As a result, a share of the national budget was needed for debt repayment.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 51)
+[LABEL]  Connettivo causal: 'consequently'
+[TEXT]   As the study ‘Barriers to Equality of Access to Educational Opportunity in Nigeria: A Philosophical Perspective’ (Nwogu, 2015) underlines, it must be acknowledged here the presence of economic barriers, which make the costs of education unaffordable for the government and consequently there is a constant lack of adequate infrastructure and facilities; this makes it impossible to admit everyone to have access in the schools or universities.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 52)
+[LABEL]  Connettivo causal: 'because'
+[TEXT]   For example, considering access to universities, only between 5% and 15% of the people applying for admission can be accepted every year because of the limited carrying capacity of the universities (Idogho et al., 2012).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 53)
+[LABEL]  Connettivo causal: 'because'
+[TEXT]   Poverty is another important element playing a role in the illiteracy rate in Nigeria because 45% of the Nigerian population lives below the poverty line and they have no means to have access to education (Akubuilo et al., 2012).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentence 67)
+[LABEL]  Connettivo causal: 'because'
+[TEXT]   This is the reason why dropouts for female individuals are much higher than for male ones: because of the too many roles imposed on them by society, girls do not have time for educational advancement.
+

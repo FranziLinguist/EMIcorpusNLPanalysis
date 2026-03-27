@@ -1,0 +1,1551 @@
+{
+  "AS_Gus": {
+    "dep_label_counts": {
+      "compound": 2077,
+      "poss": 514,
+      "case": 200,
+      "ROOT": 1630,
+      "prep": 5441,
+      "pobj": 5362,
+      "punct": 7118,
+      "appos": 897,
+      "cc": 1864,
+      "conj": 2282,
+      "nmod": 218,
+      "det": 4265,
+      "dobj": 1653,
+      "pcomp": 273,
+      "advmod": 2025,
+      "acomp": 390,
+      "acl": 418,
+      "nsubj": 2242,
+      "mark": 581,
+      "aux": 1452,
+      "advcl": 619,
+      "ccomp": 427,
+      "amod": 3889,
+      "expl": 54,
+      "attr": 358,
+      "relcl": 548,
+      "xcomp": 441,
+      "nummod": 408,
+      "nsubjpass": 514,
+      "auxpass": 598,
+      "agent": 186,
+      "npadvmod": 294,
+      "preconj": 61,
+      "neg": 225,
+      "quantmod": 27,
+      "predet": 34,
+      "prt": 73,
+      "dep": 47,
+      "oprd": 48,
+      "dative": 23,
+      "csubj": 29,
+      "intj": 7,
+      "meta": 9,
+      "parataxis": 7,
+      "csubjpass": 2
+    },
+    "top_labels": [
+      [
+        "punct",
+        7118
+      ],
+      [
+        "prep",
+        5441
+      ],
+      [
+        "pobj",
+        5362
+      ],
+      [
+        "det",
+        4265
+      ],
+      [
+        "amod",
+        3889
+      ],
+      [
+        "conj",
+        2282
+      ],
+      [
+        "nsubj",
+        2242
+      ],
+      [
+        "compound",
+        2077
+      ],
+      [
+        "advmod",
+        2025
+      ],
+      [
+        "cc",
+        1864
+      ],
+      [
+        "dobj",
+        1653
+      ],
+      [
+        "ROOT",
+        1630
+      ],
+      [
+        "aux",
+        1452
+      ],
+      [
+        "appos",
+        897
+      ],
+      [
+        "advcl",
+        619
+      ],
+      [
+        "auxpass",
+        598
+      ],
+      [
+        "mark",
+        581
+      ],
+      [
+        "relcl",
+        548
+      ],
+      [
+        "poss",
+        514
+      ],
+      [
+        "nsubjpass",
+        514
+      ]
+    ]
+  },
+  "CILE_Pol": {
+    "dep_label_counts": {
+      "punct": 3185,
+      "prep": 2970,
+      "compound": 1253,
+      "pobj": 2981,
+      "attr": 473,
+      "ROOT": 1128,
+      "det": 3218,
+      "nsubj": 1859,
+      "amod": 2028,
+      "auxpass": 387,
+      "acl": 263,
+      "cc": 745,
+      "conj": 841,
+      "advmod": 1061,
+      "advcl": 530,
+      "nsubjpass": 359,
+      "acomp": 276,
+      "nummod": 178,
+      "mark": 456,
+      "aux": 1138,
+      "ccomp": 318,
+      "dobj": 1381,
+      "predet": 32,
+      "npadvmod": 48,
+      "appos": 189,
+      "parataxis": 24,
+      "neg": 160,
+      "expl": 108,
+      "agent": 133,
+      "quantmod": 26,
+      "relcl": 439,
+      "poss": 305,
+      "xcomp": 321,
+      "nmod": 82,
+      "pcomp": 122,
+      "case": 81,
+      "dep": 44,
+      "preconj": 17,
+      "oprd": 25,
+      "csubj": 18,
+      "meta": 16,
+      "prt": 21,
+      "intj": 2,
+      "csubjpass": 4,
+      "dative": 35
+    },
+    "top_labels": [
+      [
+        "det",
+        3218
+      ],
+      [
+        "punct",
+        3185
+      ],
+      [
+        "pobj",
+        2981
+      ],
+      [
+        "prep",
+        2970
+      ],
+      [
+        "amod",
+        2028
+      ],
+      [
+        "nsubj",
+        1859
+      ],
+      [
+        "dobj",
+        1381
+      ],
+      [
+        "compound",
+        1253
+      ],
+      [
+        "aux",
+        1138
+      ],
+      [
+        "ROOT",
+        1128
+      ],
+      [
+        "advmod",
+        1061
+      ],
+      [
+        "conj",
+        841
+      ],
+      [
+        "cc",
+        745
+      ],
+      [
+        "advcl",
+        530
+      ],
+      [
+        "attr",
+        473
+      ],
+      [
+        "mark",
+        456
+      ],
+      [
+        "relcl",
+        439
+      ],
+      [
+        "auxpass",
+        387
+      ],
+      [
+        "nsubjpass",
+        359
+      ],
+      [
+        "xcomp",
+        321
+      ]
+    ]
+  },
+  "CLA_Pol": {
+    "dep_label_counts": {
+      "nsubj": 841,
+      "ROOT": 513,
+      "det": 1568,
+      "dobj": 654,
+      "prep": 1485,
+      "amod": 898,
+      "pobj": 1455,
+      "compound": 528,
+      "cc": 415,
+      "advmod": 392,
+      "conj": 505,
+      "parataxis": 14,
+      "punct": 1409,
+      "appos": 101,
+      "attr": 213,
+      "mark": 206,
+      "advcl": 223,
+      "acl": 176,
+      "nsubjpass": 168,
+      "auxpass": 187,
+      "neg": 110,
+      "oprd": 7,
+      "nmod": 32,
+      "relcl": 198,
+      "aux": 555,
+      "xcomp": 148,
+      "ccomp": 171,
+      "poss": 87,
+      "expl": 39,
+      "agent": 25,
+      "preconj": 9,
+      "acomp": 102,
+      "pcomp": 80,
+      "case": 13,
+      "nummod": 42,
+      "npadvmod": 25,
+      "predet": 16,
+      "dep": 17,
+      "dative": 29,
+      "prt": 5,
+      "csubj": 7,
+      "intj": 1,
+      "quantmod": 1,
+      "meta": 1
+    },
+    "top_labels": [
+      [
+        "det",
+        1568
+      ],
+      [
+        "prep",
+        1485
+      ],
+      [
+        "pobj",
+        1455
+      ],
+      [
+        "punct",
+        1409
+      ],
+      [
+        "amod",
+        898
+      ],
+      [
+        "nsubj",
+        841
+      ],
+      [
+        "dobj",
+        654
+      ],
+      [
+        "aux",
+        555
+      ],
+      [
+        "compound",
+        528
+      ],
+      [
+        "ROOT",
+        513
+      ],
+      [
+        "conj",
+        505
+      ],
+      [
+        "cc",
+        415
+      ],
+      [
+        "advmod",
+        392
+      ],
+      [
+        "advcl",
+        223
+      ],
+      [
+        "attr",
+        213
+      ],
+      [
+        "mark",
+        206
+      ],
+      [
+        "relcl",
+        198
+      ],
+      [
+        "auxpass",
+        187
+      ],
+      [
+        "acl",
+        176
+      ],
+      [
+        "ccomp",
+        171
+      ]
+    ]
+  },
+  "CPH_Mor": {
+    "dep_label_counts": {
+      "ROOT": 1009,
+      "nsubj": 1537,
+      "relcl": 308,
+      "det": 2397,
+      "attr": 265,
+      "prep": 3048,
+      "amod": 2093,
+      "cc": 1000,
+      "conj": 1208,
+      "pobj": 2992,
+      "punct": 2562,
+      "compound": 777,
+      "dobj": 1122,
+      "ccomp": 285,
+      "acomp": 192,
+      "aux": 684,
+      "neg": 149,
+      "advcl": 333,
+      "advmod": 975,
+      "mark": 310,
+      "auxpass": 315,
+      "poss": 320,
+      "nmod": 81,
+      "parataxis": 6,
+      "appos": 140,
+      "pcomp": 153,
+      "acl": 192,
+      "xcomp": 236,
+      "nummod": 69,
+      "preconj": 26,
+      "nsubjpass": 270,
+      "agent": 92,
+      "dep": 16,
+      "oprd": 21,
+      "npadvmod": 48,
+      "predet": 36,
+      "prt": 22,
+      "csubj": 15,
+      "expl": 33,
+      "dative": 19,
+      "case": 53,
+      "meta": 4,
+      "quantmod": 5,
+      "intj": 4
+    },
+    "top_labels": [
+      [
+        "prep",
+        3048
+      ],
+      [
+        "pobj",
+        2992
+      ],
+      [
+        "punct",
+        2562
+      ],
+      [
+        "det",
+        2397
+      ],
+      [
+        "amod",
+        2093
+      ],
+      [
+        "nsubj",
+        1537
+      ],
+      [
+        "conj",
+        1208
+      ],
+      [
+        "dobj",
+        1122
+      ],
+      [
+        "ROOT",
+        1009
+      ],
+      [
+        "cc",
+        1000
+      ],
+      [
+        "advmod",
+        975
+      ],
+      [
+        "compound",
+        777
+      ],
+      [
+        "aux",
+        684
+      ],
+      [
+        "advcl",
+        333
+      ],
+      [
+        "poss",
+        320
+      ],
+      [
+        "auxpass",
+        315
+      ],
+      [
+        "mark",
+        310
+      ],
+      [
+        "relcl",
+        308
+      ],
+      [
+        "ccomp",
+        285
+      ],
+      [
+        "nsubjpass",
+        270
+      ]
+    ]
+  },
+  "DEIC_San": {
+    "dep_label_counts": {
+      "compound": 190,
+      "ROOT": 137,
+      "prep": 345,
+      "amod": 227,
+      "pobj": 347,
+      "nsubj": 119,
+      "relcl": 26,
+      "det": 216,
+      "punct": 554,
+      "cc": 112,
+      "conj": 167,
+      "aux": 46,
+      "xcomp": 28,
+      "npadvmod": 41,
+      "dobj": 87,
+      "preconj": 2,
+      "advmod": 56,
+      "neg": 10,
+      "acomp": 16,
+      "agent": 12,
+      "nsubjpass": 26,
+      "auxpass": 35,
+      "appos": 114,
+      "acl": 25,
+      "poss": 15,
+      "case": 6,
+      "ccomp": 25,
+      "quantmod": 6,
+      "nummod": 51,
+      "prt": 7,
+      "mark": 30,
+      "advcl": 23,
+      "expl": 4,
+      "attr": 16,
+      "pcomp": 10,
+      "nmod": 25,
+      "csubj": 1,
+      "csubjpass": 1,
+      "dative": 1
+    },
+    "top_labels": [
+      [
+        "punct",
+        554
+      ],
+      [
+        "pobj",
+        347
+      ],
+      [
+        "prep",
+        345
+      ],
+      [
+        "amod",
+        227
+      ],
+      [
+        "det",
+        216
+      ],
+      [
+        "compound",
+        190
+      ],
+      [
+        "conj",
+        167
+      ],
+      [
+        "ROOT",
+        137
+      ],
+      [
+        "nsubj",
+        119
+      ],
+      [
+        "appos",
+        114
+      ],
+      [
+        "cc",
+        112
+      ],
+      [
+        "dobj",
+        87
+      ],
+      [
+        "advmod",
+        56
+      ],
+      [
+        "nummod",
+        51
+      ],
+      [
+        "aux",
+        46
+      ],
+      [
+        "npadvmod",
+        41
+      ],
+      [
+        "auxpass",
+        35
+      ],
+      [
+        "mark",
+        30
+      ],
+      [
+        "xcomp",
+        28
+      ],
+      [
+        "relcl",
+        26
+      ]
+    ]
+  },
+  "ELClass_Zot": {
+    "dep_label_counts": {
+      "ROOT": 165,
+      "nsubj": 237,
+      "relcl": 62,
+      "det": 347,
+      "prep": 304,
+      "punct": 374,
+      "amod": 233,
+      "pobj": 308,
+      "cc": 96,
+      "conj": 109,
+      "compound": 50,
+      "expl": 15,
+      "attr": 85,
+      "ccomp": 54,
+      "dobj": 130,
+      "acomp": 26,
+      "aux": 73,
+      "xcomp": 15,
+      "mark": 40,
+      "neg": 21,
+      "nummod": 12,
+      "oprd": 8,
+      "advcl": 31,
+      "poss": 16,
+      "advmod": 99,
+      "acl": 46,
+      "nsubjpass": 30,
+      "auxpass": 37,
+      "csubj": 5,
+      "appos": 16,
+      "agent": 14,
+      "predet": 2,
+      "pcomp": 14,
+      "intj": 1,
+      "dative": 1,
+      "nmod": 12,
+      "npadvmod": 3,
+      "parataxis": 2,
+      "csubjpass": 1,
+      "case": 2,
+      "dep": 2
+    },
+    "top_labels": [
+      [
+        "punct",
+        374
+      ],
+      [
+        "det",
+        347
+      ],
+      [
+        "pobj",
+        308
+      ],
+      [
+        "prep",
+        304
+      ],
+      [
+        "nsubj",
+        237
+      ],
+      [
+        "amod",
+        233
+      ],
+      [
+        "ROOT",
+        165
+      ],
+      [
+        "dobj",
+        130
+      ],
+      [
+        "conj",
+        109
+      ],
+      [
+        "advmod",
+        99
+      ],
+      [
+        "cc",
+        96
+      ],
+      [
+        "attr",
+        85
+      ],
+      [
+        "aux",
+        73
+      ],
+      [
+        "relcl",
+        62
+      ],
+      [
+        "ccomp",
+        54
+      ],
+      [
+        "compound",
+        50
+      ],
+      [
+        "acl",
+        46
+      ],
+      [
+        "mark",
+        40
+      ],
+      [
+        "auxpass",
+        37
+      ],
+      [
+        "advcl",
+        31
+      ]
+    ]
+  },
+  "ELSPS_Zot": {
+    "dep_label_counts": {
+      "nsubj": 460,
+      "ROOT": 330,
+      "det": 736,
+      "dobj": 396,
+      "prep": 660,
+      "pobj": 637,
+      "acl": 91,
+      "punct": 968,
+      "aux": 277,
+      "advcl": 124,
+      "poss": 87,
+      "nsubjpass": 96,
+      "auxpass": 104,
+      "pcomp": 36,
+      "cc": 192,
+      "conj": 237,
+      "relcl": 117,
+      "advmod": 242,
+      "ccomp": 98,
+      "mark": 90,
+      "acomp": 58,
+      "xcomp": 68,
+      "amod": 327,
+      "attr": 123,
+      "compound": 125,
+      "oprd": 14,
+      "preconj": 8,
+      "appos": 70,
+      "expl": 21,
+      "neg": 49,
+      "agent": 18,
+      "csubj": 6,
+      "nummod": 55,
+      "npadvmod": 13,
+      "nmod": 16,
+      "intj": 3,
+      "dep": 15,
+      "meta": 7,
+      "prt": 9,
+      "quantmod": 2,
+      "case": 13,
+      "parataxis": 1,
+      "predet": 2,
+      "dative": 1
+    },
+    "top_labels": [
+      [
+        "punct",
+        968
+      ],
+      [
+        "det",
+        736
+      ],
+      [
+        "prep",
+        660
+      ],
+      [
+        "pobj",
+        637
+      ],
+      [
+        "nsubj",
+        460
+      ],
+      [
+        "dobj",
+        396
+      ],
+      [
+        "ROOT",
+        330
+      ],
+      [
+        "amod",
+        327
+      ],
+      [
+        "aux",
+        277
+      ],
+      [
+        "advmod",
+        242
+      ],
+      [
+        "conj",
+        237
+      ],
+      [
+        "cc",
+        192
+      ],
+      [
+        "compound",
+        125
+      ],
+      [
+        "advcl",
+        124
+      ],
+      [
+        "attr",
+        123
+      ],
+      [
+        "relcl",
+        117
+      ],
+      [
+        "auxpass",
+        104
+      ],
+      [
+        "ccomp",
+        98
+      ],
+      [
+        "nsubjpass",
+        96
+      ],
+      [
+        "acl",
+        91
+      ]
+    ]
+  },
+  "EOK_Geu": {
+    "dep_label_counts": {
+      "poss": 128,
+      "det": 1342,
+      "nsubj": 974,
+      "prep": 2067,
+      "compound": 1213,
+      "punct": 3023,
+      "pobj": 1972,
+      "amod": 1413,
+      "appos": 494,
+      "conj": 978,
+      "cc": 669,
+      "ROOT": 891,
+      "acomp": 148,
+      "mark": 190,
+      "ccomp": 176,
+      "advcl": 214,
+      "dobj": 791,
+      "pcomp": 107,
+      "advmod": 681,
+      "auxpass": 144,
+      "agent": 35,
+      "nsubjpass": 131,
+      "relcl": 193,
+      "oprd": 15,
+      "npadvmod": 134,
+      "acl": 129,
+      "nmod": 127,
+      "aux": 573,
+      "dative": 12,
+      "expl": 45,
+      "attr": 187,
+      "preconj": 22,
+      "quantmod": 22,
+      "nummod": 196,
+      "xcomp": 149,
+      "neg": 67,
+      "prt": 18,
+      "csubj": 13,
+      "case": 24,
+      "dep": 19,
+      "meta": 5,
+      "parataxis": 5,
+      "predet": 4,
+      "intj": 4,
+      "csubjpass": 1
+    },
+    "top_labels": [
+      [
+        "punct",
+        3023
+      ],
+      [
+        "prep",
+        2067
+      ],
+      [
+        "pobj",
+        1972
+      ],
+      [
+        "amod",
+        1413
+      ],
+      [
+        "det",
+        1342
+      ],
+      [
+        "compound",
+        1213
+      ],
+      [
+        "conj",
+        978
+      ],
+      [
+        "nsubj",
+        974
+      ],
+      [
+        "ROOT",
+        891
+      ],
+      [
+        "dobj",
+        791
+      ],
+      [
+        "advmod",
+        681
+      ],
+      [
+        "cc",
+        669
+      ],
+      [
+        "aux",
+        573
+      ],
+      [
+        "appos",
+        494
+      ],
+      [
+        "advcl",
+        214
+      ],
+      [
+        "nummod",
+        196
+      ],
+      [
+        "relcl",
+        193
+      ],
+      [
+        "mark",
+        190
+      ],
+      [
+        "attr",
+        187
+      ],
+      [
+        "ccomp",
+        176
+      ]
+    ]
+  },
+  "GLD_Gog": {
+    "dep_label_counts": {
+      "compound": 482,
+      "amod": 1020,
+      "ROOT": 373,
+      "nsubj": 635,
+      "relcl": 137,
+      "advmod": 449,
+      "punct": 1561,
+      "acomp": 112,
+      "mark": 139,
+      "aux": 429,
+      "ccomp": 157,
+      "cc": 533,
+      "conj": 681,
+      "prep": 1405,
+      "pobj": 1347,
+      "appos": 153,
+      "det": 1192,
+      "dobj": 538,
+      "advcl": 151,
+      "poss": 119,
+      "nummod": 63,
+      "quantmod": 3,
+      "preconj": 12,
+      "case": 25,
+      "nmod": 56,
+      "attr": 98,
+      "expl": 21,
+      "xcomp": 127,
+      "acl": 146,
+      "pcomp": 91,
+      "prt": 16,
+      "nsubjpass": 128,
+      "auxpass": 144,
+      "agent": 36,
+      "neg": 56,
+      "predet": 10,
+      "dep": 8,
+      "npadvmod": 41,
+      "oprd": 9,
+      "parataxis": 1,
+      "dative": 4,
+      "intj": 1,
+      "csubj": 15,
+      "csubjpass": 1
+    },
+    "top_labels": [
+      [
+        "punct",
+        1561
+      ],
+      [
+        "prep",
+        1405
+      ],
+      [
+        "pobj",
+        1347
+      ],
+      [
+        "det",
+        1192
+      ],
+      [
+        "amod",
+        1020
+      ],
+      [
+        "conj",
+        681
+      ],
+      [
+        "nsubj",
+        635
+      ],
+      [
+        "dobj",
+        538
+      ],
+      [
+        "cc",
+        533
+      ],
+      [
+        "compound",
+        482
+      ],
+      [
+        "advmod",
+        449
+      ],
+      [
+        "aux",
+        429
+      ],
+      [
+        "ROOT",
+        373
+      ],
+      [
+        "ccomp",
+        157
+      ],
+      [
+        "appos",
+        153
+      ],
+      [
+        "advcl",
+        151
+      ],
+      [
+        "acl",
+        146
+      ],
+      [
+        "auxpass",
+        144
+      ],
+      [
+        "mark",
+        139
+      ],
+      [
+        "relcl",
+        137
+      ]
+    ]
+  },
+  "NAL_Car": {
+    "dep_label_counts": {
+      "compound": 280,
+      "det": 600,
+      "ROOT": 226,
+      "prep": 770,
+      "punct": 722,
+      "pobj": 768,
+      "poss": 176,
+      "nsubj": 412,
+      "amod": 386,
+      "cc": 213,
+      "conj": 223,
+      "advcl": 84,
+      "prt": 21,
+      "dobj": 254,
+      "mark": 115,
+      "aux": 206,
+      "advmod": 226,
+      "acl": 61,
+      "case": 57,
+      "relcl": 83,
+      "ccomp": 106,
+      "attr": 53,
+      "acomp": 46,
+      "xcomp": 58,
+      "pcomp": 43,
+      "nsubjpass": 59,
+      "auxpass": 65,
+      "appos": 71,
+      "neg": 36,
+      "nummod": 13,
+      "dative": 6,
+      "agent": 23,
+      "npadvmod": 14,
+      "oprd": 5,
+      "preconj": 4,
+      "predet": 5,
+      "expl": 5,
+      "nmod": 12,
+      "csubj": 8,
+      "dep": 3
+    },
+    "top_labels": [
+      [
+        "prep",
+        770
+      ],
+      [
+        "pobj",
+        768
+      ],
+      [
+        "punct",
+        722
+      ],
+      [
+        "det",
+        600
+      ],
+      [
+        "nsubj",
+        412
+      ],
+      [
+        "amod",
+        386
+      ],
+      [
+        "compound",
+        280
+      ],
+      [
+        "dobj",
+        254
+      ],
+      [
+        "ROOT",
+        226
+      ],
+      [
+        "advmod",
+        226
+      ],
+      [
+        "conj",
+        223
+      ],
+      [
+        "cc",
+        213
+      ],
+      [
+        "aux",
+        206
+      ],
+      [
+        "poss",
+        176
+      ],
+      [
+        "mark",
+        115
+      ],
+      [
+        "ccomp",
+        106
+      ],
+      [
+        "advcl",
+        84
+      ],
+      [
+        "relcl",
+        83
+      ],
+      [
+        "appos",
+        71
+      ],
+      [
+        "auxpass",
+        65
+      ]
+    ]
+  },
+  "NAL_DiL": {
+    "dep_label_counts": {
+      "nsubj": 668,
+      "ROOT": 345,
+      "det": 819,
+      "amod": 455,
+      "nummod": 28,
+      "dobj": 414,
+      "advmod": 310,
+      "punct": 1177,
+      "dep": 24,
+      "prep": 945,
+      "pobj": 924,
+      "nsubjpass": 79,
+      "aux": 343,
+      "auxpass": 92,
+      "relcl": 123,
+      "dative": 15,
+      "appos": 84,
+      "conj": 369,
+      "cc": 295,
+      "compound": 153,
+      "attr": 104,
+      "intj": 12,
+      "predet": 12,
+      "ccomp": 154,
+      "csubj": 7,
+      "neg": 69,
+      "acomp": 86,
+      "poss": 199,
+      "mark": 105,
+      "advcl": 117,
+      "oprd": 19,
+      "xcomp": 91,
+      "case": 44,
+      "expl": 16,
+      "pcomp": 44,
+      "acl": 73,
+      "agent": 31,
+      "nmod": 18,
+      "npadvmod": 25,
+      "prt": 16,
+      "parataxis": 2,
+      "preconj": 9
+    },
+    "top_labels": [
+      [
+        "punct",
+        1177
+      ],
+      [
+        "prep",
+        945
+      ],
+      [
+        "pobj",
+        924
+      ],
+      [
+        "det",
+        819
+      ],
+      [
+        "nsubj",
+        668
+      ],
+      [
+        "amod",
+        455
+      ],
+      [
+        "dobj",
+        414
+      ],
+      [
+        "conj",
+        369
+      ],
+      [
+        "ROOT",
+        345
+      ],
+      [
+        "aux",
+        343
+      ],
+      [
+        "advmod",
+        310
+      ],
+      [
+        "cc",
+        295
+      ],
+      [
+        "poss",
+        199
+      ],
+      [
+        "ccomp",
+        154
+      ],
+      [
+        "compound",
+        153
+      ],
+      [
+        "relcl",
+        123
+      ],
+      [
+        "advcl",
+        117
+      ],
+      [
+        "mark",
+        105
+      ],
+      [
+        "attr",
+        104
+      ],
+      [
+        "auxpass",
+        92
+      ]
+    ]
+  },
+  "SCSA_Bon": {
+    "dep_label_counts": {
+      "nsubj": 2605,
+      "ROOT": 2049,
+      "det": 4426,
+      "compound": 2037,
+      "dobj": 1873,
+      "cc": 1479,
+      "conj": 1784,
+      "prep": 4467,
+      "pobj": 4466,
+      "punct": 5704,
+      "amod": 3010,
+      "nummod": 553,
+      "appos": 626,
+      "attr": 717,
+      "advmod": 1163,
+      "ccomp": 403,
+      "aux": 1253,
+      "relcl": 574,
+      "neg": 119,
+      "acomp": 390,
+      "xcomp": 252,
+      "nsubjpass": 452,
+      "auxpass": 490,
+      "mark": 320,
+      "advcl": 475,
+      "pcomp": 193,
+      "poss": 156,
+      "prt": 14,
+      "csubj": 20,
+      "acl": 293,
+      "nmod": 469,
+      "dep": 117,
+      "expl": 59,
+      "npadvmod": 183,
+      "meta": 86,
+      "parataxis": 69,
+      "preconj": 29,
+      "oprd": 81,
+      "dative": 8,
+      "agent": 63,
+      "intj": 12,
+      "quantmod": 29,
+      "predet": 7,
+      "case": 8
+    },
+    "top_labels": [
+      [
+        "punct",
+        5704
+      ],
+      [
+        "prep",
+        4467
+      ],
+      [
+        "pobj",
+        4466
+      ],
+      [
+        "det",
+        4426
+      ],
+      [
+        "amod",
+        3010
+      ],
+      [
+        "nsubj",
+        2605
+      ],
+      [
+        "ROOT",
+        2049
+      ],
+      [
+        "compound",
+        2037
+      ],
+      [
+        "dobj",
+        1873
+      ],
+      [
+        "conj",
+        1784
+      ],
+      [
+        "cc",
+        1479
+      ],
+      [
+        "aux",
+        1253
+      ],
+      [
+        "advmod",
+        1163
+      ],
+      [
+        "attr",
+        717
+      ],
+      [
+        "appos",
+        626
+      ],
+      [
+        "relcl",
+        574
+      ],
+      [
+        "nummod",
+        553
+      ],
+      [
+        "auxpass",
+        490
+      ],
+      [
+        "advcl",
+        475
+      ],
+      [
+        "nmod",
+        469
+      ]
+    ]
+  }
+}

@@ -231,12 +231,6 @@ pyrightconfig.json
 # Corpus documents (raw input data)
 docs/
 
-# Pipeline outputs
-output/
-
-# Results (JSON data + reports with generated images)
-results/
-
 # Pipeline log
 pipeline.log
 

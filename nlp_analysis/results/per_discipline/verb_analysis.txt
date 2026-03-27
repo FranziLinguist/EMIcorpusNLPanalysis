@@ -1,0 +1,32 @@
+======================================================================
+  ANALISI VERBI  –  PER DISCIPLINA
+======================================================================
+
+Disciplina            Tot verbi  Passivo%  Ability    Perm   Possib   Oblig  Epistem
+-----------------------------------------------------------------------------------
+AS_Gus                     6159      14.4      129     156       70      47      217
+CILE_Pol                   4614      13.1      291     342      107      33      386
+CLA_Pol                    2283      12.6      101     117       42      26      146
+CPH_Mor                    3532      12.9       91      93       39      12      106
+DEIC_San                    301      15.4        4       4        1       0        4
+ELClass_Zot                 514      10.7       22      22        8       0       24
+ELSPS_Zot                  1182      13.5       76      77       20       7       87
+EOK_Geu                    2509       8.4       94     115       50      15      142
+GLD_Gog                    1803      11.7       72      88       51      27      122
+NAL_Car                     901      10.8       38      40       16      17       64
+NAL_DiL                    1456       9.5       44      57       36      12       69
+SCSA_Bon                   6176      12.7      391     397       81      93      533
+
+Verbi di citazione per disciplina (top 5):
+  AS_Gus: (nessuno)
+  CILE_Pol: (nessuno)
+  CLA_Pol: (nessuno)
+  CPH_Mor: (nessuno)
+  DEIC_San: (nessuno)
+  ELClass_Zot: (nessuno)
+  ELSPS_Zot: (nessuno)
+  EOK_Geu: (nessuno)
+  GLD_Gog: (nessuno)
+  NAL_Car: (nessuno)
+  NAL_DiL: (nessuno)
+  SCSA_Bon: (nessuno)

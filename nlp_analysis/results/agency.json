@@ -1,0 +1,4434 @@
+{
+  "per_document": {
+    "AS_Gus_AS2_P44_P45": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 17,
+        "data_evidence": 1,
+        "concept_abstraction": 140,
+        "impersonal": 17,
+        "other": 58
+      },
+      "agency_percentages": {
+        "author_identity": 1.69,
+        "source_attribution": 7.17,
+        "data_evidence": 0.42,
+        "concept_abstraction": 59.07,
+        "impersonal": 7.17,
+        "other": 24.47
+      },
+      "total_classified": 237
+    },
+    "AS_Gus_AS2_P46_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 15,
+        "data_evidence": 3,
+        "concept_abstraction": 162,
+        "impersonal": 21,
+        "other": 71
+      },
+      "agency_percentages": {
+        "author_identity": 0.37,
+        "source_attribution": 5.49,
+        "data_evidence": 1.1,
+        "concept_abstraction": 59.34,
+        "impersonal": 7.69,
+        "other": 26.01
+      },
+      "total_classified": 273
+    },
+    "AS_Gus_AS2_P48_P49_P50": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx",
+      "agency_counts": {
+        "author_identity": 37,
+        "source_attribution": 31,
+        "data_evidence": 1,
+        "concept_abstraction": 225,
+        "impersonal": 33,
+        "other": 145
+      },
+      "agency_percentages": {
+        "author_identity": 7.84,
+        "source_attribution": 6.57,
+        "data_evidence": 0.21,
+        "concept_abstraction": 47.67,
+        "impersonal": 6.99,
+        "other": 30.72
+      },
+      "total_classified": 472
+    },
+    "AS_Gus_AS2_P51_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 10,
+        "data_evidence": 0,
+        "concept_abstraction": 125,
+        "impersonal": 11,
+        "other": 49
+      },
+      "agency_percentages": {
+        "author_identity": 1.02,
+        "source_attribution": 5.08,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.45,
+        "impersonal": 5.58,
+        "other": 24.87
+      },
+      "total_classified": 197
+    },
+    "AS_Gus_AS2_P53_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 8,
+        "data_evidence": 3,
+        "concept_abstraction": 109,
+        "impersonal": 16,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 5.06,
+        "data_evidence": 1.9,
+        "concept_abstraction": 68.99,
+        "impersonal": 10.13,
+        "other": 13.92
+      },
+      "total_classified": 158
+    },
+    "AS_Gus_AS1_P171": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P171.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 12,
+        "data_evidence": 0,
+        "concept_abstraction": 54,
+        "impersonal": 10,
+        "other": 38
+      },
+      "agency_percentages": {
+        "author_identity": 1.72,
+        "source_attribution": 10.34,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.55,
+        "impersonal": 8.62,
+        "other": 32.76
+      },
+      "total_classified": 116
+    },
+    "AS_Gus_AS1_P43": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 6,
+        "data_evidence": 0,
+        "concept_abstraction": 56,
+        "impersonal": 12,
+        "other": 36
+      },
+      "agency_percentages": {
+        "author_identity": 7.56,
+        "source_attribution": 5.04,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.06,
+        "impersonal": 10.08,
+        "other": 30.25
+      },
+      "total_classified": 119
+    },
+    "AS_Gus_AS1_P44": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P44.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 7,
+        "data_evidence": 1,
+        "concept_abstraction": 60,
+        "impersonal": 18,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 5.31,
+        "source_attribution": 6.19,
+        "data_evidence": 0.88,
+        "concept_abstraction": 53.1,
+        "impersonal": 15.93,
+        "other": 18.58
+      },
+      "total_classified": 113
+    },
+    "AS_Gus_AS1_P46": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 3,
+        "data_evidence": 2,
+        "concept_abstraction": 85,
+        "impersonal": 8,
+        "other": 23
+      },
+      "agency_percentages": {
+        "author_identity": 1.63,
+        "source_attribution": 2.44,
+        "data_evidence": 1.63,
+        "concept_abstraction": 69.11,
+        "impersonal": 6.5,
+        "other": 18.7
+      },
+      "total_classified": 123
+    },
+    "AS_Gus_AS1_P47": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P47.docx",
+      "agency_counts": {
+        "author_identity": 7,
+        "source_attribution": 6,
+        "data_evidence": 0,
+        "concept_abstraction": 59,
+        "impersonal": 14,
+        "other": 27
+      },
+      "agency_percentages": {
+        "author_identity": 6.19,
+        "source_attribution": 5.31,
+        "data_evidence": 0.0,
+        "concept_abstraction": 52.21,
+        "impersonal": 12.39,
+        "other": 23.89
+      },
+      "total_classified": 113
+    },
+    "AS_Gus_AS1_P48": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P48.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 10,
+        "data_evidence": 0,
+        "concept_abstraction": 65,
+        "impersonal": 12,
+        "other": 19
+      },
+      "agency_percentages": {
+        "author_identity": 1.85,
+        "source_attribution": 9.26,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.19,
+        "impersonal": 11.11,
+        "other": 17.59
+      },
+      "total_classified": 108
+    },
+    "AS_Gus_AS1_P51": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P51.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 5,
+        "data_evidence": 1,
+        "concept_abstraction": 64,
+        "impersonal": 11,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 2.08,
+        "source_attribution": 5.21,
+        "data_evidence": 1.04,
+        "concept_abstraction": 66.67,
+        "impersonal": 11.46,
+        "other": 13.54
+      },
+      "total_classified": 96
+    },
+    "AS_Gus_AS1_P52": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P52.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 78,
+        "impersonal": 11,
+        "other": 29
+      },
+      "agency_percentages": {
+        "author_identity": 4.0,
+        "source_attribution": 1.6,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.4,
+        "impersonal": 8.8,
+        "other": 23.2
+      },
+      "total_classified": 125
+    },
+    "AS_Gus_AS1_P53": {
+      "discipline": "AS_Gus",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P53.docx",
+      "agency_counts": {
+        "author_identity": 8,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 53,
+        "impersonal": 5,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 8.89,
+        "source_attribution": 2.22,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.89,
+        "impersonal": 5.56,
+        "other": 24.44
+      },
+      "total_classified": 90
+    },
+    "CILE_Pol_AS1_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P110.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 1,
+        "data_evidence": 1,
+        "concept_abstraction": 36,
+        "impersonal": 5,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 7.81,
+        "source_attribution": 1.56,
+        "data_evidence": 1.56,
+        "concept_abstraction": 56.25,
+        "impersonal": 7.81,
+        "other": 25.0
+      },
+      "total_classified": 64
+    },
+    "CILE_Pol_AS1_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P111.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 26,
+        "impersonal": 4,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 14.29,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.9,
+        "impersonal": 9.52,
+        "other": 14.29
+      },
+      "total_classified": 42
+    },
+    "CILE_Pol_AS1_P112": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P112.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 21,
+        "impersonal": 6,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 7.89,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.26,
+        "impersonal": 15.79,
+        "other": 21.05
+      },
+      "total_classified": 38
+    },
+    "CILE_Pol_AS1_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P113.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 7,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 4.76,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 66.67,
+        "impersonal": 16.67,
+        "other": 11.9
+      },
+      "total_classified": 42
+    },
+    "CILE_Pol_AS1_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P114.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 15,
+        "impersonal": 7,
+        "other": 1
+      },
+      "agency_percentages": {
+        "author_identity": 8.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.0,
+        "impersonal": 28.0,
+        "other": 4.0
+      },
+      "total_classified": 25
+    },
+    "CILE_Pol_AS1_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P115.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 8,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 4.88,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.54,
+        "impersonal": 19.51,
+        "other": 17.07
+      },
+      "total_classified": 41
+    },
+    "CILE_Pol_AS1_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P116.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 51,
+        "impersonal": 8,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 10.84,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.45,
+        "impersonal": 9.64,
+        "other": 18.07
+      },
+      "total_classified": 83
+    },
+    "CILE_Pol_AS1_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P117.docx",
+      "agency_counts": {
+        "author_identity": 10,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 30,
+        "impersonal": 2,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 19.61,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.82,
+        "impersonal": 3.92,
+        "other": 17.65
+      },
+      "total_classified": 51
+    },
+    "CILE_Pol_AS1_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P118.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 30,
+        "impersonal": 6,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 9.43,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.6,
+        "impersonal": 11.32,
+        "other": 22.64
+      },
+      "total_classified": 53
+    },
+    "CILE_Pol_AS1_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P119.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 34,
+        "impersonal": 6,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 6.78,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 57.63,
+        "impersonal": 10.17,
+        "other": 25.42
+      },
+      "total_classified": 59
+    },
+    "CILE_Pol_AS1_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P120.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 5,
+        "other": 3
+      },
+      "agency_percentages": {
+        "author_identity": 6.06,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 69.7,
+        "impersonal": 15.15,
+        "other": 9.09
+      },
+      "total_classified": 33
+    },
+    "CILE_Pol_AS1_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P121.docx",
+      "agency_counts": {
+        "author_identity": 10,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 8,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 17.54,
+        "source_attribution": 1.75,
+        "data_evidence": 0.0,
+        "concept_abstraction": 43.86,
+        "impersonal": 14.04,
+        "other": 22.81
+      },
+      "total_classified": 57
+    },
+    "CILE_Pol_AS1_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P122.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 7,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 4.55,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.0,
+        "impersonal": 15.91,
+        "other": 29.55
+      },
+      "total_classified": 44
+    },
+    "CILE_Pol_AS1_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P123.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 36,
+        "impersonal": 4,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 5.17,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.07,
+        "impersonal": 6.9,
+        "other": 25.86
+      },
+      "total_classified": 58
+    },
+    "CILE_Pol_AS1_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P124.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 30,
+        "impersonal": 8,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 7.81,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.88,
+        "impersonal": 12.5,
+        "other": 32.81
+      },
+      "total_classified": 64
+    },
+    "CILE_Pol_AS1_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P125.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 40,
+        "impersonal": 4,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 3.17,
+        "source_attribution": 4.76,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.49,
+        "impersonal": 6.35,
+        "other": 22.22
+      },
+      "total_classified": 63
+    },
+    "CILE_Pol_AS1_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P126.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 37,
+        "impersonal": 8,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 5.66,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 69.81,
+        "impersonal": 15.09,
+        "other": 9.43
+      },
+      "total_classified": 53
+    },
+    "CILE_Pol_AS2_P113": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P113.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 32,
+        "impersonal": 2,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 1.96,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.75,
+        "impersonal": 3.92,
+        "other": 31.37
+      },
+      "total_classified": 51
+    },
+    "CILE_Pol_AS2_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P114.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 34,
+        "impersonal": 1,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 4.08,
+        "data_evidence": 0.0,
+        "concept_abstraction": 69.39,
+        "impersonal": 2.04,
+        "other": 24.49
+      },
+      "total_classified": 49
+    },
+    "CILE_Pol_AS2_P116": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P116.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 48,
+        "impersonal": 6,
+        "other": 31
+      },
+      "agency_percentages": {
+        "author_identity": 4.44,
+        "source_attribution": 1.11,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.33,
+        "impersonal": 6.67,
+        "other": 34.44
+      },
+      "total_classified": 90
+    },
+    "CILE_Pol_AS2_P120": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P120.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 0,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 3.12,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 68.75,
+        "impersonal": 0.0,
+        "other": 28.12
+      },
+      "total_classified": 32
+    },
+    "CILE_Pol_AS2_P122": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P122.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 3,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.22,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.22,
+        "impersonal": 6.67,
+        "other": 28.89
+      },
+      "total_classified": 45
+    },
+    "CILE_Pol_AS2_P123": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 42,
+        "impersonal": 6,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 72.41,
+        "impersonal": 10.34,
+        "other": 17.24
+      },
+      "total_classified": 58
+    },
+    "CILE_Pol_AS2_P124": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P124.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 0,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 8.33,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.42,
+        "impersonal": 0.0,
+        "other": 31.25
+      },
+      "total_classified": 48
+    },
+    "CILE_Pol_AS3_P110": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P110.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 32,
+        "impersonal": 12,
+        "other": 24
+      },
+      "agency_percentages": {
+        "author_identity": 6.76,
+        "source_attribution": 1.35,
+        "data_evidence": 0.0,
+        "concept_abstraction": 43.24,
+        "impersonal": 16.22,
+        "other": 32.43
+      },
+      "total_classified": 74
+    },
+    "CILE_Pol_AS3_P111": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P111.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 3,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 6.38,
+        "source_attribution": 2.13,
+        "data_evidence": 0.0,
+        "concept_abstraction": 48.94,
+        "impersonal": 6.38,
+        "other": 36.17
+      },
+      "total_classified": 47
+    },
+    "CILE_Pol_AS3_P114": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P114.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 2,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 5.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.5,
+        "impersonal": 5.0,
+        "other": 27.5
+      },
+      "total_classified": 40
+    },
+    "CILE_Pol_AS3_P115": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P115.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 5,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 10.0,
+        "source_attribution": 2.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 44.0,
+        "impersonal": 10.0,
+        "other": 34.0
+      },
+      "total_classified": 50
+    },
+    "CILE_Pol_AS3_P117": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P117.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 3,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 3.03,
+        "source_attribution": 3.03,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.61,
+        "impersonal": 9.09,
+        "other": 24.24
+      },
+      "total_classified": 33
+    },
+    "CILE_Pol_AS3_P118": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P118.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 26,
+        "impersonal": 5,
+        "other": 19
+      },
+      "agency_percentages": {
+        "author_identity": 1.89,
+        "source_attribution": 3.77,
+        "data_evidence": 0.0,
+        "concept_abstraction": 49.06,
+        "impersonal": 9.43,
+        "other": 35.85
+      },
+      "total_classified": 53
+    },
+    "CILE_Pol_AS3_P119": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P119.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 1,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 4.26,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.7,
+        "impersonal": 2.13,
+        "other": 31.91
+      },
+      "total_classified": 47
+    },
+    "CILE_Pol_AS3_P121": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P121.docx",
+      "agency_counts": {
+        "author_identity": 10,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 30,
+        "impersonal": 8,
+        "other": 18
+      },
+      "agency_percentages": {
+        "author_identity": 14.29,
+        "source_attribution": 5.71,
+        "data_evidence": 0.0,
+        "concept_abstraction": 42.86,
+        "impersonal": 11.43,
+        "other": 25.71
+      },
+      "total_classified": 70
+    },
+    "CILE_Pol_AS3_P125": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P125.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 34,
+        "impersonal": 4,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 4.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 68.0,
+        "impersonal": 8.0,
+        "other": 20.0
+      },
+      "total_classified": 50
+    },
+    "CILE_Pol_AS3_P126": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P126.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 7,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 1.96,
+        "data_evidence": 0.0,
+        "concept_abstraction": 52.94,
+        "impersonal": 13.73,
+        "other": 31.37
+      },
+      "total_classified": 51
+    },
+    "CILE_Pol_AS3_P127": {
+      "discipline": "CILE_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P127.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 6,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 7.41,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.74,
+        "impersonal": 11.11,
+        "other": 40.74
+      },
+      "total_classified": 54
+    },
+    "CLA_Pol _AS1_P136": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol _AS1_P136.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 1,
+        "concept_abstraction": 24,
+        "impersonal": 3,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 2.78,
+        "source_attribution": 0.0,
+        "data_evidence": 2.78,
+        "concept_abstraction": 66.67,
+        "impersonal": 8.33,
+        "other": 19.44
+      },
+      "total_classified": 36
+    },
+    "CLA_Pol_AS1_P128": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P128.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 3,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 10.17,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 49.15,
+        "impersonal": 5.08,
+        "other": 35.59
+      },
+      "total_classified": 59
+    },
+    "CLA_Pol_AS1_P129": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P129.docx",
+      "agency_counts": {
+        "author_identity": 7,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 5,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 12.73,
+        "source_attribution": 1.82,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.0,
+        "impersonal": 9.09,
+        "other": 16.36
+      },
+      "total_classified": 55
+    },
+    "CLA_Pol_AS1_P130": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P130.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 7,
+        "data_evidence": 2,
+        "concept_abstraction": 29,
+        "impersonal": 3,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 8.33,
+        "source_attribution": 9.72,
+        "data_evidence": 2.78,
+        "concept_abstraction": 40.28,
+        "impersonal": 4.17,
+        "other": 34.72
+      },
+      "total_classified": 72
+    },
+    "CLA_Pol_AS1_P131": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P131.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 30,
+        "impersonal": 1,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 2.08,
+        "source_attribution": 4.17,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.5,
+        "impersonal": 2.08,
+        "other": 29.17
+      },
+      "total_classified": 48
+    },
+    "CLA_Pol_AS1_P132": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P132.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 5,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 4,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 4.65,
+        "source_attribution": 11.63,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.81,
+        "impersonal": 9.3,
+        "other": 18.6
+      },
+      "total_classified": 43
+    },
+    "CLA_Pol_AS1_P133": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P133.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 1,
+        "concept_abstraction": 59,
+        "impersonal": 14,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 1.12,
+        "concept_abstraction": 66.29,
+        "impersonal": 15.73,
+        "other": 16.85
+      },
+      "total_classified": 89
+    },
+    "CLA_Pol_AS1_P134": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P134.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 7,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 3,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 4.08,
+        "source_attribution": 14.29,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.94,
+        "impersonal": 6.12,
+        "other": 28.57
+      },
+      "total_classified": 49
+    },
+    "CLA_Pol_AS1_P135": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P135.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 5,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 2.38,
+        "source_attribution": 7.14,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.52,
+        "impersonal": 11.9,
+        "other": 19.05
+      },
+      "total_classified": 42
+    },
+    "CLA_Pol_AS1_P137": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P137.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 14,
+        "impersonal": 4,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 7.41,
+        "source_attribution": 11.11,
+        "data_evidence": 0.0,
+        "concept_abstraction": 51.85,
+        "impersonal": 14.81,
+        "other": 14.81
+      },
+      "total_classified": 27
+    },
+    "CLA_Pol_AS1_P138": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P138.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 1,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 9.09,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.64,
+        "impersonal": 2.27,
+        "other": 25.0
+      },
+      "total_classified": 44
+    },
+    "CLA_Pol_AS1_P139": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P139.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 7,
+        "impersonal": 1,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 15.79,
+        "data_evidence": 0.0,
+        "concept_abstraction": 36.84,
+        "impersonal": 5.26,
+        "other": 42.11
+      },
+      "total_classified": 19
+    },
+    "CLA_Pol_AS1_P140": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P140.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 16,
+        "impersonal": 1,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 11.11,
+        "source_attribution": 11.11,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.26,
+        "impersonal": 3.7,
+        "other": 14.81
+      },
+      "total_classified": 27
+    },
+    "CLA_Pol_AS1_P141": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P141.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 12,
+        "impersonal": 4,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 3.03,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 36.36,
+        "impersonal": 12.12,
+        "other": 48.48
+      },
+      "total_classified": 33
+    },
+    "CLA_Pol_AS1_P142": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P142.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 2,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 19.57,
+        "source_attribution": 8.7,
+        "data_evidence": 0.0,
+        "concept_abstraction": 52.17,
+        "impersonal": 4.35,
+        "other": 15.22
+      },
+      "total_classified": 46
+    },
+    "CLA_Pol_AS1_P143": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P143.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 5,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 12.5,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.38,
+        "impersonal": 15.62,
+        "other": 12.5
+      },
+      "total_classified": 32
+    },
+    "CLA_Pol_AS1_P144": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P144.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 8,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 5,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 19.05,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.62,
+        "impersonal": 11.9,
+        "other": 21.43
+      },
+      "total_classified": 42
+    },
+    "CLA_Pol_AS1_P145": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P145.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 6,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 10,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 2.27,
+        "source_attribution": 13.64,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.0,
+        "impersonal": 22.73,
+        "other": 11.36
+      },
+      "total_classified": 44
+    },
+    "CLA_Pol_AS1_P146": {
+      "discipline": "CLA_Pol",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P146.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 2,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 2.94,
+        "source_attribution": 8.82,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.82,
+        "impersonal": 5.88,
+        "other": 23.53
+      },
+      "total_classified": 34
+    },
+    "CPH_Mor_AS1_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P1.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 10,
+        "impersonal": 7,
+        "other": 3
+      },
+      "agency_percentages": {
+        "author_identity": 4.17,
+        "source_attribution": 12.5,
+        "data_evidence": 0.0,
+        "concept_abstraction": 41.67,
+        "impersonal": 29.17,
+        "other": 12.5
+      },
+      "total_classified": 24
+    },
+    "CPH_Mor_AS1_P10": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P10.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 13,
+        "impersonal": 3,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 14.29,
+        "source_attribution": 3.57,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.43,
+        "impersonal": 10.71,
+        "other": 25.0
+      },
+      "total_classified": 28
+    },
+    "CPH_Mor_AS1_P11": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P11.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 2,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 1.85,
+        "source_attribution": 1.85,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.3,
+        "impersonal": 3.7,
+        "other": 46.3
+      },
+      "total_classified": 54
+    },
+    "CPH_Mor_AS1_P12": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P12.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 38,
+        "impersonal": 8,
+        "other": 23
+      },
+      "agency_percentages": {
+        "author_identity": 8.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.67,
+        "impersonal": 10.67,
+        "other": 30.67
+      },
+      "total_classified": 75
+    },
+    "CPH_Mor_AS1_P13": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P13.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 42,
+        "impersonal": 5,
+        "other": 18
+      },
+      "agency_percentages": {
+        "author_identity": 2.94,
+        "source_attribution": 1.47,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.76,
+        "impersonal": 7.35,
+        "other": 26.47
+      },
+      "total_classified": 68
+    },
+    "CPH_Mor_AS1_P14": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P14.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 3,
+        "other": 26
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 3.45,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.55,
+        "impersonal": 5.17,
+        "other": 44.83
+      },
+      "total_classified": 58
+    },
+    "CPH_Mor_AS1_P15": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P15.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 31,
+        "impersonal": 7,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 1.85,
+        "data_evidence": 0.0,
+        "concept_abstraction": 57.41,
+        "impersonal": 12.96,
+        "other": 27.78
+      },
+      "total_classified": 54
+    },
+    "CPH_Mor_AS1_P16": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P16.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 5,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 6,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 2.44,
+        "source_attribution": 12.2,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.1,
+        "impersonal": 14.63,
+        "other": 14.63
+      },
+      "total_classified": 41
+    },
+    "CPH_Mor_AS1_P17": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P17.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 51,
+        "impersonal": 8,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 67.11,
+        "impersonal": 10.53,
+        "other": 22.37
+      },
+      "total_classified": 76
+    },
+    "CPH_Mor_AS1_P2": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P2.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 36,
+        "impersonal": 9,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.02,
+        "impersonal": 14.75,
+        "other": 26.23
+      },
+      "total_classified": 61
+    },
+    "CPH_Mor_AS1_P3": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P3.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 1,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 8.0,
+        "source_attribution": 6.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 54.0,
+        "impersonal": 2.0,
+        "other": 30.0
+      },
+      "total_classified": 50
+    },
+    "CPH_Mor_AS1_P4": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P4.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 5,
+        "other": 30
+      },
+      "agency_percentages": {
+        "author_identity": 2.78,
+        "source_attribution": 2.78,
+        "data_evidence": 0.0,
+        "concept_abstraction": 45.83,
+        "impersonal": 6.94,
+        "other": 41.67
+      },
+      "total_classified": 72
+    },
+    "CPH_Mor_AS1_P5": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P5.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 7,
+        "impersonal": 2,
+        "other": 3
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.33,
+        "impersonal": 16.67,
+        "other": 25.0
+      },
+      "total_classified": 12
+    },
+    "CPH_Mor_AS1_P6": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P6.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 31,
+        "impersonal": 1,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 75.61,
+        "impersonal": 2.44,
+        "other": 21.95
+      },
+      "total_classified": 41
+    },
+    "CPH_Mor_AS1_P7": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P7.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 5,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 1.82,
+        "source_attribution": 3.64,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.0,
+        "impersonal": 9.09,
+        "other": 25.45
+      },
+      "total_classified": 55
+    },
+    "CPH_Mor_AS1_P8": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P8.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 32,
+        "impersonal": 2,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.08,
+        "data_evidence": 0.0,
+        "concept_abstraction": 66.67,
+        "impersonal": 4.17,
+        "other": 27.08
+      },
+      "total_classified": 48
+    },
+    "CPH_Mor_AS1_P9": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P9.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 11,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 14.06,
+        "source_attribution": 4.69,
+        "data_evidence": 0.0,
+        "concept_abstraction": 51.56,
+        "impersonal": 17.19,
+        "other": 12.5
+      },
+      "total_classified": 64
+    },
+    "CPH_Mor_AS2_P1": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P1.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 16,
+        "impersonal": 14,
+        "other": 1
+      },
+      "agency_percentages": {
+        "author_identity": 5.88,
+        "source_attribution": 2.94,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.06,
+        "impersonal": 41.18,
+        "other": 2.94
+      },
+      "total_classified": 34
+    },
+    "CPH_Mor_AS2_P18": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P18.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 18,
+        "impersonal": 1,
+        "other": 18
+      },
+      "agency_percentages": {
+        "author_identity": 7.5,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 45.0,
+        "impersonal": 2.5,
+        "other": 45.0
+      },
+      "total_classified": 40
+    },
+    "CPH_Mor_AS2_P19": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P19.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 38,
+        "impersonal": 4,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 1.64,
+        "source_attribution": 3.28,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.3,
+        "impersonal": 6.56,
+        "other": 26.23
+      },
+      "total_classified": 61
+    },
+    "CPH_Mor_AS2_P20": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P20.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 3,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.88,
+        "impersonal": 8.82,
+        "other": 35.29
+      },
+      "total_classified": 34
+    },
+    "CPH_Mor_AS2_P21": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P21.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 7,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 3,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 7.27,
+        "source_attribution": 12.73,
+        "data_evidence": 0.0,
+        "concept_abstraction": 52.73,
+        "impersonal": 5.45,
+        "other": 21.82
+      },
+      "total_classified": 55
+    },
+    "CPH_Mor_AS2_P22": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P22.docx",
+      "agency_counts": {
+        "author_identity": 8,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 46,
+        "impersonal": 4,
+        "other": 18
+      },
+      "agency_percentages": {
+        "author_identity": 10.39,
+        "source_attribution": 1.3,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.74,
+        "impersonal": 5.19,
+        "other": 23.38
+      },
+      "total_classified": 77
+    },
+    "CPH_Mor_AS2_P23": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P23.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 4,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 73.68,
+        "impersonal": 10.53,
+        "other": 15.79
+      },
+      "total_classified": 38
+    },
+    "CPH_Mor_AS2_P24": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P24.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 2,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.5,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.5,
+        "impersonal": 5.0,
+        "other": 30.0
+      },
+      "total_classified": 40
+    },
+    "CPH_Mor_AS2_P25": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P25.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 6,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.7,
+        "impersonal": 12.77,
+        "other": 25.53
+      },
+      "total_classified": 47
+    },
+    "CPH_Mor_AS2_P26": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P26.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 0,
+        "other": 20
+      },
+      "agency_percentages": {
+        "author_identity": 11.76,
+        "source_attribution": 1.96,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.06,
+        "impersonal": 0.0,
+        "other": 39.22
+      },
+      "total_classified": 51
+    },
+    "CPH_Mor_AS2_P27": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P27.docx",
+      "agency_counts": {
+        "author_identity": 7,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 8,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 14.0,
+        "source_attribution": 2.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 48.0,
+        "impersonal": 16.0,
+        "other": 20.0
+      },
+      "total_classified": 50
+    },
+    "CPH_Mor_AS2_P28": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P28.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 4,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.5,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.0,
+        "impersonal": 10.0,
+        "other": 27.5
+      },
+      "total_classified": 40
+    },
+    "CPH_Mor_AS2_P29": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P29.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 2,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 3.85,
+        "source_attribution": 7.69,
+        "data_evidence": 0.0,
+        "concept_abstraction": 51.92,
+        "impersonal": 3.85,
+        "other": 32.69
+      },
+      "total_classified": 52
+    },
+    "CPH_Mor_AS2_P30": {
+      "discipline": "CPH_Mor",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P30.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 6,
+        "other": 29
+      },
+      "agency_percentages": {
+        "author_identity": 5.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 36.67,
+        "impersonal": 10.0,
+        "other": 48.33
+      },
+      "total_classified": 60
+    },
+    "DEIC_San_AS1_P35_P38_P41_P164": {
+      "discipline": "DEIC_San",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Sanfilippo_TRASCRIZIONI/DEIC_San_AS1_P35_P38_P41_P164.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 5,
+        "data_evidence": 3,
+        "concept_abstraction": 73,
+        "impersonal": 8,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 3.39,
+        "source_attribution": 4.24,
+        "data_evidence": 2.54,
+        "concept_abstraction": 61.86,
+        "impersonal": 6.78,
+        "other": 21.19
+      },
+      "total_classified": 118
+    },
+    "ELClass_Zot_AS1_P157": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELCLass_Zot_AS1/ELClass_Zot_AS1_P157.docx",
+      "agency_counts": {
+        "author_identity": 14,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 2,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 26.92,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.15,
+        "impersonal": 3.85,
+        "other": 23.08
+      },
+      "total_classified": 52
+    },
+    "ELClass_Zot_AS2_P158": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P158.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 9,
+        "impersonal": 0,
+        "other": 3
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 7.69,
+        "data_evidence": 0.0,
+        "concept_abstraction": 69.23,
+        "impersonal": 0.0,
+        "other": 23.08
+      },
+      "total_classified": 13
+    },
+    "ELClass_Zot_AS2_P159": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P159.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 0,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 5.88,
+        "source_attribution": 2.94,
+        "data_evidence": 0.0,
+        "concept_abstraction": 64.71,
+        "impersonal": 0.0,
+        "other": 26.47
+      },
+      "total_classified": 34
+    },
+    "ELClass_Zot_AS2_P161": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P161.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 7,
+        "impersonal": 1,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 13.33,
+        "source_attribution": 6.67,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.67,
+        "impersonal": 6.67,
+        "other": 26.67
+      },
+      "total_classified": 15
+    },
+    "ELClass_Zot_AS2_P163": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P163.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 15,
+        "impersonal": 2,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 4.0,
+        "source_attribution": 4.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.0,
+        "impersonal": 8.0,
+        "other": 24.0
+      },
+      "total_classified": 25
+    },
+    "ELClass_Zot_AS3_P160": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P160.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 18,
+        "impersonal": 5,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 3.12,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.25,
+        "impersonal": 15.62,
+        "other": 25.0
+      },
+      "total_classified": 32
+    },
+    "ELClass_Zot_AS3_P162": {
+      "discipline": "ELClass_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P162.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 4,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 5.41,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 51.35,
+        "impersonal": 10.81,
+        "other": 32.43
+      },
+      "total_classified": 37
+    },
+    "ALSPS_Zot_AS1_P147": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P147.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 31,
+        "impersonal": 11,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 1.47,
+        "data_evidence": 0.0,
+        "concept_abstraction": 45.59,
+        "impersonal": 16.18,
+        "other": 36.76
+      },
+      "total_classified": 68
+    },
+    "ALSPS_Zot_AS1_P149": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P149.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 7,
+        "impersonal": 0,
+        "other": 1
+      },
+      "agency_percentages": {
+        "author_identity": 18.18,
+        "source_attribution": 9.09,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.64,
+        "impersonal": 0.0,
+        "other": 9.09
+      },
+      "total_classified": 11
+    },
+    "ALSPS_Zot_AS1_P152": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P152.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 18,
+        "impersonal": 8,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.0,
+        "impersonal": 22.22,
+        "other": 27.78
+      },
+      "total_classified": 36
+    },
+    "ALSPS_Zot_AS2_P148": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P148.docx",
+      "agency_counts": {
+        "author_identity": 13,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 6,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 22.41,
+        "source_attribution": 1.72,
+        "data_evidence": 0.0,
+        "concept_abstraction": 29.31,
+        "impersonal": 10.34,
+        "other": 36.21
+      },
+      "total_classified": 58
+    },
+    "ALSPS_Zot_AS2_P155": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P155.docx",
+      "agency_counts": {
+        "author_identity": 15,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 24,
+        "impersonal": 4,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 25.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.0,
+        "impersonal": 6.67,
+        "other": 28.33
+      },
+      "total_classified": 60
+    },
+    "ALSPS_Zot_AS3_P150": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P150.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 3,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 9.43,
+        "source_attribution": 1.89,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.94,
+        "impersonal": 5.66,
+        "other": 32.08
+      },
+      "total_classified": 53
+    },
+    "ALSPS_Zot_AS3_P151": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P151.docx",
+      "agency_counts": {
+        "author_identity": 8,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 4,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 19.51,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.66,
+        "impersonal": 9.76,
+        "other": 17.07
+      },
+      "total_classified": 41
+    },
+    "ALSPS_Zot_AS3_P153": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P153.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 3,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 6.67,
+        "source_attribution": 6.67,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.67,
+        "impersonal": 10.0,
+        "other": 20.0
+      },
+      "total_classified": 30
+    },
+    "ALSPS_Zot_AS4_P154": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P154.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 5,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 2.94,
+        "source_attribution": 8.82,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.88,
+        "impersonal": 14.71,
+        "other": 17.65
+      },
+      "total_classified": 34
+    },
+    "ALSPS_Zot_AS4_P156": {
+      "discipline": "ELSPS_Zot",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P156.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 39,
+        "impersonal": 6,
+        "other": 28
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 5.19,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.65,
+        "impersonal": 7.79,
+        "other": 36.36
+      },
+      "total_classified": 77
+    },
+    "EOK_Geu_AS2_P34_P35_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P34_P35_P40.docx",
+      "agency_counts": {
+        "author_identity": 19,
+        "source_attribution": 41,
+        "data_evidence": 1,
+        "concept_abstraction": 130,
+        "impersonal": 16,
+        "other": 51
+      },
+      "agency_percentages": {
+        "author_identity": 7.36,
+        "source_attribution": 15.89,
+        "data_evidence": 0.39,
+        "concept_abstraction": 50.39,
+        "impersonal": 6.2,
+        "other": 19.77
+      },
+      "total_classified": 258
+    },
+    "EOK_Geu_AS2_P39_P164_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P39_P164_P165.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 18,
+        "data_evidence": 7,
+        "concept_abstraction": 102,
+        "impersonal": 9,
+        "other": 34
+      },
+      "agency_percentages": {
+        "author_identity": 5.03,
+        "source_attribution": 10.06,
+        "data_evidence": 3.91,
+        "concept_abstraction": 56.98,
+        "impersonal": 5.03,
+        "other": 18.99
+      },
+      "total_classified": 179
+    },
+    "EOK_Geu_AS1_P34": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P34.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 3,
+        "concept_abstraction": 27,
+        "impersonal": 2,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 2.22,
+        "source_attribution": 2.22,
+        "data_evidence": 6.67,
+        "concept_abstraction": 60.0,
+        "impersonal": 4.44,
+        "other": 24.44
+      },
+      "total_classified": 45
+    },
+    "EOK_Geu_AS1_P35": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P35.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 13,
+        "impersonal": 4,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 3.45,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 44.83,
+        "impersonal": 13.79,
+        "other": 37.93
+      },
+      "total_classified": 29
+    },
+    "EOK_Geu_AS1_P36": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P36.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 1,
+        "concept_abstraction": 20,
+        "impersonal": 1,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 2.78,
+        "source_attribution": 5.56,
+        "data_evidence": 2.78,
+        "concept_abstraction": 55.56,
+        "impersonal": 2.78,
+        "other": 30.56
+      },
+      "total_classified": 36
+    },
+    "EOK_Geu_AS1_P37": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P37.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 26,
+        "impersonal": 1,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 9.76,
+        "source_attribution": 9.76,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.41,
+        "impersonal": 2.44,
+        "other": 14.63
+      },
+      "total_classified": 41
+    },
+    "EOK_Geu_AS1_P38": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P38.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 3,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 12.5,
+        "source_attribution": 5.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.5,
+        "impersonal": 7.5,
+        "other": 27.5
+      },
+      "total_classified": 40
+    },
+    "EOK_Geu_AS1_P39": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P39.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 5,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 3,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 4.0,
+        "source_attribution": 10.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.0,
+        "impersonal": 6.0,
+        "other": 24.0
+      },
+      "total_classified": 50
+    },
+    "EOK_Geu_AS3_P164": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P164.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 2,
+        "other": 26
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.17,
+        "impersonal": 3.77,
+        "other": 49.06
+      },
+      "total_classified": 53
+    },
+    "EOK_Geu_AS3_P165": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P165.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 1,
+        "concept_abstraction": 34,
+        "impersonal": 6,
+        "other": 20
+      },
+      "agency_percentages": {
+        "author_identity": 1.59,
+        "source_attribution": 1.59,
+        "data_evidence": 1.59,
+        "concept_abstraction": 53.97,
+        "impersonal": 9.52,
+        "other": 31.75
+      },
+      "total_classified": 63
+    },
+    "EOK_Geu_AS3_P40": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P40.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 13,
+        "impersonal": 3,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 4.35,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.52,
+        "impersonal": 13.04,
+        "other": 26.09
+      },
+      "total_classified": 23
+    },
+    "EOK_Geu_AS3_P41": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P41.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 4,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 9.43,
+        "source_attribution": 1.89,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.26,
+        "impersonal": 7.55,
+        "other": 18.87
+      },
+      "total_classified": 53
+    },
+    "EOK_Geu_AS3_P42": {
+      "discipline": "EOK_Geu",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P42.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 11,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 12.5,
+        "source_attribution": 6.25,
+        "data_evidence": 0.0,
+        "concept_abstraction": 41.67,
+        "impersonal": 22.92,
+        "other": 16.67
+      },
+      "total_classified": 48
+    },
+    "GLD_Gog_AS1_P169_P170": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P169_P170.docx",
+      "agency_counts": {
+        "author_identity": 25,
+        "source_attribution": 23,
+        "data_evidence": 0,
+        "concept_abstraction": 78,
+        "impersonal": 14,
+        "other": 42
+      },
+      "agency_percentages": {
+        "author_identity": 13.74,
+        "source_attribution": 12.64,
+        "data_evidence": 0.0,
+        "concept_abstraction": 42.86,
+        "impersonal": 7.69,
+        "other": 23.08
+      },
+      "total_classified": 182
+    },
+    "GLD_Gog_AS1_P16_P167_P168": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P16_P167_P168.docx",
+      "agency_counts": {
+        "author_identity": 9,
+        "source_attribution": 27,
+        "data_evidence": 1,
+        "concept_abstraction": 61,
+        "impersonal": 9,
+        "other": 50
+      },
+      "agency_percentages": {
+        "author_identity": 5.73,
+        "source_attribution": 17.2,
+        "data_evidence": 0.64,
+        "concept_abstraction": 38.85,
+        "impersonal": 5.73,
+        "other": 31.85
+      },
+      "total_classified": 157
+    },
+    "GLD_Gog_AS1_P26": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P26.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 15,
+        "data_evidence": 1,
+        "concept_abstraction": 79,
+        "impersonal": 5,
+        "other": 35
+      },
+      "agency_percentages": {
+        "author_identity": 3.57,
+        "source_attribution": 10.71,
+        "data_evidence": 0.71,
+        "concept_abstraction": 56.43,
+        "impersonal": 3.57,
+        "other": 25.0
+      },
+      "total_classified": 140
+    },
+    "GLD_Gog_AS1_P31_P32_P33": {
+      "discipline": "GLD_Gog",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P31_P32_P33.docx",
+      "agency_counts": {
+        "author_identity": 12,
+        "source_attribution": 21,
+        "data_evidence": 0,
+        "concept_abstraction": 89,
+        "impersonal": 11,
+        "other": 29
+      },
+      "agency_percentages": {
+        "author_identity": 7.41,
+        "source_attribution": 12.96,
+        "data_evidence": 0.0,
+        "concept_abstraction": 54.94,
+        "impersonal": 6.79,
+        "other": 17.9
+      },
+      "total_classified": 162
+    },
+    "NAL_Car_AS1_P100": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P100.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 5,
+        "data_evidence": 0,
+        "concept_abstraction": 10,
+        "impersonal": 0,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 20.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.0,
+        "impersonal": 0.0,
+        "other": 40.0
+      },
+      "total_classified": 25
+    },
+    "NAL_Car_AS1_P101": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P101.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 9,
+        "data_evidence": 0,
+        "concept_abstraction": 18,
+        "impersonal": 1,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 2.22,
+        "source_attribution": 20.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.0,
+        "impersonal": 2.22,
+        "other": 35.56
+      },
+      "total_classified": 45
+    },
+    "NAL_Car_AS1_P102": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P102.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 20,
+        "data_evidence": 0,
+        "concept_abstraction": 44,
+        "impersonal": 4,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 24.39,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.66,
+        "impersonal": 4.88,
+        "other": 17.07
+      },
+      "total_classified": 82
+    },
+    "NAL_Car_AS1_P103": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P103.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 6,
+        "data_evidence": 0,
+        "concept_abstraction": 16,
+        "impersonal": 4,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 17.65,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.06,
+        "impersonal": 11.76,
+        "other": 23.53
+      },
+      "total_classified": 34
+    },
+    "NAL_Car_AS1_P104": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P104.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 8,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 2,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 2.33,
+        "source_attribution": 18.6,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.49,
+        "impersonal": 4.65,
+        "other": 20.93
+      },
+      "total_classified": 43
+    },
+    "NAL_Car_AS1_P172": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 7,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 0,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 15.91,
+        "data_evidence": 0.0,
+        "concept_abstraction": 52.27,
+        "impersonal": 0.0,
+        "other": 31.82
+      },
+      "total_classified": 44
+    },
+    "NAL_Car_AS1_P98": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P98.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 15,
+        "data_evidence": 0,
+        "concept_abstraction": 31,
+        "impersonal": 0,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 22.39,
+        "data_evidence": 0.0,
+        "concept_abstraction": 46.27,
+        "impersonal": 0.0,
+        "other": 31.34
+      },
+      "total_classified": 67
+    },
+    "NAL_Car_AS1_P99": {
+      "discipline": "NAL_Car",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P99.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 11,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 1,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 3.57,
+        "source_attribution": 19.64,
+        "data_evidence": 0.0,
+        "concept_abstraction": 30.36,
+        "impersonal": 1.79,
+        "other": 44.64
+      },
+      "total_classified": 56
+    },
+    "NAL_DiL_AS1_P105": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P105.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 13,
+        "data_evidence": 0,
+        "concept_abstraction": 38,
+        "impersonal": 4,
+        "other": 49
+      },
+      "agency_percentages": {
+        "author_identity": 4.59,
+        "source_attribution": 11.93,
+        "data_evidence": 0.0,
+        "concept_abstraction": 34.86,
+        "impersonal": 3.67,
+        "other": 44.95
+      },
+      "total_classified": 109
+    },
+    "NAL_DiL_AS1_P106": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P106.docx",
+      "agency_counts": {
+        "author_identity": 7,
+        "source_attribution": 7,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 11,
+        "other": 55
+      },
+      "agency_percentages": {
+        "author_identity": 6.48,
+        "source_attribution": 6.48,
+        "data_evidence": 0.0,
+        "concept_abstraction": 25.93,
+        "impersonal": 10.19,
+        "other": 50.93
+      },
+      "total_classified": 108
+    },
+    "NAL_DiL_AS1_P107": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P107.docx",
+      "agency_counts": {
+        "author_identity": 14,
+        "source_attribution": 11,
+        "data_evidence": 0,
+        "concept_abstraction": 37,
+        "impersonal": 6,
+        "other": 43
+      },
+      "agency_percentages": {
+        "author_identity": 12.61,
+        "source_attribution": 9.91,
+        "data_evidence": 0.0,
+        "concept_abstraction": 33.33,
+        "impersonal": 5.41,
+        "other": 38.74
+      },
+      "total_classified": 111
+    },
+    "NAL_DiL_AS1_P108": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P108.docx",
+      "agency_counts": {
+        "author_identity": 16,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 33,
+        "impersonal": 11,
+        "other": 41
+      },
+      "agency_percentages": {
+        "author_identity": 15.38,
+        "source_attribution": 2.88,
+        "data_evidence": 0.0,
+        "concept_abstraction": 31.73,
+        "impersonal": 10.58,
+        "other": 39.42
+      },
+      "total_classified": 104
+    },
+    "NAL_DiL_AS1_P109": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P109.docx",
+      "agency_counts": {
+        "author_identity": 16,
+        "source_attribution": 10,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 5,
+        "other": 50
+      },
+      "agency_percentages": {
+        "author_identity": 14.81,
+        "source_attribution": 9.26,
+        "data_evidence": 0.0,
+        "concept_abstraction": 25.0,
+        "impersonal": 4.63,
+        "other": 46.3
+      },
+      "total_classified": 108
+    },
+    "NAL_DiL_AS1_P166": {
+      "discipline": "NAL_DiL",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P166.docx",
+      "agency_counts": {
+        "author_identity": 18,
+        "source_attribution": 9,
+        "data_evidence": 0,
+        "concept_abstraction": 26,
+        "impersonal": 6,
+        "other": 51
+      },
+      "agency_percentages": {
+        "author_identity": 16.36,
+        "source_attribution": 8.18,
+        "data_evidence": 0.0,
+        "concept_abstraction": 23.64,
+        "impersonal": 5.45,
+        "other": 46.36
+      },
+      "total_classified": 110
+    },
+    "SCSA_Bon_AS1_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P54.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 14,
+        "impersonal": 7,
+        "other": 1
+      },
+      "agency_percentages": {
+        "author_identity": 4.17,
+        "source_attribution": 4.17,
+        "data_evidence": 0.0,
+        "concept_abstraction": 58.33,
+        "impersonal": 29.17,
+        "other": 4.17
+      },
+      "total_classified": 24
+    },
+    "SCSA_Bon_AS1_P55": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P55.docx",
+      "agency_counts": {
+        "author_identity": 8,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 3,
+        "other": 2
+      },
+      "agency_percentages": {
+        "author_identity": 26.67,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.67,
+        "impersonal": 10.0,
+        "other": 6.67
+      },
+      "total_classified": 30
+    },
+    "SCSA_Bon_AS1_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P56.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 14,
+        "impersonal": 6,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 10.71,
+        "source_attribution": 3.57,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.0,
+        "impersonal": 21.43,
+        "other": 14.29
+      },
+      "total_classified": 28
+    },
+    "SCSA_Bon_AS1_P57": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P57.docx",
+      "agency_counts": {
+        "author_identity": 10,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 28,
+        "impersonal": 1,
+        "other": 17
+      },
+      "agency_percentages": {
+        "author_identity": 17.86,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 50.0,
+        "impersonal": 1.79,
+        "other": 30.36
+      },
+      "total_classified": 56
+    },
+    "SCSA_Bon_AS1_P58": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P58.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 39,
+        "impersonal": 5,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 5.88,
+        "source_attribution": 5.88,
+        "data_evidence": 0.0,
+        "concept_abstraction": 57.35,
+        "impersonal": 7.35,
+        "other": 23.53
+      },
+      "total_classified": 68
+    },
+    "SCSA_Bon_AS1_P59": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P59.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 21,
+        "impersonal": 10,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 5.26,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.26,
+        "impersonal": 26.32,
+        "other": 13.16
+      },
+      "total_classified": 38
+    },
+    "SCSA_Bon_AS1_P60": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P60.docx",
+      "agency_counts": {
+        "author_identity": 21,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 12,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 30.88,
+        "source_attribution": 1.47,
+        "data_evidence": 0.0,
+        "concept_abstraction": 33.82,
+        "impersonal": 17.65,
+        "other": 16.18
+      },
+      "total_classified": 68
+    },
+    "SCSA_Bon_AS1_P61": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P61.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 72,
+        "impersonal": 9,
+        "other": 24
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 1.87,
+        "data_evidence": 0.0,
+        "concept_abstraction": 67.29,
+        "impersonal": 8.41,
+        "other": 22.43
+      },
+      "total_classified": 107
+    },
+    "SCSA_Bon_AS1_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P62.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 1,
+        "concept_abstraction": 12,
+        "impersonal": 3,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 4.55,
+        "source_attribution": 0.0,
+        "data_evidence": 4.55,
+        "concept_abstraction": 54.55,
+        "impersonal": 13.64,
+        "other": 22.73
+      },
+      "total_classified": 22
+    },
+    "SCSA_Bon_AS1_P63": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P63.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 21,
+        "impersonal": 2,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.56,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.85,
+        "impersonal": 5.13,
+        "other": 38.46
+      },
+      "total_classified": 39
+    },
+    "SCSA_Bon_AS1_P64": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P64.docx",
+      "agency_counts": {
+        "author_identity": 7,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 14,
+        "impersonal": 7,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 20.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.0,
+        "impersonal": 20.0,
+        "other": 20.0
+      },
+      "total_classified": 35
+    },
+    "SCSA_Bon_AS1_P65": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P65.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 13,
+        "impersonal": 1,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 6.9,
+        "source_attribution": 10.34,
+        "data_evidence": 0.0,
+        "concept_abstraction": 44.83,
+        "impersonal": 3.45,
+        "other": 34.48
+      },
+      "total_classified": 29
+    },
+    "SCSA_Bon_AS1_P66": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P66.docx",
+      "agency_counts": {
+        "author_identity": 13,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 1,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 31.71,
+        "source_attribution": 2.44,
+        "data_evidence": 0.0,
+        "concept_abstraction": 41.46,
+        "impersonal": 2.44,
+        "other": 21.95
+      },
+      "total_classified": 41
+    },
+    "SCSA_Bon_AS1_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P67.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 0,
+        "data_evidence": 1,
+        "concept_abstraction": 22,
+        "impersonal": 0,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 3.45,
+        "source_attribution": 0.0,
+        "data_evidence": 3.45,
+        "concept_abstraction": 75.86,
+        "impersonal": 0.0,
+        "other": 17.24
+      },
+      "total_classified": 29
+    },
+    "SCSA_Bon_AS1_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P68.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 15,
+        "impersonal": 0,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 11.54,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 57.69,
+        "impersonal": 0.0,
+        "other": 30.77
+      },
+      "total_classified": 26
+    },
+    "SCSA_Bon_AS1_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P69.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 22,
+        "impersonal": 8,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 9.76,
+        "source_attribution": 2.44,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.66,
+        "impersonal": 19.51,
+        "other": 14.63
+      },
+      "total_classified": 41
+    },
+    "SCSA_Bon_AS1_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P70.docx",
+      "agency_counts": {
+        "author_identity": 10,
+        "source_attribution": 1,
+        "data_evidence": 1,
+        "concept_abstraction": 31,
+        "impersonal": 2,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 16.95,
+        "source_attribution": 1.69,
+        "data_evidence": 1.69,
+        "concept_abstraction": 52.54,
+        "impersonal": 3.39,
+        "other": 23.73
+      },
+      "total_classified": 59
+    },
+    "SCSA_Bon_AS1_P71": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P71.docx",
+      "agency_counts": {
+        "author_identity": 17,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 3,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 32.08,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.17,
+        "impersonal": 5.66,
+        "other": 15.09
+      },
+      "total_classified": 53
+    },
+    "SCSA_Bon_AS1_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P72.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 3,
+        "other": 1
+      },
+      "agency_percentages": {
+        "author_identity": 7.69,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 76.92,
+        "impersonal": 11.54,
+        "other": 3.85
+      },
+      "total_classified": 26
+    },
+    "SCSA_Bon_AS2_P54": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P54.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 25,
+        "impersonal": 4,
+        "other": 7
+      },
+      "agency_percentages": {
+        "author_identity": 4.88,
+        "source_attribution": 7.32,
+        "data_evidence": 0.0,
+        "concept_abstraction": 60.98,
+        "impersonal": 9.76,
+        "other": 17.07
+      },
+      "total_classified": 41
+    },
+    "SCSA_Bon_AS2_P56": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P56.docx",
+      "agency_counts": {
+        "author_identity": 16,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 7,
+        "other": 11
+      },
+      "agency_percentages": {
+        "author_identity": 27.59,
+        "source_attribution": 1.72,
+        "data_evidence": 0.0,
+        "concept_abstraction": 39.66,
+        "impersonal": 12.07,
+        "other": 18.97
+      },
+      "total_classified": 58
+    },
+    "SCSA_Bon_AS2_P62": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P62.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 13,
+        "impersonal": 1,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 4.55,
+        "source_attribution": 4.55,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.09,
+        "impersonal": 4.55,
+        "other": 27.27
+      },
+      "total_classified": 22
+    },
+    "SCSA_Bon_AS2_P67": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P67.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 0,
+        "other": 10
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.63,
+        "data_evidence": 0.0,
+        "concept_abstraction": 71.05,
+        "impersonal": 0.0,
+        "other": 26.32
+      },
+      "total_classified": 38
+    },
+    "SCSA_Bon_AS2_P68": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P68.docx",
+      "agency_counts": {
+        "author_identity": 6,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 20,
+        "impersonal": 4,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 13.33,
+        "source_attribution": 4.44,
+        "data_evidence": 0.0,
+        "concept_abstraction": 44.44,
+        "impersonal": 8.89,
+        "other": 28.89
+      },
+      "total_classified": 45
+    },
+    "SCSA_Bon_AS2_P69": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P69.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 38,
+        "impersonal": 13,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 5.13,
+        "source_attribution": 1.28,
+        "data_evidence": 0.0,
+        "concept_abstraction": 48.72,
+        "impersonal": 16.67,
+        "other": 28.21
+      },
+      "total_classified": 78
+    },
+    "SCSA_Bon_AS2_P70": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P70.docx",
+      "agency_counts": {
+        "author_identity": 14,
+        "source_attribution": 2,
+        "data_evidence": 1,
+        "concept_abstraction": 22,
+        "impersonal": 2,
+        "other": 16
+      },
+      "agency_percentages": {
+        "author_identity": 24.56,
+        "source_attribution": 3.51,
+        "data_evidence": 1.75,
+        "concept_abstraction": 38.6,
+        "impersonal": 3.51,
+        "other": 28.07
+      },
+      "total_classified": 57
+    },
+    "SCSA_Bon_AS2_P72": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P72.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 15,
+        "impersonal": 2,
+        "other": 3
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 75.0,
+        "impersonal": 10.0,
+        "other": 15.0
+      },
+      "total_classified": 20
+    },
+    "SCSA_Bon_AS2_P73": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P73.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 39,
+        "impersonal": 1,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 4.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 78.0,
+        "impersonal": 2.0,
+        "other": 16.0
+      },
+      "total_classified": 50
+    },
+    "SCSA_Bon_AS2_P74": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P74.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 27,
+        "impersonal": 0,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 11.63,
+        "source_attribution": 4.65,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.79,
+        "impersonal": 0.0,
+        "other": 20.93
+      },
+      "total_classified": 43
+    },
+    "SCSA_Bon_AS2_P75": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P75.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 0,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 10.0,
+        "source_attribution": 5.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.5,
+        "impersonal": 0.0,
+        "other": 37.5
+      },
+      "total_classified": 40
+    },
+    "SCSA_Bon_AS2_P76": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P76.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 2,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 65.52,
+        "impersonal": 6.9,
+        "other": 27.59
+      },
+      "total_classified": 29
+    },
+    "SCSA_Bon_AS2_P77": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P77.docx",
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 42,
+        "impersonal": 6,
+        "other": 20
+      },
+      "agency_percentages": {
+        "author_identity": 5.48,
+        "source_attribution": 1.37,
+        "data_evidence": 0.0,
+        "concept_abstraction": 57.53,
+        "impersonal": 8.22,
+        "other": 27.4
+      },
+      "total_classified": 73
+    },
+    "SCSA_Bon_AS2_P78": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P78.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 19,
+        "impersonal": 1,
+        "other": 4
+      },
+      "agency_percentages": {
+        "author_identity": 3.7,
+        "source_attribution": 7.41,
+        "data_evidence": 0.0,
+        "concept_abstraction": 70.37,
+        "impersonal": 3.7,
+        "other": 14.81
+      },
+      "total_classified": 27
+    },
+    "SCSA_Bon_AS2_P79": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P79.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 15,
+        "impersonal": 1,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.5,
+        "impersonal": 4.17,
+        "other": 33.33
+      },
+      "total_classified": 24
+    },
+    "SCSA_Bon_AS2_P80": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P80.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 37,
+        "impersonal": 7,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 1.47,
+        "source_attribution": 1.47,
+        "data_evidence": 0.0,
+        "concept_abstraction": 54.41,
+        "impersonal": 10.29,
+        "other": 32.35
+      },
+      "total_classified": 68
+    },
+    "SCSA_Bon_AS2_P81": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P81.docx",
+      "agency_counts": {
+        "author_identity": 11,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 15,
+        "other": 19
+      },
+      "agency_percentages": {
+        "author_identity": 16.18,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 33.82,
+        "impersonal": 22.06,
+        "other": 27.94
+      },
+      "total_classified": 68
+    },
+    "SCSA_Bon_AS2_P82": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P82.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 35,
+        "impersonal": 6,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 2.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 70.0,
+        "impersonal": 12.0,
+        "other": 16.0
+      },
+      "total_classified": 50
+    },
+    "SCSA_Bon_AS2_P83": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P83.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 10,
+        "impersonal": 9,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 3.03,
+        "source_attribution": 3.03,
+        "data_evidence": 0.0,
+        "concept_abstraction": 30.3,
+        "impersonal": 27.27,
+        "other": 36.36
+      },
+      "total_classified": 33
+    },
+    "SCSA_Bon_AS2_P84": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P84.docx",
+      "agency_counts": {
+        "author_identity": 0,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 11,
+        "impersonal": 1,
+        "other": 6
+      },
+      "agency_percentages": {
+        "author_identity": 0.0,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.11,
+        "impersonal": 5.56,
+        "other": 33.33
+      },
+      "total_classified": 18
+    },
+    "SCSA_Bon_AS2_P85": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P85.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 1,
+        "data_evidence": 0,
+        "concept_abstraction": 21,
+        "impersonal": 7,
+        "other": 5
+      },
+      "agency_percentages": {
+        "author_identity": 8.11,
+        "source_attribution": 2.7,
+        "data_evidence": 0.0,
+        "concept_abstraction": 56.76,
+        "impersonal": 18.92,
+        "other": 13.51
+      },
+      "total_classified": 37
+    },
+    "SCSA_Bon_AS2_P86": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P86.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 17,
+        "impersonal": 3,
+        "other": 14
+      },
+      "agency_percentages": {
+        "author_identity": 12.82,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 43.59,
+        "impersonal": 7.69,
+        "other": 35.9
+      },
+      "total_classified": 39
+    },
+    "SCSA_Bon_AS2_P87": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P87.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 38,
+        "impersonal": 4,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 3.57,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 67.86,
+        "impersonal": 7.14,
+        "other": 21.43
+      },
+      "total_classified": 56
+    },
+    "SCSA_Bon_AS2_P88": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P88.docx",
+      "agency_counts": {
+        "author_identity": 17,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 16,
+        "impersonal": 4,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 36.96,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 34.78,
+        "impersonal": 8.7,
+        "other": 19.57
+      },
+      "total_classified": 46
+    },
+    "SCSA_Bon_AS2_P89": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P89.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 3,
+        "data_evidence": 0,
+        "concept_abstraction": 34,
+        "impersonal": 8,
+        "other": 9
+      },
+      "agency_percentages": {
+        "author_identity": 1.82,
+        "source_attribution": 5.45,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.82,
+        "impersonal": 14.55,
+        "other": 16.36
+      },
+      "total_classified": 55
+    },
+    "SCSA_Bon_AS2_P90": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P90.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 31,
+        "impersonal": 1,
+        "other": 12
+      },
+      "agency_percentages": {
+        "author_identity": 2.04,
+        "source_attribution": 8.16,
+        "data_evidence": 0.0,
+        "concept_abstraction": 63.27,
+        "impersonal": 2.04,
+        "other": 24.49
+      },
+      "total_classified": 49
+    },
+    "SCSA_Bon_AS2_P91": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P91.docx",
+      "agency_counts": {
+        "author_identity": 17,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 29,
+        "impersonal": 1,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 26.56,
+        "source_attribution": 6.25,
+        "data_evidence": 0.0,
+        "concept_abstraction": 45.31,
+        "impersonal": 1.56,
+        "other": 20.31
+      },
+      "total_classified": 64
+    },
+    "SCSA_Bon_AS2_P92": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P92.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 50,
+        "impersonal": 7,
+        "other": 22
+      },
+      "agency_percentages": {
+        "author_identity": 3.57,
+        "source_attribution": 2.38,
+        "data_evidence": 0.0,
+        "concept_abstraction": 59.52,
+        "impersonal": 8.33,
+        "other": 26.19
+      },
+      "total_classified": 84
+    },
+    "SCSA_Bon_AS2_P93": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P93.docx",
+      "agency_counts": {
+        "author_identity": 22,
+        "source_attribution": 0,
+        "data_evidence": 0,
+        "concept_abstraction": 34,
+        "impersonal": 12,
+        "other": 15
+      },
+      "agency_percentages": {
+        "author_identity": 26.51,
+        "source_attribution": 0.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 40.96,
+        "impersonal": 14.46,
+        "other": 18.07
+      },
+      "total_classified": 83
+    },
+    "SCSA_Bon_AS2_P94": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P94.docx",
+      "agency_counts": {
+        "author_identity": 2,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 35,
+        "impersonal": 5,
+        "other": 8
+      },
+      "agency_percentages": {
+        "author_identity": 3.85,
+        "source_attribution": 3.85,
+        "data_evidence": 0.0,
+        "concept_abstraction": 67.31,
+        "impersonal": 9.62,
+        "other": 15.38
+      },
+      "total_classified": 52
+    },
+    "SCSA_Bon_AS2_P95": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P95.docx",
+      "agency_counts": {
+        "author_identity": 3,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 50,
+        "impersonal": 2,
+        "other": 21
+      },
+      "agency_percentages": {
+        "author_identity": 3.75,
+        "source_attribution": 5.0,
+        "data_evidence": 0.0,
+        "concept_abstraction": 62.5,
+        "impersonal": 2.5,
+        "other": 26.25
+      },
+      "total_classified": 80
+    },
+    "SCSA_Bon_AS2_P96": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P96.docx",
+      "agency_counts": {
+        "author_identity": 5,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 55,
+        "impersonal": 13,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 5.56,
+        "source_attribution": 4.44,
+        "data_evidence": 0.0,
+        "concept_abstraction": 61.11,
+        "impersonal": 14.44,
+        "other": 14.44
+      },
+      "total_classified": 90
+    },
+    "SCSA_Bon_AS2_P97": {
+      "discipline": "SCSA_Bon",
+      "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P97.docx",
+      "agency_counts": {
+        "author_identity": 1,
+        "source_attribution": 2,
+        "data_evidence": 0,
+        "concept_abstraction": 23,
+        "impersonal": 4,
+        "other": 13
+      },
+      "agency_percentages": {
+        "author_identity": 2.33,
+        "source_attribution": 4.65,
+        "data_evidence": 0.0,
+        "concept_abstraction": 53.49,
+        "impersonal": 9.3,
+        "other": 30.23
+      },
+      "total_classified": 43
+    }
+  },
+  "per_discipline": {
+    "AS_Gus": {
+      "agency_counts": {
+        "author_identity": 87,
+        "source_attribution": 134,
+        "data_evidence": 12,
+        "concept_abstraction": 1335,
+        "impersonal": 199,
+        "other": 573
+      },
+      "agency_percentages": {
+        "author_identity": 3.72,
+        "source_attribution": 5.73,
+        "data_evidence": 0.51,
+        "concept_abstraction": 57.05,
+        "impersonal": 8.5,
+        "other": 24.49
+      },
+      "total_classified": 2340
+    },
+    "CILE_Pol": {
+      "agency_counts": {
+        "author_identity": 109,
+        "source_attribution": 31,
+        "data_evidence": 1,
+        "concept_abstraction": 1033,
+        "impersonal": 177,
+        "other": 461
+      },
+      "agency_percentages": {
+        "author_identity": 6.02,
+        "source_attribution": 1.71,
+        "data_evidence": 0.06,
+        "concept_abstraction": 57.01,
+        "impersonal": 9.77,
+        "other": 25.44
+      },
+      "total_classified": 1812
+    },
+    "CLA_Pol": {
+      "agency_counts": {
+        "author_identity": 47,
+        "source_attribution": 59,
+        "data_evidence": 4,
+        "concept_abstraction": 458,
+        "impersonal": 76,
+        "other": 197
+      },
+      "agency_percentages": {
+        "author_identity": 5.59,
+        "source_attribution": 7.02,
+        "data_evidence": 0.48,
+        "concept_abstraction": 54.46,
+        "impersonal": 9.04,
+        "other": 23.42
+      },
+      "total_classified": 841
+    },
+    "CPH_Mor": {
+      "agency_counts": {
+        "author_identity": 67,
+        "source_attribution": 44,
+        "data_evidence": 0,
+        "concept_abstraction": 861,
+        "impersonal": 146,
+        "other": 442
+      },
+      "agency_percentages": {
+        "author_identity": 4.29,
+        "source_attribution": 2.82,
+        "data_evidence": 0.0,
+        "concept_abstraction": 55.19,
+        "impersonal": 9.36,
+        "other": 28.33
+      },
+      "total_classified": 1560
+    },
+    "DEIC_San": {
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 5,
+        "data_evidence": 3,
+        "concept_abstraction": 73,
+        "impersonal": 8,
+        "other": 25
+      },
+      "agency_percentages": {
+        "author_identity": 3.39,
+        "source_attribution": 4.24,
+        "data_evidence": 2.54,
+        "concept_abstraction": 61.86,
+        "impersonal": 6.78,
+        "other": 21.19
+      },
+      "total_classified": 118
+    },
+    "ELClass_Zot": {
+      "agency_counts": {
+        "author_identity": 22,
+        "source_attribution": 4,
+        "data_evidence": 0,
+        "concept_abstraction": 114,
+        "impersonal": 14,
+        "other": 54
+      },
+      "agency_percentages": {
+        "author_identity": 10.58,
+        "source_attribution": 1.92,
+        "data_evidence": 0.0,
+        "concept_abstraction": 54.81,
+        "impersonal": 6.73,
+        "other": 25.96
+      },
+      "total_classified": 208
+    },
+    "ELSPS_Zot": {
+      "agency_counts": {
+        "author_identity": 46,
+        "source_attribution": 13,
+        "data_evidence": 0,
+        "concept_abstraction": 221,
+        "impersonal": 50,
+        "other": 138
+      },
+      "agency_percentages": {
+        "author_identity": 9.83,
+        "source_attribution": 2.78,
+        "data_evidence": 0.0,
+        "concept_abstraction": 47.22,
+        "impersonal": 10.68,
+        "other": 29.49
+      },
+      "total_classified": 468
+    },
+    "EOK_Geu": {
+      "agency_counts": {
+        "author_identity": 54,
+        "source_attribution": 79,
+        "data_evidence": 13,
+        "concept_abstraction": 490,
+        "impersonal": 65,
+        "other": 217
+      },
+      "agency_percentages": {
+        "author_identity": 5.88,
+        "source_attribution": 8.61,
+        "data_evidence": 1.42,
+        "concept_abstraction": 53.38,
+        "impersonal": 7.08,
+        "other": 23.64
+      },
+      "total_classified": 918
+    },
+    "GLD_Gog": {
+      "agency_counts": {
+        "author_identity": 51,
+        "source_attribution": 86,
+        "data_evidence": 2,
+        "concept_abstraction": 307,
+        "impersonal": 39,
+        "other": 156
+      },
+      "agency_percentages": {
+        "author_identity": 7.96,
+        "source_attribution": 13.42,
+        "data_evidence": 0.31,
+        "concept_abstraction": 47.89,
+        "impersonal": 6.08,
+        "other": 24.34
+      },
+      "total_classified": 641
+    },
+    "NAL_Car": {
+      "agency_counts": {
+        "author_identity": 4,
+        "source_attribution": 81,
+        "data_evidence": 0,
+        "concept_abstraction": 182,
+        "impersonal": 12,
+        "other": 117
+      },
+      "agency_percentages": {
+        "author_identity": 1.01,
+        "source_attribution": 20.45,
+        "data_evidence": 0.0,
+        "concept_abstraction": 45.96,
+        "impersonal": 3.03,
+        "other": 29.55
+      },
+      "total_classified": 396
+    },
+    "NAL_DiL": {
+      "agency_counts": {
+        "author_identity": 76,
+        "source_attribution": 53,
+        "data_evidence": 0,
+        "concept_abstraction": 189,
+        "impersonal": 43,
+        "other": 289
+      },
+      "agency_percentages": {
+        "author_identity": 11.69,
+        "source_attribution": 8.15,
+        "data_evidence": 0.0,
+        "concept_abstraction": 29.08,
+        "impersonal": 6.62,
+        "other": 44.46
+      },
+      "total_classified": 650
+    },
+    "SCSA_Bon": {
+      "agency_counts": {
+        "author_identity": 261,
+        "source_attribution": 65,
+        "data_evidence": 4,
+        "concept_abstraction": 1352,
+        "impersonal": 236,
+        "other": 561
+      },
+      "agency_percentages": {
+        "author_identity": 10.53,
+        "source_attribution": 2.62,
+        "data_evidence": 0.16,
+        "concept_abstraction": 54.54,
+        "impersonal": 9.52,
+        "other": 22.63
+      },
+      "total_classified": 2479
+    }
+  }
+}

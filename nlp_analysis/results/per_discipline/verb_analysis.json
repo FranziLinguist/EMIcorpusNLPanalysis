@@ -1,0 +1,358 @@
+{
+  "AS_Gus": {
+    "total_verbs": 6159,
+    "modal_counts": {
+      "will": 43,
+      "could": 29,
+      "must": 21,
+      "can": 100,
+      "should": 26,
+      "may": 27,
+      "might": 14,
+      "would": 38
+    },
+    "modal_category_counts": {
+      "volition": 81,
+      "ability": 129,
+      "permission": 156,
+      "possibility": 70,
+      "obligation": 47
+    },
+    "epistemic_counts": {
+      "hedging": 70,
+      "strong_claim": 21,
+      "ability": 100,
+      "recommendation": 26
+    },
+    "passive_count": 592,
+    "active_count": 3512,
+    "passive_ratio": 0.1442,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "CILE_Pol": {
+    "total_verbs": 4614,
+    "modal_counts": {
+      "can": 249,
+      "will": 54,
+      "would": 29,
+      "may": 51,
+      "could": 42,
+      "should": 7,
+      "must": 23,
+      "might": 14,
+      "shall": 3
+    },
+    "modal_category_counts": {
+      "ability": 291,
+      "permission": 342,
+      "volition": 86,
+      "possibility": 107,
+      "obligation": 33
+    },
+    "epistemic_counts": {
+      "ability": 249,
+      "hedging": 107,
+      "recommendation": 7,
+      "strong_claim": 23
+    },
+    "passive_count": 383,
+    "active_count": 2546,
+    "passive_ratio": 0.1308,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "CLA_Pol": {
+    "total_verbs": 2283,
+    "modal_counts": {
+      "can": 78,
+      "must": 19,
+      "would": 29,
+      "might": 3,
+      "may": 16,
+      "will": 59,
+      "could": 23,
+      "should": 7
+    },
+    "modal_category_counts": {
+      "ability": 101,
+      "permission": 117,
+      "obligation": 26,
+      "volition": 88,
+      "possibility": 42
+    },
+    "epistemic_counts": {
+      "ability": 78,
+      "strong_claim": 19,
+      "hedging": 42,
+      "recommendation": 7
+    },
+    "passive_count": 187,
+    "active_count": 1300,
+    "passive_ratio": 0.1258,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "CPH_Mor": {
+    "total_verbs": 3532,
+    "modal_counts": {
+      "can": 55,
+      "could": 36,
+      "would": 20,
+      "will": 7,
+      "should": 11,
+      "must": 1,
+      "may": 2,
+      "might": 1
+    },
+    "modal_category_counts": {
+      "ability": 91,
+      "permission": 93,
+      "possibility": 39,
+      "volition": 27,
+      "obligation": 12
+    },
+    "epistemic_counts": {
+      "ability": 55,
+      "hedging": 39,
+      "recommendation": 11,
+      "strong_claim": 1
+    },
+    "passive_count": 313,
+    "active_count": 2111,
+    "passive_ratio": 0.1291,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "DEIC_San": {
+    "total_verbs": 301,
+    "modal_counts": {
+      "could": 1,
+      "can": 3
+    },
+    "modal_category_counts": {
+      "ability": 4,
+      "permission": 4,
+      "possibility": 1
+    },
+    "epistemic_counts": {
+      "hedging": 1,
+      "ability": 3
+    },
+    "passive_count": 34,
+    "active_count": 186,
+    "passive_ratio": 0.1545,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "ELClass_Zot": {
+    "total_verbs": 514,
+    "modal_counts": {
+      "can": 16,
+      "would": 1,
+      "might": 2,
+      "could": 6
+    },
+    "modal_category_counts": {
+      "ability": 22,
+      "permission": 22,
+      "volition": 1,
+      "possibility": 8
+    },
+    "epistemic_counts": {
+      "ability": 16,
+      "hedging": 8
+    },
+    "passive_count": 35,
+    "active_count": 292,
+    "passive_ratio": 0.107,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "ELSPS_Zot": {
+    "total_verbs": 1182,
+    "modal_counts": {
+      "can": 60,
+      "might": 3,
+      "should": 4,
+      "will": 3,
+      "would": 2,
+      "could": 16,
+      "may": 1,
+      "must": 3
+    },
+    "modal_category_counts": {
+      "ability": 76,
+      "permission": 77,
+      "possibility": 20,
+      "obligation": 7,
+      "volition": 5
+    },
+    "epistemic_counts": {
+      "ability": 60,
+      "hedging": 20,
+      "recommendation": 4,
+      "strong_claim": 3
+    },
+    "passive_count": 103,
+    "active_count": 663,
+    "passive_ratio": 0.1345,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "EOK_Geu": {
+    "total_verbs": 2509,
+    "modal_counts": {
+      "may": 21,
+      "would": 21,
+      "can": 77,
+      "could": 17,
+      "should": 12,
+      "must": 3,
+      "will": 57,
+      "might": 12
+    },
+    "modal_category_counts": {
+      "permission": 115,
+      "possibility": 50,
+      "volition": 78,
+      "ability": 94,
+      "obligation": 15
+    },
+    "epistemic_counts": {
+      "hedging": 50,
+      "ability": 77,
+      "recommendation": 12,
+      "strong_claim": 3
+    },
+    "passive_count": 143,
+    "active_count": 1565,
+    "passive_ratio": 0.0837,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "GLD_Gog": {
+    "total_verbs": 1803,
+    "modal_counts": {
+      "could": 28,
+      "can": 44,
+      "must": 10,
+      "will": 15,
+      "would": 9,
+      "might": 7,
+      "may": 16,
+      "should": 17
+    },
+    "modal_category_counts": {
+      "ability": 72,
+      "permission": 88,
+      "possibility": 51,
+      "obligation": 27,
+      "volition": 24
+    },
+    "epistemic_counts": {
+      "hedging": 51,
+      "ability": 44,
+      "strong_claim": 10,
+      "recommendation": 17
+    },
+    "passive_count": 144,
+    "active_count": 1090,
+    "passive_ratio": 0.1167,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "NAL_Car": {
+    "total_verbs": 901,
+    "modal_counts": {
+      "can": 32,
+      "should": 13,
+      "must": 3,
+      "will": 2,
+      "might": 8,
+      "could": 6,
+      "may": 2,
+      "would": 7,
+      "ought": 1
+    },
+    "modal_category_counts": {
+      "ability": 38,
+      "permission": 40,
+      "obligation": 17,
+      "volition": 9,
+      "possibility": 16
+    },
+    "epistemic_counts": {
+      "ability": 32,
+      "recommendation": 13,
+      "strong_claim": 3,
+      "hedging": 16
+    },
+    "passive_count": 65,
+    "active_count": 539,
+    "passive_ratio": 0.1076,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "NAL_DiL": {
+    "total_verbs": 1456,
+    "modal_counts": {
+      "should": 11,
+      "may": 13,
+      "can": 21,
+      "would": 12,
+      "could": 23,
+      "will": 11,
+      "must": 1
+    },
+    "modal_category_counts": {
+      "obligation": 12,
+      "permission": 57,
+      "possibility": 36,
+      "ability": 44,
+      "volition": 23
+    },
+    "epistemic_counts": {
+      "recommendation": 11,
+      "hedging": 36,
+      "ability": 21,
+      "strong_claim": 1
+    },
+    "passive_count": 91,
+    "active_count": 870,
+    "passive_ratio": 0.0947,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  },
+  "SCSA_Bon": {
+    "total_verbs": 6176,
+    "modal_counts": {
+      "can": 359,
+      "will": 137,
+      "should": 83,
+      "could": 32,
+      "must": 10,
+      "might": 43,
+      "may": 6,
+      "would": 45
+    },
+    "modal_category_counts": {
+      "ability": 391,
+      "permission": 397,
+      "volition": 182,
+      "obligation": 93,
+      "possibility": 81
+    },
+    "epistemic_counts": {
+      "ability": 359,
+      "recommendation": 83,
+      "hedging": 81,
+      "strong_claim": 10
+    },
+    "passive_count": 483,
+    "active_count": 3336,
+    "passive_ratio": 0.1265,
+    "reporting_verb_counts": {},
+    "reporting_type_counts": {}
+  }
+}

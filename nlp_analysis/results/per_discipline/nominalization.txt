@@ -1,0 +1,32 @@
+======================================================================
+  NOMINALIZZAZIONI  –  PER DISCIPLINA
+======================================================================
+
+Disciplina             Totale  Density/100  Top forme
+----------------------------------------------------------------------
+AS_Gus                   2014         4.74  globalization(100), education(90), government(85), development(74), population(38), convergence(35)
+CILE_Pol                 1369         5.29  business(105), corporation(102), minority(79), personality(61), protection(58), information(51)
+CLA_Pol                   516         4.21  investment(63), instrument(47), option(35), difference(29), definition(26), situation(23)
+CPH_Mor                   803         3.52  decolonization(88), independence(34), population(28), globalization(25), colonization(24), development(20)
+DEIC_San                  125         4.88  informality(19), employment(16), productivity(6), participation(6), development(5), formalization(4)
+ELClass_Zot               104         3.82  disability(38), community(13), identity(11), difference(7), discrimination(6), minority(3)
+ELSPS_Zot                 315         5.22  persuasion(51), argumentation(20), solution(19), argument(18), authority(16), evaluation(13)
+EOK_Geu                   747         4.50  innovation(97), migration(59), university(51), education(35), development(25), information(23)
+GLD_Gog                   530         4.76  development(89), interdisciplinarity(22), finance(16), government(15), environment(14), implementation(14)
+NAL_Car                   241         4.17  government(28), reliance(22), independence(13), identity(10), dependence(8), importance(6)
+NAL_DiL                   155         2.00  condition(8), information(6), publication(6), situation(6), compulsion(6), element(6)
+SCSA_Bon                 1982         5.27  reaction(411), bioconjugation(144), conductivity(108), representation(70), conduction(49), absorption(46)
+
+Distribuzione suffissi per disciplina:
+  AS_Gus: -tion(924), -ity(396), -ment(292), -ence(162), -ance(108)
+  CILE_Pol: -tion(619), -ity(386), -ment(135), -ness(113), -ance(46)
+  CLA_Pol: -tion(198), -ment(137), -ity(100), -ence(36), -sion(35)
+  CPH_Mor: -tion(457), -ence(91), -ity(79), -ment(75), -sion(51)
+  DEIC_San: -ity(42), -tion(37), -ment(24), -ence(8), -ance(8)
+  ELClass_Zot: -ity(71), -tion(19), -ence(8), -ance(3), -ment(2)
+  ELSPS_Zot: -tion(151), -sion(57), -ence(36), -ity(35), -ment(30)
+  EOK_Geu: -tion(409), -ity(146), -ment(96), -ence(54), -ance(17)
+  GLD_Gog: -tion(176), -ment(147), -ity(98), -ence(38), -ance(36)
+  NAL_Car: -tion(61), -ity(52), -ment(42), -ence(41), -ance(34)
+  NAL_DiL: -tion(60), -ity(28), -ence(21), -ment(14), -sion(12)
+  SCSA_Bon: -tion(1296), -ity(361), -ence(141), -ance(112), -ment(51)

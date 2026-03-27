@@ -1,0 +1,204 @@
+======================================================================
+  KEYWORDS TF-IDF  –  PER DOCUMENTO
+======================================================================
+
+ALSPS_Zot_AS1_P147: satire, question structure, freedom speech, problem solution, slippery slope
+ALSPS_Zot_AS1_P149: model uses, defined slippery, example justify, justify answer, persuasion
+ALSPS_Zot_AS1_P152: persuasion, model persuasion, satire, discourse, persuasion defined
+ALSPS_Zot_AS2_P148: meaning word, accusation, repetition, denotational meaning, interruption
+ALSPS_Zot_AS2_P155: elements, facework, denotational meaning, connotational, interviewee
+ALSPS_Zot_AS3_P150: speaker, public schools, mutually exclusive, mutually, affirms
+ALSPS_Zot_AS3_P151: sarcasm, questioner, comparison contrast, comparison, idea evaluate
+ALSPS_Zot_AS3_P153: persuasion, appeals, persuasion appeal, emotions, pathos
+ALSPS_Zot_AS4_P154: boo, hooray, boo words, connotation, emotions
+ALSPS_Zot_AS4_P156: boo, hooray, technique person, irony, persuasion
+AS_Gus_AS1_P171: globalization, ferguson, hopping, globe hopping, globe
+AS_Gus_AS1_P43: global shadow, shadow, africa period, exploitation resources, continent
+AS_Gus_AS1_P44: ferguson 2006, ferguson, 2006, convergence, globalization
+AS_Gus_AS1_P46: globalisation, botswana, urbanisation, globalised, globalisation africa
+AS_Gus_AS1_P47: percent, convergence, globalization, naidoo, ted talk
+AS_Gus_AS1_P48: global shadow, global economy, globalization, pillay, enclaves
+AS_Gus_AS1_P51: chap, chap pag, pag, global south, western
+AS_Gus_AS1_P52: ferguson 2006, ferguson, 2006, better life, global north
+AS_Gus_AS1_P53: modernity, modernity development, karlstrom, karlstrom 2004, modernities
+AS_Gus_AS2_P44_P45: nigeria, women education, tratto, tratto da, da https
+AS_Gus_AS2_P46_P47: surveillance, digital, digital authoritarianism, authoritarianism, internet
+AS_Gus_AS2_P48_P49_P50: transgender, transgender people, source https, apartheid, lgbtqi
+AS_Gus_AS2_P51_P52: orientalism, italian, faccetta, nera, faccetta nera
+AS_Gus_AS2_P53_P171: food, food insecurity, insecurity, urbanization, food desert
+CILE_Pol_AS1_P110: position held, dominant position, market share, ex, ex post
+CILE_Pol_AS1_P111: start procedure, dominant position, procedure, protection shareholders, undertaking
+CILE_Pol_AS1_P112: rules ex, point view, ex, dominant position, ex ante
+CILE_Pol_AS1_P113: shereholders, partnersheep, case limited, dominant position, remove
+CILE_Pol_AS1_P114: business corporation, legal personality, dominant position, personality, corporation
+CILE_Pol_AS1_P115: sense promotion, tfue, abuse, holds, legal personality
+CILE_Pol_AS1_P116: abuses, polluting, appointment rights, slate, slate voting
+CILE_Pol_AS1_P117: firm capital, dominant position, personality, legal personality, agency problem
+CILE_Pol_AS1_P118: dominant position, used represent, represent minority, position market, personality
+CILE_Pol_AS1_P119: ownership jurisdictions, jurisdictions, agents behaviour, firm assets, agents
+CILE_Pol_AS1_P120: reach best, business corporation, identities, total, corporation
+CILE_Pol_AS1_P121: kind problems, law aim, dominant position, ownership jurisdiction, agent
+CILE_Pol_AS1_P122: investors creditors, corporation, shareholders, dominant position, undertaking
+CILE_Pol_AS1_P123: gives possibility, minority shareholders, shareholders, limited liability, gives right
+CILE_Pol_AS1_P124: dominant position, undertaking, equity capital, creditors firm, owns
+CILE_Pol_AS1_P125: arising, business corp, dominant position, position held, shareholders
+CILE_Pol_AS1_P126: shareholders, dominant position, reasonable, undertaking, voting
+CILE_Pol_AS2_P113: controlling shareholder, host strategies, prospectus, shareholder, company want
+CILE_Pol_AS2_P114: service providers, regulatory, mutual recognition, centralized, providers
+CILE_Pol_AS2_P116: considered liable, distressed, eu, legislator, controlling shareholder
+CILE_Pol_AS2_P120: distress, legislator, minority shareholders, shareholders sell, financial distress
+CILE_Pol_AS2_P122: controlling shareholder, shareholder, sell shares, inside information, company wants
+CILE_Pol_AS2_P123: shall, abide, voting rights, controlling shareholder, shareholder
+CILE_Pol_AS2_P124: harmonization, minority shareholders, shareholders, minority, shares
+CILE_Pol_AS3_P110: loose, loose ownership, prospectus, certain conditions, director
+CILE_Pol_AS3_P111: prospectus published, merger, strategies address, prospectus, main strategies
+CILE_Pol_AS3_P114: large shareholders, interests large, shareholders, proxy, managers
+CILE_Pol_AS3_P115: unit, approval, stock exchange, shareholders, environmental
+CILE_Pol_AS3_P117: operation, electing directors, imposed law, electing, non contractual
+CILE_Pol_AS3_P118: merger, merger beneficial, document, financial information, public market
+CILE_Pol_AS3_P119: executive, executive managers, shareholders, dispersed, delegated management
+CILE_Pol_AS3_P121: corp, alpha corp, shareholders, independent directors, alpha
+CILE_Pol_AS3_P125: merger, merger beneficial, prospectus, merger instance, financial social
+CILE_Pol_AS3_P126: prospectus, managers, merger, financial social, considered liable
+CILE_Pol_AS3_P127: corp, merger, alpha corp, stop merger, managers
+CLA_Pol _AS1_P136: acceptability, appropriateness, tests, client, contracts party
+CLA_Pol_AS1_P128: applies, instruments, execution, client, best execution
+CLA_Pol_AS1_P129: inducement, hft, asset, client, algorithm
+CLA_Pol_AS1_P130: pre determined, determined price, instruments, settled, negotiable
+CLA_Pol_AS1_P131: algos, client, execute, execution, orders
+CLA_Pol_AS1_P132: instruments, strike, regulator, option, mifid
+CLA_Pol_AS1_P133: company beta, instruments, clients, commissions, mifid
+CLA_Pol_AS1_P134: strike price, strike, excercise, initial price, alpha excercise
+CLA_Pol_AS1_P135: swap, underlying, derivatives, financial derivatives, instruments
+CLA_Pol_AS1_P137: non equity, otf, mtf, mifid, venues
+CLA_Pol_AS1_P138: algorithm, inducement, product providers, client, providers
+CLA_Pol_AS1_P139: gas, contract, future contract, trading, future
+CLA_Pol_AS1_P140: fixed, future contract, mifid, settlement, instrument
+CLA_Pol_AS1_P141: client, product providers, providers, trading strategies, dlt
+CLA_Pol_AS1_P142: maturity contract, natural gas, gas, algos, trading
+CLA_Pol_AS1_P143: tradings, trading, algorithmic, algorithmic trading, intervention limited
+CLA_Pol_AS1_P144: hft, gas, orders, alpha, trading
+CLA_Pol_AS1_P145: makes profits, gas, natural gas, profits, trading technique
+CLA_Pol_AS1_P146: algorithum, trading, method strategy, spread market, high frequency
+CPH_Mor_AS1_P1: early modern, thire, righs, cooper, modern empires
+CPH_Mor_AS1_P10: concept otherness, worthy, otherness, colonialism, great britain
+CPH_Mor_AS1_P11: british empire, colony, nowdays, british, empire
+CPH_Mor_AS1_P12: objects, superiority, manners, europeans, drain
+CPH_Mor_AS1_P13: indigenous people, indigenous, colonizers, labor force, india
+CPH_Mor_AS1_P14: india, drain, arguing, colonialists, india india
+CPH_Mor_AS1_P15: woolen, kept, clothing, britain, representations
+CPH_Mor_AS1_P16: exports, india, colonial, colonial period, stereotypes
+CPH_Mor_AS1_P17: natives, depictions, colonisers, need british, enslavement
+CPH_Mor_AS1_P2: industrial goods, civilization, industrial, agro, agro sector
+CPH_Mor_AS1_P3: colonized country, wrote, tribes, colonized, rescue
+CPH_Mor_AS1_P4: motherland, beic, serfdom, tariffs, peoples
+CPH_Mor_AS1_P5: factory, idea backwardness, backwardness, relations enlightenment, labor relations
+CPH_Mor_AS1_P6: metropole, industrialized, americans indigenous, taxation, kingdoms
+CPH_Mor_AS1_P7: prince, nationalist, drain, congo, religion
+CPH_Mor_AS1_P8: britain, india, encomienda, native population, europeans
+CPH_Mor_AS1_P9: colonizators, tutsi, hutu tutsi, hutu, british empire
+CPH_Mor_AS2_P1: empirialism, evoluvetion, empirialism new, people claim, new colonialism
+CPH_Mor_AS2_P18: locations, run, decolonization, trust, colonized people
+CPH_Mor_AS2_P19: settlers, lands, nation states, native peoples, peoples
+CPH_Mor_AS2_P20: merchants, networks, decolonization, merchant, strategy crossroad
+CPH_Mor_AS2_P21: spanish monarch, monarch, pre modern, centralization process, modern history
+CPH_Mor_AS2_P22: atlantic revolution, indipendence, historians, merchants, production knowledge
+CPH_Mor_AS2_P23: wwii, decolonization wwii, mercantilism, wwi, process decolonization
+CPH_Mor_AS2_P24: merchant, merchants, facilitated, decolonization, merchant network
+CPH_Mor_AS2_P25: decolonization, merchant, empires, american revolution, colonial rule
+CPH_Mor_AS2_P26: thier, trading roots, untill, roots, colonisers
+CPH_Mor_AS2_P27: according frederick, globalization good, cooper, frederick, frederick cooper
+CPH_Mor_AS2_P28: merchant, decolonization, merchant networks, century decolonization, networks
+CPH_Mor_AS2_P29: century characterized, decolonization, merchant, wave, spanish
+CPH_Mor_AS2_P30: decolonisation, silver, trading, colonisers, places known
+DEIC_San_AS1_P35_P38_P41_P164: informal economy, informality, ilo, elgin, informal
+ELClass_Zot_AS1_P157: prestige, overt prestige, linguistic, overt, determinism
+ELClass_Zot_AS2_P158: racist discourse, dijk, van dijk, van, identified forms
+ELClass_Zot_AS2_P159: sexism, ethnolect, racism, people different, linguistic
+ELClass_Zot_AS2_P161: racsim, disability, identified, women, van dijk
+ELClass_Zot_AS2_P163: racist discourse, ethnolect, racist, disability, dijk
+ELClass_Zot_AS3_P160: identity language, blind person, person language, blind, disability
+ELClass_Zot_AS3_P162: person speaks, community practice, speaks, language, hypothesis
+EOK_Geu_AS1_P34: institutional relationship, innovation, applied research, survey, model innovation
+EOK_Geu_AS1_P35: research output, collaborate, variable, st, output
+EOK_Geu_AS1_P36: innovation, big data, research, st, use big
+EOK_Geu_AS1_P37: financed, innovation, business financed, spending, profitability
+EOK_Geu_AS1_P38: log, st, manual, industry relationship, innovation
+EOK_Geu_AS1_P39: innovation, piedmont, affiliated, lbd, expenditures
+EOK_Geu_AS2_P34_P35_P40: sci hub, sci, hub, libraries, shadow libraries
+EOK_Geu_AS2_P39_P164_P165: brain, brain drain, skilled, skilled migration, high skilled
+EOK_Geu_AS3_P164: neoschumpeterian, neoclassical, universities, innovation, technology policy
+EOK_Geu_AS3_P165: patent, invention, personal contractual, right invention, contractual collaboration
+EOK_Geu_AS3_P40: aviation, aviation industry, characteristics knowledge, knowledge, universities
+EOK_Geu_AS3_P41: patent, cycles, utterback, shakeout, abernathy
+EOK_Geu_AS3_P42: neoschumpeterian, money knowledge, teece model, teece, universities
+GLD_Gog_AS1_P169_P170: anthropocene, anthropocene risk, environmental changes, earth, authors
+GLD_Gog_AS1_P16_P167_P168: interdisciplinarity, development studies, norwegian, programme, interdisciplinary
+GLD_Gog_AS1_P26: sdgs, targets, finance, mdgs, sdg
+GLD_Gog_AS1_P31_P32_P33: ngos, foreign agents, russian, russia, agents law
+NAL_Car_AS1_P100: individualism, murray, american value, reliance, individualism self
+NAL_Car_AS1_P101: individualism, emerson, hero, oneself, american society
+NAL_Car_AS1_P102: pot, melting, melting pot, paul, homeland
+NAL_Car_AS1_P103: individualism, murray, college, bellah, families
+NAL_Car_AS1_P104: hoover, individualism, bellah, ambiguities, individual
+NAL_Car_AS1_P172: yunior, familiar, scandinavian, ysrael, imagination
+NAL_Car_AS1_P98: diaz, fiction, individualism, murray, junot
+NAL_Car_AS1_P99: antonia, drown, american individualism, dream, individualism
+NAL_DiL_AS1_P105: ah, mercy, janie, novel, white
+NAL_DiL_AS1_P106: ah, mercy, girl, dat, passage
+NAL_DiL_AS1_P107: jacob, passage, lina, reader, parable
+NAL_DiL_AS1_P108: janie, walker, passage, black, legacy
+NAL_DiL_AS1_P109: hotel, jacobs, irene, dr, dr flint
+NAL_DiL_AS1_P166: claire, novel, passage, harriet, pride
+SCSA_Bon_AS1_P54: blank, photo, coefficient, silicon, safer
+SCSA_Bon_AS1_P55: aqueous, chromatography, catalysts, form micelle, temperatures
+SCSA_Bon_AS1_P56: squarine, chemical symbol, soluble water, conduction, pretty
+SCSA_Bon_AS1_P57: therapeutic, therapeutic window, pbdb, aminosquaraines, doping
+SCSA_Bon_AS1_P58: bandgap, pss, pharmacological activity, squaric core, pedot
+SCSA_Bon_AS1_P59: micells, peaks, catalyst help, micells catalyst, nir region
+SCSA_Bon_AS1_P60: el, polar, hydrocarbon, problem addressed, targetability
+SCSA_Bon_AS1_P61: micels, micel, possible perform, nano reactors, reactants enter
+SCSA_Bon_AS1_P62: electron vb, energy required, vb cb, required electron, tumor cells
+SCSA_Bon_AS1_P63: emeraldin, healthy, absorption spectrum, pani, polar
+SCSA_Bon_AS1_P64: 75om, tpg 75om, tpg, tempreture, yeild
+SCSA_Bon_AS1_P65: temp, adding heavy, improve solubility, band, micellar catalysis
+SCSA_Bon_AS1_P66: micelle, head head, head, tissue, electron produce
+SCSA_Bon_AS1_P67: pb, dipolar, micellar catalysts, polar dipolar, catalysts
+SCSA_Bon_AS1_P68: electrons, electrons electrons, rapid clereance, blank, clereance
+SCSA_Bon_AS1_P69: temperature, high temperature, inserting, absorbing, polythiophene
+SCSA_Bon_AS1_P70: cyanine, squarain, squarain compare, compare cyanine, exited
+SCSA_Bon_AS1_P71: micelles, squaraine, therapy, surfactants, foaming
+SCSA_Bon_AS1_P72: micelle, hydrophillic, band, micellar catalysis, micellar
+SCSA_Bon_AS2_P54: r2, r1, reaction r1, reaction, r1 r2
+SCSA_Bon_AS2_P56: pa, cis, momentum, chain cis, cis pa
+SCSA_Bon_AS2_P62: thiol bioconjugation, reaction, wide range, reagents, bioconjugation
+SCSA_Bon_AS2_P67: biomolecules, electronic devices, dppttt, pd, bioconjugation
+SCSA_Bon_AS2_P68: halid, make bond, r2, pd, induce
+SCSA_Bon_AS2_P69: diphenylphenoxy, thiophene, mild, visible spectrum, mild conditions
+SCSA_Bon_AS2_P70: ni, nikel, halid, pd, state pd
+SCSA_Bon_AS2_P72: organic polymers, amine reactive, conductivity organic, alkene, sites bioconjugation
+SCSA_Bon_AS2_P73: ar, presence palladium, amination, selectively, involves coupling
+SCSA_Bon_AS2_P74: interchain, field effect, amino, aryl vinyl, energy conduction
+SCSA_Bon_AS2_P75: polymerisation, primary amin, nhs, electroactive polymers, electroactive
+SCSA_Bon_AS2_P76: aryl vinyl, vinyl halide, vinyl, aryl, halide
+SCSA_Bon_AS2_P77: terminus, aryl vinyl, aryl, pd, vinyl
+SCSA_Bon_AS2_P78: reaction, proceed, bsa, catalyst, ring
+SCSA_Bon_AS2_P79: vinyl aryl, attached, reaction, graphic, bioconjugation
+SCSA_Bon_AS2_P80: ptb7, pc60bm, tt, unit, nucleic
+SCSA_Bon_AS2_P81: bioconjugation structure, sensitizer, structure like, helpful, structure involves
+SCSA_Bon_AS2_P82: charge transfer, osc, wavelenght, human body, units
+SCSA_Bon_AS2_P83: photoelectrical, cells organic, pd catalyst, pd, suzuki coupling
+SCSA_Bon_AS2_P84: equations follow, equations, bioconjugation, pd, palladium
+SCSA_Bon_AS2_P85: pd, 18 electrons, oxidized, compound, absorbs
+SCSA_Bon_AS2_P86: fluorescene, oxidant, hydroxyl, film, malemide
+SCSA_Bon_AS2_P87: regioregularity, hole couple, interact bsa, bsa, head tail
+SCSA_Bon_AS2_P88: generates, dsses, representation follows, conjugate, lumo
+SCSA_Bon_AS2_P89: regioregularity, ht, hh, probe, reaction
+SCSA_Bon_AS2_P90: pbdb, pka, obtaining, benzodithiophene, conversion efficiency
+SCSA_Bon_AS2_P91: species, alkyl chain, rich species, infact, abs
+SCSA_Bon_AS2_P92: perorskite, substitute, radiation, aminoacids, pd
+SCSA_Bon_AS2_P93: lumo, presence pd, pbdb, injection, homo
+SCSA_Bon_AS2_P94: ht, reaction sonogashira, thiols, pd2, reaction
+SCSA_Bon_AS2_P95: probes, amino acids, acids, amino, reaction catalyst
+SCSA_Bon_AS2_P96: monomer, proteine, formulas follow, semitransparent, hole mobility
+SCSA_Bon_AS2_P97: pedot, pss, oxydative, pedot pss, certain types

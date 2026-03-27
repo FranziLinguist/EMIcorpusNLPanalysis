@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Lemmi rari (hapax): abstract, answer, question, geographical, deeply, comparison, table, content, discuss, describe
+[TEXT]   (lista parziale)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Lemmi rari (hapax): term, describe, rely, manipulation, blocking, critical, alternative, viewpoint, disseminate, biased
+[TEXT]   (lista parziale)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Lemmi rari (hapax): index, meaning, relational, close, incongruity, concrete, geographical, retrace, stage, troubled
+[TEXT]   (lista parziale)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Lemmi rari (hapax): introduction, exercise, specifically, psychological, science, need, civilized, paper, colonizing, consequent
+[TEXT]   (lista parziale)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Lemmi rari (hapax): introduction, dimension, radical, living, suffer, part, modifying, disrupt, linkage, balance
+[TEXT]   (lista parziale)
+

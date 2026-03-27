@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Alta diversità lessicale (TTR doc=0.1653)
+[TEXT]   analyses the access to education for women in Nigeria.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Alta diversità lessicale (TTR doc=0.1724)
+[TEXT]   When dealing with human rights abuses and suppressions, they are usually referred to as the deprivation of life or basic liberties.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Alta diversità lessicale (TTR doc=0.1637)
+[TEXT]   This violence takes part in the numerous contradictions of a country boasting an absolutely progressive Constitution, which unfortunately doesn't have practical applications into social and urban life.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Alta diversità lessicale (TTR doc=0.2136)
+[TEXT]   In his book Orientalism, Said wrote “The Orient is an integral part of European material civilization and culture.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Alta diversità lessicale (TTR doc=0.1749)
+[TEXT]   Nevertheless, these dynamics are not without problems.
+

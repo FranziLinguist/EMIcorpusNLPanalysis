@@ -1,0 +1,32 @@
+======================================================================
+  MORFOLOGIA  –  PER DISCIPLINA
+======================================================================
+
+Disciplina              TTR  Lemmi uniq   NOUN%   VERB%   ADJ%   ADV%
+-------------------------------------------------------------------
+AS_Gus                0.084        4190    20.3     8.2    9.1    3.8
+CILE_Pol              0.052        1516    25.2    10.0    7.8    2.9
+CLA_Pol               0.074        1015    24.6    10.9    7.2    2.4
+CPH_Mor               0.094        2385    21.6     9.5    9.9    3.3
+DEIC_San              0.188         593    20.3     7.0    8.4    1.4
+ELClass_Zot           0.128         395    22.3    10.6    9.6    2.7
+ELSPS_Zot             0.117         821    21.9    10.9    6.1    2.7
+EOK_Geu               0.099        1956    22.4     8.7    7.9    2.8
+GLD_Gog               0.132        1682    21.9     9.7    9.1    3.1
+NAL_Car               0.156        1016    20.3     9.3    7.0    3.0
+NAL_DiL               0.116        1036    17.2    10.8    6.3    3.2
+SCSA_Bon              0.053        2316    24.7     8.8    8.0    2.4
+
+Top 10 lemmi per disciplina:
+  AS_Gus: africa(321), african(217), country(202), woman(161), food(160), people(141), global(131), economic(117), government(109), education(105)
+  CILE_Pol: shareholder(317), company(288), strategy(202), market(195), share(145), position(140), legal(134), manager(132), law(127), interest(127)
+  CLA_Pol: price(149), instrument(144), financial(117), contract(99), trading(96), market(84), client(75), investment(71), alpha(69), type(63)
+  CPH_Mor: empire(153), people(134), century(128), british(117), india(117), merchant(109), trade(108), native(91), decolonization(88), world(83)
+  DEIC_San: informal(53), economy(27), economic(23), informality(22), employment(19), formal(18), sector(17), high(17), country(14), development(13)
+  ELClass_Zot: language(56), person(45), disability(42), example(41), people(39), form(25), model(22), describe(21), identify(21), way(20)
+  ELSPS_Zot: example(73), persuasion(51), model(48), answer(46), define(44), justify(37), provide(36), question(36), appeal(35), word(35)
+  EOK_Geu: country(144), hub(112), sci(110), innovation(103), high(95), research(95), industry(93), access(83), university(83), knowledge(81)
+  GLD_Gog: development(111), ngos(59), article(51), country(45), author(39), risk(37), global(36), study(35), law(34), human(33)
+  NAL_Car: american(78), individualism(55), individual(40), murray(36), self(36), government(35), family(34), myth(31), reliance(26), america(23)
+  NAL_DiL: passage(45), white(36), life(31), black(31), write(25), girl(24), novel(24), man(22), like(22), mercy(22)
+  SCSA_Bon: reaction(626), band(337), material(225), polymer(219), group(198), gap(190), catalyst(184), energy(175), bioconjugation(167), describe(153)

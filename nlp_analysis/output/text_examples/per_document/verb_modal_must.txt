@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: must
+[TEXT]   As the study ‘Barriers to Equality of Access to Educational Opportunity in Nigeria: A Philosophical Perspective’ (Nwogu, 2015) underlines, it must be acknowledged here the presence of economic barriers, which make the costs of education unaffordable for the government and consequently there is a constant lack of adequate infrastructure and facilities; this makes it impossible to admit everyone to have access in the schools or universities.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: must
+[TEXT]   In agreement with the article by Akubuilo and Omeje (2012) women are “victims of culture and tradition” due to the one possible destiny that women “must” have: to be a housewife.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: must
+[TEXT]   The awareness of this tendency must encourage Nigerian girls to pursue their educational attainments until university.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: must
+[TEXT]   At the age of 15, with the Malala Fund and Youth Hub Africa, she decided to launch a project called “All Girls Must Go to School '' which included a survey on the target to understand the real obstacles for females to access education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: must
+[TEXT]   To encapsulate the essence of this essay, it is important to underline and states her message as a feminist: “My definition of a feminist is a man or a woman who says, yes, there’s a problem with gender as it is today and we must fix it, we must do better.
+

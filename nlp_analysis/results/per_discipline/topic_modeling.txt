@@ -1,0 +1,18 @@
+======================================================================
+  TOPIC MODELING LDA  –  PER DISCIPLINA
+======================================================================
+
+Disciplina            Topic dom  Distribuzione topic
+------------------------------------------------------------
+AS_Gus                        7  T1:2 T7:12
+CILE_Pol                      2  T2:35
+CLA_Pol                       2  T2:19
+CPH_Mor                       7  T1:12 T4:5 T7:14
+DEIC_San                      3  T3:1
+ELClass_Zot                   0  T0:7
+ELSPS_Zot                     0  T0:10
+EOK_Geu                       3  T1:1 T3:8 T4:1 T5:3
+GLD_Gog                       3  T3:2 T5:1 T7:1
+NAL_Car                       3  T3:4 T7:4
+NAL_DiL                       5  T5:6
+SCSA_Bon                      6  T6:52

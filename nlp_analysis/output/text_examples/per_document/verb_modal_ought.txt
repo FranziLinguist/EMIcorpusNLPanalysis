@@ -1,0 +1,4 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx
+[LABEL]  Modale: ought
+[TEXT]   In this sense, colonial imagination would craft a dominant culture which the colonize ought to assimilate in order to be integrated in the colonizing country.
+

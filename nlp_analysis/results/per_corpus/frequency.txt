@@ -1,0 +1,59 @@
+======================================================================
+  FREQUENZE  –  CORPUS
+======================================================================
+
+Top 20 parole:
+  reaction                     420
+  africa                       381
+  example                      370
+  people                       369
+  countries                    351
+  band                         331
+  different                    310
+  company                      309
+  describe                     291
+  market                       291
+  african                      288
+  use                          278
+  development                  254
+  shareholders                 251
+  world                        249
+  case                         247
+  new                          237
+  economic                     236
+  high                         230
+  important                    227
+
+Top 15 bigrammi:
+  band gap                               165
+  sci hub                                110
+  dominant position                      101
+  et al                                   85
+  external constituencies                 76
+  graphic representation                  68
+  c n                                     67
+  describe bioconjugation                 66
+  micellar catalysis                      64
+  south africa                            63
+  functional groups                       61
+  corporate law                           57
+  metal semiconductor                     57
+  legal personality                       55
+  business corporation                    55
+
+Top 15 trigrammi:
+  graphic representation follows                    50
+  describe general aspects                          49
+  form c n                                          44
+  band gap material                                 42
+  example catalytic cycle                           36
+  bioconjugation reaction primary                   35
+  general aspects palladium                         35
+  palladium catalysed reactions                     35
+  reaction primary amine                            34
+  aspects palladium catalysed                       34
+  main steps cycle                                  34
+  carbon nitrogen bond                              34
+  provide example justify                           33
+  example justify answer                            33
+  describe bioconjugation kind                      33

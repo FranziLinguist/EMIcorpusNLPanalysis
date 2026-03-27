@@ -1,0 +1,22 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: may
+[TEXT]   Governments may use these platforms to disseminate information that is biased or misleading to shape public opinion.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: may
+[TEXT]   It can also lead to human rights abuses, as those who speak out against the government or express dissenting views may be targeted, harassed, or even imprisoned.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: may
+[TEXT]   This can create a sense of mistrust and anxiety, as people may feel that they are constantly being watched and monitored.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: may
+[TEXT]   The term coloured refers to members of multiracial ethnic communities who may have ancestry from more than one of the various populations inhabiting the region, including African, European, and Asian
+4 Source: https://southafrica-info.com/arts-culture/11-languages-south-africa/
+A Brief History:
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: may
+[TEXT]   As mentioned above, the 1997 Constitution was the first in the world to declare that people cannot be discriminated because of their sexual orientation and that “the state may not unfairly discriminate directly or indirectly against anyone on one or more grounds, including race, gender, sex, pregnancy, marital status, ethnic or social origin, color, sexual orientation, age, disability, religion, conscience, belief, culture, language and birth.”15
+

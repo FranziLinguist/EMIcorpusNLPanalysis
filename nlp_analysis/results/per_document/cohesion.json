@@ -1,0 +1,5295 @@
+{
+  "AS_Gus_AS2_P44_P45": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx",
+    "sentence_count": 203,
+    "total_markers": 49,
+    "density_per_100_sentences": 24.14,
+    "diversity_index": 0.3265,
+    "category_counts": {
+      "sequential": 12,
+      "causal": 10,
+      "adversative": 5,
+      "additive": 20,
+      "conclusive": 2
+    },
+    "marker_counts": {
+      "also": 12,
+      "furthermore": 6,
+      "first": 5,
+      "because": 5,
+      "next": 3,
+      "however": 3,
+      "then": 2,
+      "finally": 2,
+      "consequently": 2,
+      "on the other hand": 2,
+      "overall": 2,
+      "as a result": 1,
+      "in addition": 1,
+      "additionally": 1,
+      "therefore": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "as a result",
+      "because",
+      "consequently",
+      "finally",
+      "first",
+      "furthermore",
+      "however",
+      "in addition",
+      "next",
+      "on the other hand",
+      "overall",
+      "then",
+      "therefore",
+      "thus"
+    ]
+  },
+  "AS_Gus_AS2_P46_P47": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx",
+    "sentence_count": 263,
+    "total_markers": 42,
+    "density_per_100_sentences": 15.97,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 17,
+      "causal": 14,
+      "adversative": 6,
+      "sequential": 5
+    },
+    "marker_counts": {
+      "also": 11,
+      "because": 6,
+      "therefore": 5,
+      "however": 3,
+      "first": 3,
+      "furthermore": 2,
+      "thus": 2,
+      "although": 2,
+      "moreover": 2,
+      "additionally": 2,
+      "yet": 1,
+      "then": 1,
+      "hence": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "although",
+      "because",
+      "finally",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "moreover",
+      "then",
+      "therefore",
+      "thus",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS2_P48_P49_P50": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx",
+    "sentence_count": 326,
+    "total_markers": 81,
+    "density_per_100_sentences": 24.85,
+    "diversity_index": 0.2593,
+    "category_counts": {
+      "sequential": 25,
+      "causal": 18,
+      "additive": 25,
+      "adversative": 11,
+      "conclusive": 2
+    },
+    "marker_counts": {
+      "first": 15,
+      "also": 14,
+      "therefore": 8,
+      "because": 5,
+      "finally": 4,
+      "furthermore": 4,
+      "however": 4,
+      "then": 3,
+      "although": 3,
+      "moreover": 3,
+      "thus": 2,
+      "next": 2,
+      "nevertheless": 2,
+      "in addition": 2,
+      "besides": 2,
+      "yet": 2,
+      "in conclusion": 2,
+      "secondly": 1,
+      "as a result": 1,
+      "hence": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "as a result",
+      "because",
+      "besides",
+      "consequently",
+      "finally",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "in addition",
+      "in conclusion",
+      "moreover",
+      "nevertheless",
+      "next",
+      "secondly",
+      "then",
+      "therefore",
+      "thus",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS2_P51_P52": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx",
+    "sentence_count": 167,
+    "total_markers": 40,
+    "density_per_100_sentences": 23.95,
+    "diversity_index": 0.4,
+    "category_counts": {
+      "causal": 10,
+      "additive": 17,
+      "sequential": 7,
+      "adversative": 6
+    },
+    "marker_counts": {
+      "also": 9,
+      "because": 5,
+      "first": 4,
+      "however": 4,
+      "moreover": 3,
+      "furthermore": 3,
+      "thus": 2,
+      "therefore": 2,
+      "consequently": 1,
+      "on the other hand": 1,
+      "in addition": 1,
+      "besides": 1,
+      "then": 1,
+      "next": 1,
+      "yet": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "besides",
+      "consequently",
+      "finally",
+      "first",
+      "furthermore",
+      "however",
+      "in addition",
+      "moreover",
+      "next",
+      "on the other hand",
+      "then",
+      "therefore",
+      "thus",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS2_P53_P171": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx",
+    "sentence_count": 181,
+    "total_markers": 40,
+    "density_per_100_sentences": 22.1,
+    "diversity_index": 0.35,
+    "category_counts": {
+      "additive": 8,
+      "adversative": 9,
+      "causal": 18,
+      "sequential": 4,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "thus": 13,
+      "also": 5,
+      "however": 5,
+      "first": 3,
+      "hence": 3,
+      "nevertheless": 2,
+      "moreover": 2,
+      "next": 1,
+      "as a result": 1,
+      "on the other hand": 1,
+      "furthermore": 1,
+      "therefore": 1,
+      "to conclude": 1,
+      "although": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "as a result",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "moreover",
+      "nevertheless",
+      "next",
+      "on the other hand",
+      "therefore",
+      "thus",
+      "to conclude"
+    ]
+  },
+  "AS_Gus_AS1_P171": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P171.docx",
+    "sentence_count": 65,
+    "total_markers": 25,
+    "density_per_100_sentences": 38.46,
+    "diversity_index": 0.28,
+    "category_counts": {
+      "additive": 13,
+      "adversative": 4,
+      "causal": 7,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 11,
+      "thus": 5,
+      "however": 3,
+      "moreover": 2,
+      "because": 2,
+      "on the other hand": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "moreover",
+      "on the other hand",
+      "thus"
+    ]
+  },
+  "AS_Gus_AS1_P43": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P43.docx",
+    "sentence_count": 49,
+    "total_markers": 31,
+    "density_per_100_sentences": 63.27,
+    "diversity_index": 0.2903,
+    "category_counts": {
+      "additive": 11,
+      "sequential": 12,
+      "causal": 4,
+      "adversative": 4
+    },
+    "marker_counts": {
+      "also": 11,
+      "first": 7,
+      "because": 3,
+      "then": 3,
+      "however": 3,
+      "therefore": 1,
+      "subsequently": 1,
+      "although": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "finally",
+      "first",
+      "however",
+      "subsequently",
+      "then",
+      "therefore"
+    ]
+  },
+  "AS_Gus_AS1_P44": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P44.docx",
+    "sentence_count": 68,
+    "total_markers": 31,
+    "density_per_100_sentences": 45.59,
+    "diversity_index": 0.2581,
+    "category_counts": {
+      "additive": 14,
+      "causal": 9,
+      "sequential": 6,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "also": 12,
+      "first": 6,
+      "because": 5,
+      "therefore": 4,
+      "in addition": 1,
+      "furthermore": 1,
+      "yet": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "furthermore",
+      "however",
+      "in addition",
+      "therefore",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS1_P46": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P46.docx",
+    "sentence_count": 82,
+    "total_markers": 16,
+    "density_per_100_sentences": 19.51,
+    "diversity_index": 0.4375,
+    "category_counts": {
+      "additive": 6,
+      "causal": 6,
+      "sequential": 1,
+      "adversative": 3
+    },
+    "marker_counts": {
+      "also": 4,
+      "thus": 4,
+      "moreover": 2,
+      "because": 2,
+      "on the other hand": 2,
+      "finally": 1,
+      "yet": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "moreover",
+      "on the other hand",
+      "thus",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS1_P47": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P47.docx",
+    "sentence_count": 66,
+    "total_markers": 29,
+    "density_per_100_sentences": 43.94,
+    "diversity_index": 0.4483,
+    "category_counts": {
+      "additive": 5,
+      "sequential": 5,
+      "adversative": 11,
+      "causal": 8
+    },
+    "marker_counts": {
+      "first": 4,
+      "however": 4,
+      "yet": 4,
+      "because": 3,
+      "therefore": 3,
+      "also": 2,
+      "although": 2,
+      "in addition": 2,
+      "furthermore": 1,
+      "consequently": 1,
+      "hence": 1,
+      "finally": 1,
+      "nevertheless": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "consequently",
+      "finally",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "in addition",
+      "nevertheless",
+      "therefore",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS1_P48": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P48.docx",
+    "sentence_count": 60,
+    "total_markers": 31,
+    "density_per_100_sentences": 51.67,
+    "diversity_index": 0.4194,
+    "category_counts": {
+      "additive": 16,
+      "causal": 9,
+      "adversative": 6
+    },
+    "marker_counts": {
+      "also": 8,
+      "however": 5,
+      "moreover": 3,
+      "thus": 3,
+      "in addition": 2,
+      "furthermore": 2,
+      "therefore": 2,
+      "because": 1,
+      "in contrast": 1,
+      "consequently": 1,
+      "hence": 1,
+      "as a result": 1,
+      "additionally": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "as a result",
+      "because",
+      "consequently",
+      "furthermore",
+      "hence",
+      "however",
+      "in addition",
+      "in contrast",
+      "moreover",
+      "therefore",
+      "thus"
+    ]
+  },
+  "AS_Gus_AS1_P51": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P51.docx",
+    "sentence_count": 58,
+    "total_markers": 25,
+    "density_per_100_sentences": 43.1,
+    "diversity_index": 0.36,
+    "category_counts": {
+      "adversative": 3,
+      "causal": 12,
+      "additive": 9,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 10,
+      "also": 8,
+      "although": 1,
+      "therefore": 1,
+      "nevertheless": 1,
+      "consequently": 1,
+      "yet": 1,
+      "moreover": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "consequently",
+      "first",
+      "moreover",
+      "nevertheless",
+      "therefore",
+      "yet"
+    ]
+  },
+  "AS_Gus_AS1_P52": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P52.docx",
+    "sentence_count": 65,
+    "total_markers": 28,
+    "density_per_100_sentences": 43.08,
+    "diversity_index": 0.3929,
+    "category_counts": {
+      "adversative": 8,
+      "additive": 10,
+      "sequential": 3,
+      "causal": 7
+    },
+    "marker_counts": {
+      "moreover": 4,
+      "on the other hand": 4,
+      "therefore": 4,
+      "also": 3,
+      "because": 3,
+      "however": 3,
+      "then": 2,
+      "furthermore": 2,
+      "although": 1,
+      "besides": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "besides",
+      "first",
+      "furthermore",
+      "however",
+      "moreover",
+      "on the other hand",
+      "then",
+      "therefore"
+    ]
+  },
+  "AS_Gus_AS1_P53": {
+    "discipline": "AS_Gus",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/INDIVIDUAL ASSIGNMENTS/AS_Gus_AS1_P53.docx",
+    "sentence_count": 66,
+    "total_markers": 16,
+    "density_per_100_sentences": 24.24,
+    "diversity_index": 0.6875,
+    "category_counts": {
+      "sequential": 4,
+      "causal": 4,
+      "adversative": 3,
+      "additive": 4,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "thus": 3,
+      "yet": 2,
+      "also": 2,
+      "then": 2,
+      "finally": 1,
+      "hence": 1,
+      "first": 1,
+      "however": 1,
+      "furthermore": 1,
+      "in addition": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "in addition",
+      "then",
+      "thus",
+      "to conclude",
+      "yet"
+    ]
+  },
+  "CILE_Pol_AS1_P110": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P110.docx",
+    "sentence_count": 40,
+    "total_markers": 10,
+    "density_per_100_sentences": 25.0,
+    "diversity_index": 0.3,
+    "category_counts": {
+      "additive": 6,
+      "adversative": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 6,
+      "however": 3,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however"
+    ]
+  },
+  "CILE_Pol_AS1_P111": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P111.docx",
+    "sentence_count": 23,
+    "total_markers": 6,
+    "density_per_100_sentences": 26.09,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 3,
+      "additive": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "also": 2,
+      "then": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS1_P112": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P112.docx",
+    "sentence_count": 27,
+    "total_markers": 4,
+    "density_per_100_sentences": 14.81,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1,
+      "additive": 1,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "first": 1,
+      "also": 1,
+      "however": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "however",
+      "on the other hand"
+    ]
+  },
+  "CILE_Pol_AS1_P113": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P113.docx",
+    "sentence_count": 23,
+    "total_markers": 11,
+    "density_per_100_sentences": 47.83,
+    "diversity_index": 0.2727,
+    "category_counts": {
+      "additive": 6,
+      "causal": 3,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 6,
+      "because": 3,
+      "finally": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally"
+    ]
+  },
+  "CILE_Pol_AS1_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P114.docx",
+    "sentence_count": 22,
+    "total_markers": 2,
+    "density_per_100_sentences": 9.09,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 1,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "CILE_Pol_AS1_P115": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P115.docx",
+    "sentence_count": 26,
+    "total_markers": 7,
+    "density_per_100_sentences": 26.92,
+    "diversity_index": 0.5714,
+    "category_counts": {
+      "additive": 5,
+      "sequential": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "then": 1,
+      "hence": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "hence",
+      "moreover",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS1_P116": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P116.docx",
+    "sentence_count": 51,
+    "total_markers": 12,
+    "density_per_100_sentences": 23.53,
+    "diversity_index": 0.4167,
+    "category_counts": {
+      "additive": 6,
+      "adversative": 4,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 4,
+      "however": 3,
+      "moreover": 2,
+      "then": 2,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "however",
+      "moreover",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS1_P117": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P117.docx",
+    "sentence_count": 38,
+    "total_markers": 7,
+    "density_per_100_sentences": 18.42,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "sequential": 4,
+      "additive": 2,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "also": 2,
+      "then": 1,
+      "next": 1,
+      "although": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "first",
+      "next",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS1_P118": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P118.docx",
+    "sentence_count": 33,
+    "total_markers": 7,
+    "density_per_100_sentences": 21.21,
+    "diversity_index": 0.4286,
+    "category_counts": {
+      "additive": 4,
+      "causal": 1,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 4,
+      "then": 2,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS1_P119": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P119.docx",
+    "sentence_count": 36,
+    "total_markers": 3,
+    "density_per_100_sentences": 8.33,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "additive": 3
+    },
+    "marker_counts": {
+      "also": 2,
+      "in addition": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "in addition"
+    ]
+  },
+  "CILE_Pol_AS1_P120": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P120.docx",
+    "sentence_count": 21,
+    "total_markers": 4,
+    "density_per_100_sentences": 19.05,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 2,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 2,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "CILE_Pol_AS1_P121": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P121.docx",
+    "sentence_count": 41,
+    "total_markers": 7,
+    "density_per_100_sentences": 17.07,
+    "diversity_index": 0.5714,
+    "category_counts": {
+      "additive": 4,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 3,
+      "first": 2,
+      "besides": 1,
+      "next": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "besides",
+      "first",
+      "next"
+    ]
+  },
+  "CILE_Pol_AS1_P122": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P122.docx",
+    "sentence_count": 21,
+    "total_markers": 9,
+    "density_per_100_sentences": 42.86,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "causal": 4,
+      "additive": 4,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "because": 4,
+      "also": 4,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "on the other hand"
+    ]
+  },
+  "CILE_Pol_AS1_P123": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P123.docx",
+    "sentence_count": 30,
+    "total_markers": 13,
+    "density_per_100_sentences": 43.33,
+    "diversity_index": 0.6154,
+    "category_counts": {
+      "sequential": 1,
+      "adversative": 2,
+      "causal": 3,
+      "conclusive": 1,
+      "additive": 6
+    },
+    "marker_counts": {
+      "also": 5,
+      "therefore": 2,
+      "then": 1,
+      "however": 1,
+      "to conclude": 1,
+      "on the other hand": 1,
+      "moreover": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "however",
+      "moreover",
+      "on the other hand",
+      "then",
+      "therefore",
+      "thus",
+      "to conclude"
+    ]
+  },
+  "CILE_Pol_AS1_P124": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P124.docx",
+    "sentence_count": 36,
+    "total_markers": 5,
+    "density_per_100_sentences": 13.89,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "sequential": 3,
+      "additive": 2
+    },
+    "marker_counts": {
+      "first": 3,
+      "also": 1,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "furthermore"
+    ]
+  },
+  "CILE_Pol_AS1_P125": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P125.docx",
+    "sentence_count": 37,
+    "total_markers": 12,
+    "density_per_100_sentences": 32.43,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "adversative": 2,
+      "additive": 5,
+      "causal": 5
+    },
+    "marker_counts": {
+      "also": 5,
+      "therefore": 3,
+      "however": 2,
+      "because": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS1_P126": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS1_P126.docx",
+    "sentence_count": 29,
+    "total_markers": 9,
+    "density_per_100_sentences": 31.03,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 2,
+      "adversative": 3,
+      "causal": 2,
+      "additive": 2
+    },
+    "marker_counts": {
+      "however": 3,
+      "because": 2,
+      "first": 1,
+      "then": 1,
+      "moreover": 1,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "moreover",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS2_P113": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P113.docx",
+    "sentence_count": 34,
+    "total_markers": 7,
+    "density_per_100_sentences": 20.59,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "sequential": 3,
+      "additive": 2,
+      "causal": 2
+    },
+    "marker_counts": {
+      "also": 2,
+      "because": 2,
+      "then": 1,
+      "first": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS2_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P114.docx",
+    "sentence_count": 34,
+    "total_markers": 6,
+    "density_per_100_sentences": 17.65,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 2,
+      "additive": 2,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "thus": 1,
+      "also": 1,
+      "because": 1,
+      "in contrast": 1,
+      "furthermore": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "furthermore",
+      "however",
+      "in contrast",
+      "thus"
+    ]
+  },
+  "CILE_Pol_AS2_P116": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P116.docx",
+    "sentence_count": 59,
+    "total_markers": 12,
+    "density_per_100_sentences": 20.34,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 6,
+      "causal": 5,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 5,
+      "therefore": 3,
+      "moreover": 1,
+      "hence": 1,
+      "because": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "hence",
+      "moreover",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS2_P120": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P120.docx",
+    "sentence_count": 22,
+    "total_markers": 2,
+    "density_per_100_sentences": 9.09,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 2
+    },
+    "marker_counts": {
+      "therefore": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS2_P122": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P122.docx",
+    "sentence_count": 21,
+    "total_markers": 6,
+    "density_per_100_sentences": 28.57,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "sequential": 2,
+      "causal": 3,
+      "additive": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "thus": 1,
+      "because": 1,
+      "moreover": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first",
+      "moreover",
+      "therefore",
+      "thus"
+    ]
+  },
+  "CILE_Pol_AS2_P123": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx",
+    "sentence_count": 31,
+    "total_markers": 14,
+    "density_per_100_sentences": 45.16,
+    "diversity_index": 0.7857,
+    "category_counts": {
+      "sequential": 3,
+      "causal": 6,
+      "additive": 4,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "because": 2,
+      "also": 2,
+      "hence": 2,
+      "first": 1,
+      "moreover": 1,
+      "however": 1,
+      "in addition": 1,
+      "finally": 1,
+      "then": 1,
+      "thus": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "hence",
+      "however",
+      "in addition",
+      "moreover",
+      "then",
+      "therefore",
+      "thus"
+    ]
+  },
+  "CILE_Pol_AS2_P124": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P124.docx",
+    "sentence_count": 30,
+    "total_markers": 5,
+    "density_per_100_sentences": 16.67,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "sequential": 2,
+      "causal": 3
+    },
+    "marker_counts": {
+      "because": 3,
+      "first": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS3_P110": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P110.docx",
+    "sentence_count": 54,
+    "total_markers": 11,
+    "density_per_100_sentences": 20.37,
+    "diversity_index": 0.3636,
+    "category_counts": {
+      "causal": 5,
+      "sequential": 1,
+      "additive": 5
+    },
+    "marker_counts": {
+      "because": 5,
+      "also": 4,
+      "first": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "moreover"
+    ]
+  },
+  "CILE_Pol_AS3_P111": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P111.docx",
+    "sentence_count": 25,
+    "total_markers": 7,
+    "density_per_100_sentences": 28.0,
+    "diversity_index": 0.4286,
+    "category_counts": {
+      "causal": 4,
+      "additive": 3
+    },
+    "marker_counts": {
+      "because": 3,
+      "also": 3,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS3_P114": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P114.docx",
+    "sentence_count": 28,
+    "total_markers": 3,
+    "density_per_100_sentences": 10.71,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1,
+      "additive": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "because": 1,
+      "also": 1,
+      "in contrast": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "in contrast"
+    ]
+  },
+  "CILE_Pol_AS3_P115": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P115.docx",
+    "sentence_count": 35,
+    "total_markers": 13,
+    "density_per_100_sentences": 37.14,
+    "diversity_index": 0.6923,
+    "category_counts": {
+      "causal": 4,
+      "additive": 3,
+      "sequential": 5,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "moreover": 2,
+      "therefore": 2,
+      "then": 2,
+      "first": 2,
+      "because": 1,
+      "also": 1,
+      "overall": 1,
+      "finally": 1,
+      "hence": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "hence",
+      "moreover",
+      "overall",
+      "then",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS3_P117": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P117.docx",
+    "sentence_count": 29,
+    "total_markers": 6,
+    "density_per_100_sentences": 20.69,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 1,
+      "additive": 4,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 1,
+      "although": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because"
+    ]
+  },
+  "CILE_Pol_AS3_P118": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P118.docx",
+    "sentence_count": 42,
+    "total_markers": 11,
+    "density_per_100_sentences": 26.19,
+    "diversity_index": 0.3636,
+    "category_counts": {
+      "causal": 3,
+      "additive": 5,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 5,
+      "because": 3,
+      "then": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS3_P119": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P119.docx",
+    "sentence_count": 39,
+    "total_markers": 9,
+    "density_per_100_sentences": 23.08,
+    "diversity_index": 0.5556,
+    "category_counts": {
+      "additive": 4,
+      "sequential": 1,
+      "adversative": 1,
+      "causal": 3
+    },
+    "marker_counts": {
+      "in addition": 3,
+      "because": 3,
+      "also": 1,
+      "then": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "in addition",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS3_P121": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P121.docx",
+    "sentence_count": 67,
+    "total_markers": 15,
+    "density_per_100_sentences": 22.39,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 10,
+      "causal": 2,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 9,
+      "because": 2,
+      "first": 2,
+      "then": 1,
+      "additionally": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "CILE_Pol_AS3_P125": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P125.docx",
+    "sentence_count": 28,
+    "total_markers": 12,
+    "density_per_100_sentences": 42.86,
+    "diversity_index": 0.4167,
+    "category_counts": {
+      "causal": 5,
+      "additive": 6,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 3,
+      "moreover": 2,
+      "therefore": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "moreover",
+      "therefore"
+    ]
+  },
+  "CILE_Pol_AS3_P126": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P126.docx",
+    "sentence_count": 34,
+    "total_markers": 20,
+    "density_per_100_sentences": 58.82,
+    "diversity_index": 0.4,
+    "category_counts": {
+      "causal": 4,
+      "additive": 10,
+      "adversative": 2,
+      "sequential": 4
+    },
+    "marker_counts": {
+      "also": 8,
+      "because": 3,
+      "moreover": 2,
+      "however": 2,
+      "first": 2,
+      "finally": 1,
+      "thus": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "however",
+      "moreover",
+      "then",
+      "thus"
+    ]
+  },
+  "CILE_Pol_AS3_P127": {
+    "discipline": "CILE_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS3_P127.docx",
+    "sentence_count": 45,
+    "total_markers": 7,
+    "density_per_100_sentences": 15.56,
+    "diversity_index": 0.4286,
+    "category_counts": {
+      "sequential": 1,
+      "additive": 5,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 5,
+      "then": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CLA_Pol _AS1_P136": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol _AS1_P136.docx",
+    "sentence_count": 23,
+    "total_markers": 3,
+    "density_per_100_sentences": 13.04,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1,
+      "causal": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "then": 1,
+      "because": 1,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "furthermore",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P128": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P128.docx",
+    "sentence_count": 30,
+    "total_markers": 13,
+    "density_per_100_sentences": 43.33,
+    "diversity_index": 0.4615,
+    "category_counts": {
+      "sequential": 5,
+      "adversative": 3,
+      "additive": 5
+    },
+    "marker_counts": {
+      "however": 3,
+      "also": 3,
+      "then": 2,
+      "first": 2,
+      "moreover": 2,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "however",
+      "moreover",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P129": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P129.docx",
+    "sentence_count": 29,
+    "total_markers": 9,
+    "density_per_100_sentences": 31.03,
+    "diversity_index": 0.4444,
+    "category_counts": {
+      "additive": 6,
+      "adversative": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "moreover": 2,
+      "however": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "however",
+      "moreover",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P130": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P130.docx",
+    "sentence_count": 47,
+    "total_markers": 17,
+    "density_per_100_sentences": 36.17,
+    "diversity_index": 0.4706,
+    "category_counts": {
+      "sequential": 4,
+      "additive": 8,
+      "adversative": 4,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "on the other hand": 4,
+      "moreover": 3,
+      "first": 2,
+      "then": 1,
+      "furthermore": 1,
+      "thus": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "furthermore",
+      "moreover",
+      "on the other hand",
+      "then",
+      "thus"
+    ]
+  },
+  "CLA_Pol_AS1_P131": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P131.docx",
+    "sentence_count": 27,
+    "total_markers": 6,
+    "density_per_100_sentences": 22.22,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "conclusive": 2,
+      "adversative": 1,
+      "causal": 1,
+      "additive": 2
+    },
+    "marker_counts": {
+      "moreover": 2,
+      "overall": 1,
+      "on the other hand": 1,
+      "because": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "moreover",
+      "on the other hand",
+      "overall",
+      "to conclude"
+    ]
+  },
+  "CLA_Pol_AS1_P132": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P132.docx",
+    "sentence_count": 27,
+    "total_markers": 9,
+    "density_per_100_sentences": 33.33,
+    "diversity_index": 0.5556,
+    "category_counts": {
+      "sequential": 4,
+      "additive": 1,
+      "causal": 3,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "then": 3,
+      "thus": 3,
+      "also": 1,
+      "to conclude": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "then",
+      "thus",
+      "to conclude"
+    ]
+  },
+  "CLA_Pol_AS1_P133": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P133.docx",
+    "sentence_count": 60,
+    "total_markers": 9,
+    "density_per_100_sentences": 15.0,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 1,
+      "causal": 1,
+      "additive": 3,
+      "adversative": 4
+    },
+    "marker_counts": {
+      "however": 3,
+      "also": 2,
+      "then": 1,
+      "because": 1,
+      "on the other hand": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however",
+      "moreover",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P134": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P134.docx",
+    "sentence_count": 31,
+    "total_markers": 8,
+    "density_per_100_sentences": 25.81,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "sequential": 7,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "then": 6,
+      "first": 1,
+      "in conclusion": 1
+    },
+    "unique_markers_found": [
+      "first",
+      "in conclusion",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P135": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P135.docx",
+    "sentence_count": 28,
+    "total_markers": 4,
+    "density_per_100_sentences": 14.29,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "sequential": 1,
+      "adversative": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "however": 2,
+      "then": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "however",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P137": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P137.docx",
+    "sentence_count": 20,
+    "total_markers": 5,
+    "density_per_100_sentences": 25.0,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "sequential": 2,
+      "additive": 1,
+      "causal": 2
+    },
+    "marker_counts": {
+      "then": 2,
+      "because": 2,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P138": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P138.docx",
+    "sentence_count": 21,
+    "total_markers": 3,
+    "density_per_100_sentences": 14.29,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "causal": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first"
+    ]
+  },
+  "CLA_Pol_AS1_P139": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P139.docx",
+    "sentence_count": 13,
+    "total_markers": 1,
+    "density_per_100_sentences": 7.69,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1
+    },
+    "marker_counts": {
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "CLA_Pol_AS1_P140": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P140.docx",
+    "sentence_count": 21,
+    "total_markers": 4,
+    "density_per_100_sentences": 19.05,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "sequential": 2,
+      "additive": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "then": 2,
+      "also": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then",
+      "therefore"
+    ]
+  },
+  "CLA_Pol_AS1_P141": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P141.docx",
+    "sentence_count": 19,
+    "total_markers": 5,
+    "density_per_100_sentences": 26.32,
+    "diversity_index": 0.4,
+    "category_counts": {
+      "additive": 4,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "CLA_Pol_AS1_P142": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P142.docx",
+    "sentence_count": 24,
+    "total_markers": 8,
+    "density_per_100_sentences": 33.33,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "sequential": 6,
+      "additive": 2
+    },
+    "marker_counts": {
+      "then": 4,
+      "also": 2,
+      "first": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P143": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P143.docx",
+    "sentence_count": 26,
+    "total_markers": 8,
+    "density_per_100_sentences": 30.77,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "additive": 4,
+      "causal": 3,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 3,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P144": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P144.docx",
+    "sentence_count": 22,
+    "total_markers": 4,
+    "density_per_100_sentences": 18.18,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 2,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 2,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "CLA_Pol_AS1_P145": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P145.docx",
+    "sentence_count": 27,
+    "total_markers": 7,
+    "density_per_100_sentences": 25.93,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "causal": 2,
+      "sequential": 3,
+      "additive": 1,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "then": 3,
+      "because": 1,
+      "consequently": 1,
+      "also": 1,
+      "in conclusion": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "consequently",
+      "in conclusion",
+      "then"
+    ]
+  },
+  "CLA_Pol_AS1_P146": {
+    "discipline": "CLA_Pol",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/POLLASTRO CLA_trascrizioni/CLA_Pol_AS1_P146.docx",
+    "sentence_count": 24,
+    "total_markers": 4,
+    "density_per_100_sentences": 16.67,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "because": 1,
+      "although": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because"
+    ]
+  },
+  "CPH_Mor_AS1_P1": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P1.docx",
+    "sentence_count": 26,
+    "total_markers": 1,
+    "density_per_100_sentences": 3.85,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1
+    },
+    "marker_counts": {
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "CPH_Mor_AS1_P10": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P10.docx",
+    "sentence_count": 16,
+    "total_markers": 1,
+    "density_per_100_sentences": 6.25,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1
+    },
+    "marker_counts": {
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "CPH_Mor_AS1_P11": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P11.docx",
+    "sentence_count": 33,
+    "total_markers": 8,
+    "density_per_100_sentences": 24.24,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "causal": 4,
+      "additive": 3,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 4,
+      "also": 3,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CPH_Mor_AS1_P12": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P12.docx",
+    "sentence_count": 45,
+    "total_markers": 21,
+    "density_per_100_sentences": 46.67,
+    "diversity_index": 0.5238,
+    "category_counts": {
+      "sequential": 4,
+      "causal": 7,
+      "adversative": 3,
+      "additive": 6,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "also": 6,
+      "because": 4,
+      "first": 2,
+      "however": 2,
+      "consequently": 1,
+      "although": 1,
+      "overall": 1,
+      "therefore": 1,
+      "finally": 1,
+      "then": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "consequently",
+      "finally",
+      "first",
+      "however",
+      "overall",
+      "then",
+      "therefore",
+      "thus"
+    ]
+  },
+  "CPH_Mor_AS1_P13": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P13.docx",
+    "sentence_count": 43,
+    "total_markers": 6,
+    "density_per_100_sentences": 13.95,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 2,
+      "additive": 2,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "as a result": 2,
+      "moreover": 2,
+      "however": 2
+    },
+    "unique_markers_found": [
+      "as a result",
+      "however",
+      "moreover"
+    ]
+  },
+  "CPH_Mor_AS1_P14": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P14.docx",
+    "sentence_count": 31,
+    "total_markers": 11,
+    "density_per_100_sentences": 35.48,
+    "diversity_index": 0.6364,
+    "category_counts": {
+      "additive": 4,
+      "causal": 5,
+      "sequential": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "because": 3,
+      "moreover": 1,
+      "thus": 1,
+      "then": 1,
+      "yet": 1,
+      "consequently": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "consequently",
+      "moreover",
+      "then",
+      "thus",
+      "yet"
+    ]
+  },
+  "CPH_Mor_AS1_P15": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P15.docx",
+    "sentence_count": 28,
+    "total_markers": 6,
+    "density_per_100_sentences": 21.43,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "sequential": 2,
+      "additive": 2,
+      "causal": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "next": 1,
+      "because": 1,
+      "first": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "next"
+    ]
+  },
+  "CPH_Mor_AS1_P16": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P16.docx",
+    "sentence_count": 34,
+    "total_markers": 18,
+    "density_per_100_sentences": 52.94,
+    "diversity_index": 0.5556,
+    "category_counts": {
+      "sequential": 2,
+      "additive": 9,
+      "causal": 1,
+      "conclusive": 4,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "moreover": 4,
+      "also": 4,
+      "overall": 2,
+      "in contrast": 2,
+      "subsequently": 1,
+      "because": 1,
+      "finally": 1,
+      "in conclusion": 1,
+      "in addition": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "in addition",
+      "in conclusion",
+      "in contrast",
+      "moreover",
+      "overall",
+      "subsequently",
+      "to conclude"
+    ]
+  },
+  "CPH_Mor_AS1_P17": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P17.docx",
+    "sentence_count": 52,
+    "total_markers": 5,
+    "density_per_100_sentences": 9.62,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "sequential": 2,
+      "causal": 1,
+      "adversative": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "then": 2,
+      "therefore": 1,
+      "however": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "however",
+      "moreover",
+      "then",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS1_P2": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P2.docx",
+    "sentence_count": 37,
+    "total_markers": 12,
+    "density_per_100_sentences": 32.43,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "causal": 7,
+      "sequential": 2,
+      "adversative": 2,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 5,
+      "therefore": 1,
+      "next": 1,
+      "however": 1,
+      "as a result": 1,
+      "on the other hand": 1,
+      "then": 1,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "as a result",
+      "because",
+      "however",
+      "next",
+      "on the other hand",
+      "then",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS1_P3": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P3.docx",
+    "sentence_count": 32,
+    "total_markers": 14,
+    "density_per_100_sentences": 43.75,
+    "diversity_index": 0.3571,
+    "category_counts": {
+      "conclusive": 2,
+      "sequential": 3,
+      "causal": 7,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 4,
+      "then": 3,
+      "therefore": 3,
+      "overall": 2,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "overall",
+      "then",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS1_P4": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P4.docx",
+    "sentence_count": 32,
+    "total_markers": 15,
+    "density_per_100_sentences": 46.88,
+    "diversity_index": 0.5333,
+    "category_counts": {
+      "sequential": 6,
+      "causal": 3,
+      "adversative": 1,
+      "additive": 5
+    },
+    "marker_counts": {
+      "first": 3,
+      "then": 3,
+      "also": 3,
+      "because": 2,
+      "however": 1,
+      "therefore": 1,
+      "moreover": 1,
+      "in addition": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "in addition",
+      "moreover",
+      "then",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS1_P5": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P5.docx",
+    "sentence_count": 11,
+    "total_markers": 3,
+    "density_per_100_sentences": 27.27,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "first",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS1_P6": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P6.docx",
+    "sentence_count": 27,
+    "total_markers": 11,
+    "density_per_100_sentences": 40.74,
+    "diversity_index": 0.5455,
+    "category_counts": {
+      "sequential": 4,
+      "additive": 3,
+      "adversative": 2,
+      "causal": 2
+    },
+    "marker_counts": {
+      "first": 4,
+      "also": 2,
+      "on the other hand": 2,
+      "in addition": 1,
+      "because": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "in addition",
+      "on the other hand",
+      "thus"
+    ]
+  },
+  "CPH_Mor_AS1_P7": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P7.docx",
+    "sentence_count": 33,
+    "total_markers": 15,
+    "density_per_100_sentences": 45.45,
+    "diversity_index": 0.2,
+    "category_counts": {
+      "additive": 9,
+      "causal": 4,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 9,
+      "because": 4,
+      "then": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "CPH_Mor_AS1_P8": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P8.docx",
+    "sentence_count": 33,
+    "total_markers": 10,
+    "density_per_100_sentences": 30.3,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "sequential": 4,
+      "causal": 1,
+      "additive": 3,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "first": 4,
+      "moreover": 2,
+      "because": 1,
+      "also": 1,
+      "however": 1,
+      "in contrast": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "in contrast",
+      "moreover"
+    ]
+  },
+  "CPH_Mor_AS1_P9": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS1_P9.docx",
+    "sentence_count": 41,
+    "total_markers": 11,
+    "density_per_100_sentences": 26.83,
+    "diversity_index": 0.8182,
+    "category_counts": {
+      "sequential": 1,
+      "adversative": 2,
+      "additive": 5,
+      "conclusive": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "first": 1,
+      "however": 1,
+      "although": 1,
+      "in addition": 1,
+      "moreover": 1,
+      "in conclusion": 1,
+      "because": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "first",
+      "however",
+      "in addition",
+      "in conclusion",
+      "moreover",
+      "to conclude"
+    ]
+  },
+  "CPH_Mor_AS2_P1": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P1.docx",
+    "sentence_count": 31,
+    "total_markers": 4,
+    "density_per_100_sentences": 12.9,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "because": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally"
+    ]
+  },
+  "CPH_Mor_AS2_P18": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P18.docx",
+    "sentence_count": 23,
+    "total_markers": 5,
+    "density_per_100_sentences": 21.74,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "sequential": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "therefore": 1,
+      "first": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "on the other hand",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS2_P19": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P19.docx",
+    "sentence_count": 25,
+    "total_markers": 2,
+    "density_per_100_sentences": 8.0,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 1,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "furthermore"
+    ]
+  },
+  "CPH_Mor_AS2_P20": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P20.docx",
+    "sentence_count": 32,
+    "total_markers": 11,
+    "density_per_100_sentences": 34.38,
+    "diversity_index": 0.3636,
+    "category_counts": {
+      "causal": 1,
+      "additive": 6,
+      "adversative": 1,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 6,
+      "first": 3,
+      "because": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however"
+    ]
+  },
+  "CPH_Mor_AS2_P21": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P21.docx",
+    "sentence_count": 43,
+    "total_markers": 9,
+    "density_per_100_sentences": 20.93,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "additive": 3,
+      "sequential": 3,
+      "adversative": 1,
+      "conclusive": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "first": 2,
+      "on the other hand": 1,
+      "in conclusion": 1,
+      "because": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "in conclusion",
+      "on the other hand"
+    ]
+  },
+  "CPH_Mor_AS2_P22": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P22.docx",
+    "sentence_count": 48,
+    "total_markers": 14,
+    "density_per_100_sentences": 29.17,
+    "diversity_index": 0.3571,
+    "category_counts": {
+      "sequential": 5,
+      "causal": 5,
+      "additive": 4
+    },
+    "marker_counts": {
+      "because": 5,
+      "first": 4,
+      "also": 3,
+      "moreover": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "moreover"
+    ]
+  },
+  "CPH_Mor_AS2_P23": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P23.docx",
+    "sentence_count": 31,
+    "total_markers": 3,
+    "density_per_100_sentences": 9.68,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 2,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "overall": 1
+    },
+    "unique_markers_found": [
+      "first",
+      "overall"
+    ]
+  },
+  "CPH_Mor_AS2_P24": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P24.docx",
+    "sentence_count": 26,
+    "total_markers": 7,
+    "density_per_100_sentences": 26.92,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "additive": 3,
+      "sequential": 1,
+      "causal": 1,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "also": 3,
+      "then": 1,
+      "because": 1,
+      "in contrast": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however",
+      "in contrast",
+      "then"
+    ]
+  },
+  "CPH_Mor_AS2_P25": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P25.docx",
+    "sentence_count": 31,
+    "total_markers": 5,
+    "density_per_100_sentences": 16.13,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "causal": 1,
+      "additive": 1,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "first": 2,
+      "because": 1,
+      "also": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first"
+    ]
+  },
+  "CPH_Mor_AS2_P26": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P26.docx",
+    "sentence_count": 26,
+    "total_markers": 4,
+    "density_per_100_sentences": 15.38,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 3,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "CPH_Mor_AS2_P27": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P27.docx",
+    "sentence_count": 33,
+    "total_markers": 4,
+    "density_per_100_sentences": 12.12,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1,
+      "causal": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 1,
+      "because": 1,
+      "finally": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "therefore"
+    ]
+  },
+  "CPH_Mor_AS2_P28": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P28.docx",
+    "sentence_count": 34,
+    "total_markers": 9,
+    "density_per_100_sentences": 26.47,
+    "diversity_index": 0.4444,
+    "category_counts": {
+      "causal": 1,
+      "additive": 5,
+      "conclusive": 1,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 5,
+      "first": 2,
+      "because": 1,
+      "overall": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "overall"
+    ]
+  },
+  "CPH_Mor_AS2_P29": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P29.docx",
+    "sentence_count": 41,
+    "total_markers": 14,
+    "density_per_100_sentences": 34.15,
+    "diversity_index": 0.2143,
+    "category_counts": {
+      "additive": 9,
+      "causal": 3,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 9,
+      "because": 3,
+      "first": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first"
+    ]
+  },
+  "CPH_Mor_AS2_P30": {
+    "discipline": "CPH_Mor",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Morelli_TRASCRIZIONI/CPH_Mor_AS2_P30.docx",
+    "sentence_count": 36,
+    "total_markers": 16,
+    "density_per_100_sentences": 44.44,
+    "diversity_index": 0.25,
+    "category_counts": {
+      "sequential": 6,
+      "additive": 4,
+      "causal": 4,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "first": 6,
+      "also": 4,
+      "because": 4,
+      "however": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however"
+    ]
+  },
+  "DEIC_San_AS1_P35_P38_P41_P164": {
+    "discipline": "DEIC_San",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Sanfilippo_TRASCRIZIONI/DEIC_San_AS1_P35_P38_P41_P164.docx",
+    "sentence_count": 146,
+    "total_markers": 17,
+    "density_per_100_sentences": 11.64,
+    "diversity_index": 0.7059,
+    "category_counts": {
+      "adversative": 6,
+      "causal": 4,
+      "additive": 6,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "on the other hand": 3,
+      "however": 1,
+      "because": 1,
+      "thus": 1,
+      "consequently": 1,
+      "additionally": 1,
+      "moreover": 1,
+      "yet": 1,
+      "although": 1,
+      "next": 1,
+      "as a result": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "although",
+      "as a result",
+      "because",
+      "consequently",
+      "however",
+      "moreover",
+      "next",
+      "on the other hand",
+      "thus",
+      "yet"
+    ]
+  },
+  "ELClass_Zot_AS1_P157": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELCLass_Zot_AS1/ELClass_Zot_AS1_P157.docx",
+    "sentence_count": 32,
+    "total_markers": 6,
+    "density_per_100_sentences": 18.75,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "sequential": 2,
+      "adversative": 1,
+      "additive": 1,
+      "causal": 2
+    },
+    "marker_counts": {
+      "because": 2,
+      "first": 1,
+      "in contrast": 1,
+      "also": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "in contrast",
+      "then"
+    ]
+  },
+  "ELClass_Zot_AS2_P158": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P158.docx",
+    "sentence_count": 16,
+    "total_markers": 3,
+    "density_per_100_sentences": 18.75,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "because": 1,
+      "first": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "finally",
+      "first"
+    ]
+  },
+  "ELClass_Zot_AS2_P159": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P159.docx",
+    "sentence_count": 27,
+    "total_markers": 9,
+    "density_per_100_sentences": 33.33,
+    "diversity_index": 0.4444,
+    "category_counts": {
+      "additive": 3,
+      "causal": 4,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "because": 4,
+      "also": 3,
+      "then": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "ELClass_Zot_AS2_P161": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P161.docx",
+    "sentence_count": 18,
+    "total_markers": 3,
+    "density_per_100_sentences": 16.67,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "additive": 1,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "then": 2,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then"
+    ]
+  },
+  "ELClass_Zot_AS2_P163": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS2/ELClass_Zot_AS2_P163.docx",
+    "sentence_count": 26,
+    "total_markers": 1,
+    "density_per_100_sentences": 3.85,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1
+    },
+    "marker_counts": {
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "ELClass_Zot_AS3_P160": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P160.docx",
+    "sentence_count": 24,
+    "total_markers": 9,
+    "density_per_100_sentences": 37.5,
+    "diversity_index": 0.2222,
+    "category_counts": {
+      "sequential": 7,
+      "additive": 2
+    },
+    "marker_counts": {
+      "first": 7,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "first"
+    ]
+  },
+  "ELClass_Zot_AS3_P162": {
+    "discipline": "ELClass_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA Class_TRASCRIZIONI/ELClass_Zot_AS3/ELClass_Zot_AS3_P162.docx",
+    "sentence_count": 23,
+    "total_markers": 3,
+    "density_per_100_sentences": 13.04,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "sequential": 3
+    },
+    "marker_counts": {
+      "first": 3
+    },
+    "unique_markers_found": [
+      "first"
+    ]
+  },
+  "ALSPS_Zot_AS1_P147": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P147.docx",
+    "sentence_count": 39,
+    "total_markers": 8,
+    "density_per_100_sentences": 20.51,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "causal": 4,
+      "sequential": 2,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 4,
+      "first": 2,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first"
+    ]
+  },
+  "ALSPS_Zot_AS1_P149": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P149.docx",
+    "sentence_count": 19,
+    "total_markers": 4,
+    "density_per_100_sentences": 21.05,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1,
+      "sequential": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 1,
+      "first": 1,
+      "then": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "ALSPS_Zot_AS1_P152": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS1/ALSPS_Zot_AS1_P152.docx",
+    "sentence_count": 28,
+    "total_markers": 4,
+    "density_per_100_sentences": 14.29,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 3,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first"
+    ]
+  },
+  "ALSPS_Zot_AS2_P148": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P148.docx",
+    "sentence_count": 26,
+    "total_markers": 7,
+    "density_per_100_sentences": 26.92,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "additive": 3,
+      "sequential": 2,
+      "causal": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "finally": 1,
+      "then": 1,
+      "because": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "ALSPS_Zot_AS2_P155": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS2/ALSPS_Zot_AS2_P155.docx",
+    "sentence_count": 28,
+    "total_markers": 2,
+    "density_per_100_sentences": 7.14,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 2
+    },
+    "marker_counts": {
+      "because": 2
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "ALSPS_Zot_AS3_P150": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P150.docx",
+    "sentence_count": 34,
+    "total_markers": 6,
+    "density_per_100_sentences": 17.65,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 3,
+      "causal": 2,
+      "additive": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "because": 2,
+      "also": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "ALSPS_Zot_AS3_P151": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P151.docx",
+    "sentence_count": 31,
+    "total_markers": 1,
+    "density_per_100_sentences": 3.23,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1
+    },
+    "marker_counts": {
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "ALSPS_Zot_AS3_P153": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS3/ALSPS_Zot_AS3_P153.docx",
+    "sentence_count": 42,
+    "total_markers": 1,
+    "density_per_100_sentences": 2.38,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1
+    },
+    "marker_counts": {
+      "first": 1
+    },
+    "unique_markers_found": [
+      "first"
+    ]
+  },
+  "ALSPS_Zot_AS4_P154": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P154.docx",
+    "sentence_count": 29,
+    "total_markers": 3,
+    "density_per_100_sentences": 10.34,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "causal": 3
+    },
+    "marker_counts": {
+      "because": 3
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "ALSPS_Zot_AS4_P156": {
+    "discipline": "ELSPS_Zot",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/ZOTTOLA SPS_trascrizioni/ALSPS_Zot_AS4/ALSPS_Zot_AS4_P156.docx",
+    "sentence_count": 52,
+    "total_markers": 16,
+    "density_per_100_sentences": 30.77,
+    "diversity_index": 0.4375,
+    "category_counts": {
+      "causal": 7,
+      "sequential": 4,
+      "additive": 4,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "because": 5,
+      "also": 4,
+      "therefore": 2,
+      "then": 2,
+      "first": 1,
+      "finally": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "on the other hand",
+      "then",
+      "therefore"
+    ]
+  },
+  "EOK_Geu_AS2_P34_P35_P40": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P34_P35_P40.docx",
+    "sentence_count": 304,
+    "total_markers": 50,
+    "density_per_100_sentences": 16.45,
+    "diversity_index": 0.3,
+    "category_counts": {
+      "adversative": 13,
+      "causal": 11,
+      "additive": 24,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 15,
+      "however": 6,
+      "therefore": 4,
+      "because": 4,
+      "in addition": 3,
+      "furthermore": 3,
+      "although": 3,
+      "thus": 2,
+      "on the other hand": 2,
+      "first": 2,
+      "moreover": 2,
+      "yet": 1,
+      "nevertheless": 1,
+      "consequently": 1,
+      "additionally": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "although",
+      "because",
+      "consequently",
+      "first",
+      "furthermore",
+      "however",
+      "in addition",
+      "moreover",
+      "nevertheless",
+      "on the other hand",
+      "therefore",
+      "thus",
+      "yet"
+    ]
+  },
+  "EOK_Geu_AS2_P39_P164_P165": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/GROUP ESSAYS/EOK_Geu_AS2_P39_P164_P165.docx",
+    "sentence_count": 335,
+    "total_markers": 40,
+    "density_per_100_sentences": 11.94,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "adversative": 16,
+      "sequential": 4,
+      "additive": 16,
+      "causal": 4
+    },
+    "marker_counts": {
+      "yet": 7,
+      "also": 7,
+      "moreover": 6,
+      "nevertheless": 4,
+      "although": 2,
+      "first": 2,
+      "thus": 2,
+      "additionally": 2,
+      "however": 2,
+      "finally": 1,
+      "as a result": 1,
+      "secondly": 1,
+      "in addition": 1,
+      "because": 1,
+      "in contrast": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "although",
+      "as a result",
+      "because",
+      "finally",
+      "first",
+      "however",
+      "in addition",
+      "in contrast",
+      "moreover",
+      "nevertheless",
+      "secondly",
+      "thus",
+      "yet"
+    ]
+  },
+  "EOK_Geu_AS1_P34": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P34.docx",
+    "sentence_count": 39,
+    "total_markers": 10,
+    "density_per_100_sentences": 25.64,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "additive": 4,
+      "sequential": 5,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "then": 3,
+      "thus": 1,
+      "first": 1,
+      "finally": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "moreover",
+      "then",
+      "thus"
+    ]
+  },
+  "EOK_Geu_AS1_P35": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P35.docx",
+    "sentence_count": 31,
+    "total_markers": 8,
+    "density_per_100_sentences": 25.81,
+    "diversity_index": 0.625,
+    "category_counts": {
+      "adversative": 4,
+      "additive": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "however": 3,
+      "also": 2,
+      "although": 1,
+      "moreover": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "however",
+      "moreover"
+    ]
+  },
+  "EOK_Geu_AS1_P36": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P36.docx",
+    "sentence_count": 41,
+    "total_markers": 9,
+    "density_per_100_sentences": 21.95,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 7,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 7,
+      "then": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "then"
+    ]
+  },
+  "EOK_Geu_AS1_P37": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P37.docx",
+    "sentence_count": 33,
+    "total_markers": 2,
+    "density_per_100_sentences": 6.06,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "EOK_Geu_AS1_P38": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P38.docx",
+    "sentence_count": 23,
+    "total_markers": 9,
+    "density_per_100_sentences": 39.13,
+    "diversity_index": 0.5556,
+    "category_counts": {
+      "additive": 4,
+      "sequential": 4,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "first": 2,
+      "finally": 1,
+      "then": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "however",
+      "then"
+    ]
+  },
+  "EOK_Geu_AS1_P39": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS1_P39.docx",
+    "sentence_count": 49,
+    "total_markers": 16,
+    "density_per_100_sentences": 32.65,
+    "diversity_index": 0.4375,
+    "category_counts": {
+      "causal": 3,
+      "additive": 6,
+      "adversative": 6,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 6,
+      "thus": 3,
+      "yet": 3,
+      "nevertheless": 1,
+      "first": 1,
+      "although": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "first",
+      "nevertheless",
+      "on the other hand",
+      "thus",
+      "yet"
+    ]
+  },
+  "EOK_Geu_AS3_P164": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P164.docx",
+    "sentence_count": 31,
+    "total_markers": 12,
+    "density_per_100_sentences": 38.71,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "causal": 5,
+      "sequential": 3,
+      "additive": 4
+    },
+    "marker_counts": {
+      "because": 5,
+      "also": 4,
+      "first": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "EOK_Geu_AS3_P165": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P165.docx",
+    "sentence_count": 49,
+    "total_markers": 12,
+    "density_per_100_sentences": 24.49,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 6,
+      "adversative": 1,
+      "causal": 1,
+      "sequential": 4
+    },
+    "marker_counts": {
+      "also": 5,
+      "next": 2,
+      "first": 2,
+      "moreover": 1,
+      "however": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "moreover",
+      "next"
+    ]
+  },
+  "EOK_Geu_AS3_P40": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P40.docx",
+    "sentence_count": 13,
+    "total_markers": 1,
+    "density_per_100_sentences": 7.69,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1
+    },
+    "marker_counts": {
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "thus"
+    ]
+  },
+  "EOK_Geu_AS3_P41": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P41.docx",
+    "sentence_count": 41,
+    "total_markers": 11,
+    "density_per_100_sentences": 26.83,
+    "diversity_index": 0.6364,
+    "category_counts": {
+      "adversative": 3,
+      "additive": 5,
+      "conclusive": 3
+    },
+    "marker_counts": {
+      "also": 3,
+      "although": 2,
+      "overall": 2,
+      "however": 1,
+      "furthermore": 1,
+      "moreover": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "furthermore",
+      "however",
+      "moreover",
+      "overall",
+      "to conclude"
+    ]
+  },
+  "EOK_Geu_AS3_P42": {
+    "discipline": "EOK_Geu",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Geuna_TRASCRIZIONI/INDIVIDUAL EXAMS/EOK_Geu_AS3_P42.docx",
+    "sentence_count": 48,
+    "total_markers": 13,
+    "density_per_100_sentences": 27.08,
+    "diversity_index": 0.3077,
+    "category_counts": {
+      "additive": 11,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 10,
+      "moreover": 1,
+      "thirdly": 1,
+      "next": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "moreover",
+      "next",
+      "thirdly"
+    ]
+  },
+  "GLD_Gog_AS1_P169_P170": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P169_P170.docx",
+    "sentence_count": 113,
+    "total_markers": 25,
+    "density_per_100_sentences": 22.12,
+    "diversity_index": 0.52,
+    "category_counts": {
+      "additive": 13,
+      "adversative": 2,
+      "sequential": 5,
+      "causal": 5
+    },
+    "marker_counts": {
+      "also": 7,
+      "first": 3,
+      "moreover": 2,
+      "however": 2,
+      "thus": 2,
+      "additionally": 2,
+      "finally": 1,
+      "besides": 1,
+      "furthermore": 1,
+      "hence": 1,
+      "then": 1,
+      "as a result": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "as a result",
+      "besides",
+      "finally",
+      "first",
+      "furthermore",
+      "hence",
+      "however",
+      "moreover",
+      "then",
+      "therefore",
+      "thus"
+    ]
+  },
+  "GLD_Gog_AS1_P16_P167_P168": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P16_P167_P168.docx",
+    "sentence_count": 87,
+    "total_markers": 42,
+    "density_per_100_sentences": 48.28,
+    "diversity_index": 0.3095,
+    "category_counts": {
+      "adversative": 3,
+      "additive": 17,
+      "sequential": 11,
+      "causal": 8,
+      "conclusive": 3
+    },
+    "marker_counts": {
+      "also": 14,
+      "first": 5,
+      "because": 5,
+      "finally": 3,
+      "moreover": 3,
+      "therefore": 3,
+      "secondly": 2,
+      "on the other hand": 2,
+      "however": 1,
+      "subsequently": 1,
+      "in conclusion": 1,
+      "overall": 1,
+      "to conclude": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "however",
+      "in conclusion",
+      "moreover",
+      "on the other hand",
+      "overall",
+      "secondly",
+      "subsequently",
+      "therefore",
+      "to conclude"
+    ]
+  },
+  "GLD_Gog_AS1_P26": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P26.docx",
+    "sentence_count": 93,
+    "total_markers": 24,
+    "density_per_100_sentences": 25.81,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "adversative": 8,
+      "additive": 4,
+      "causal": 4,
+      "sequential": 6,
+      "conclusive": 2
+    },
+    "marker_counts": {
+      "also": 4,
+      "first": 4,
+      "however": 3,
+      "then": 2,
+      "yet": 2,
+      "because": 2,
+      "although": 2,
+      "on the other hand": 1,
+      "as a result": 1,
+      "to summarize": 1,
+      "therefore": 1,
+      "overall": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "as a result",
+      "because",
+      "first",
+      "however",
+      "on the other hand",
+      "overall",
+      "then",
+      "therefore",
+      "to summarize",
+      "yet"
+    ]
+  },
+  "GLD_Gog_AS1_P31_P32_P33": {
+    "discipline": "GLD_Gog",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Goglio_TRASCRIZIONI/GLD_Gog_AS1_P31_P32_P33.docx",
+    "sentence_count": 90,
+    "total_markers": 39,
+    "density_per_100_sentences": 43.33,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 17,
+      "causal": 7,
+      "adversative": 6,
+      "sequential": 7,
+      "conclusive": 2
+    },
+    "marker_counts": {
+      "also": 12,
+      "first": 5,
+      "thus": 4,
+      "however": 4,
+      "because": 3,
+      "additionally": 2,
+      "in addition": 2,
+      "although": 2,
+      "furthermore": 1,
+      "secondly": 1,
+      "overall": 1,
+      "then": 1,
+      "in summary": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "although",
+      "because",
+      "first",
+      "furthermore",
+      "however",
+      "in addition",
+      "in summary",
+      "overall",
+      "secondly",
+      "then",
+      "thus"
+    ]
+  },
+  "NAL_Car_AS1_P100": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P100.docx",
+    "sentence_count": 16,
+    "total_markers": 6,
+    "density_per_100_sentences": 37.5,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "sequential": 2,
+      "additive": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "first": 1,
+      "furthermore": 1,
+      "then": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "furthermore",
+      "then"
+    ]
+  },
+  "NAL_Car_AS1_P101": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P101.docx",
+    "sentence_count": 18,
+    "total_markers": 8,
+    "density_per_100_sentences": 44.44,
+    "diversity_index": 0.375,
+    "category_counts": {
+      "causal": 6,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 3,
+      "therefore": 3,
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "therefore"
+    ]
+  },
+  "NAL_Car_AS1_P102": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P102.docx",
+    "sentence_count": 63,
+    "total_markers": 13,
+    "density_per_100_sentences": 20.63,
+    "diversity_index": 0.6923,
+    "category_counts": {
+      "adversative": 5,
+      "sequential": 2,
+      "additive": 4,
+      "conclusive": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "however": 3,
+      "first": 2,
+      "moreover": 2,
+      "also": 1,
+      "on the other hand": 1,
+      "in conclusion": 1,
+      "in contrast": 1,
+      "therefore": 1,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "furthermore",
+      "however",
+      "in conclusion",
+      "in contrast",
+      "moreover",
+      "on the other hand",
+      "therefore"
+    ]
+  },
+  "NAL_Car_AS1_P103": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P103.docx",
+    "sentence_count": 20,
+    "total_markers": 7,
+    "density_per_100_sentences": 35.0,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 3,
+      "causal": 2,
+      "adversative": 2
+    },
+    "marker_counts": {
+      "also": 1,
+      "consequently": 1,
+      "in addition": 1,
+      "on the other hand": 1,
+      "furthermore": 1,
+      "however": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "consequently",
+      "furthermore",
+      "however",
+      "in addition",
+      "on the other hand",
+      "thus"
+    ]
+  },
+  "NAL_Car_AS1_P104": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P104.docx",
+    "sentence_count": 28,
+    "total_markers": 3,
+    "density_per_100_sentences": 10.71,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1,
+      "additive": 1,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "first": 1,
+      "also": 1,
+      "in conclusion": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "in conclusion"
+    ]
+  },
+  "NAL_Car_AS1_P172": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P172.docx",
+    "sentence_count": 36,
+    "total_markers": 9,
+    "density_per_100_sentences": 25.0,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "sequential": 1,
+      "additive": 4,
+      "adversative": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "additionally": 2,
+      "also": 2,
+      "however": 2,
+      "first": 1,
+      "therefore": 1,
+      "yet": 1
+    },
+    "unique_markers_found": [
+      "additionally",
+      "also",
+      "first",
+      "however",
+      "therefore",
+      "yet"
+    ]
+  },
+  "NAL_Car_AS1_P98": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P98.docx",
+    "sentence_count": 32,
+    "total_markers": 4,
+    "density_per_100_sentences": 12.5,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "additive": 3,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "furthermore": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "furthermore",
+      "on the other hand"
+    ]
+  },
+  "NAL_Car_AS1_P99": {
+    "discipline": "NAL_Car",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/CAROSSO_TRASCRIZIONI/NAL_Car_AS1_P99.docx",
+    "sentence_count": 32,
+    "total_markers": 5,
+    "density_per_100_sentences": 15.62,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "additive": 2,
+      "causal": 2,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "because": 2,
+      "also": 1,
+      "yet": 1,
+      "in addition": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "in addition",
+      "yet"
+    ]
+  },
+  "NAL_DiL_AS1_P105": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P105.docx",
+    "sentence_count": 57,
+    "total_markers": 13,
+    "density_per_100_sentences": 22.81,
+    "diversity_index": 0.4615,
+    "category_counts": {
+      "sequential": 9,
+      "additive": 3,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "first": 5,
+      "then": 3,
+      "also": 2,
+      "moreover": 1,
+      "finally": 1,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "finally",
+      "first",
+      "moreover",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "NAL_DiL_AS1_P106": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P106.docx",
+    "sentence_count": 67,
+    "total_markers": 17,
+    "density_per_100_sentences": 25.37,
+    "diversity_index": 0.3529,
+    "category_counts": {
+      "sequential": 7,
+      "additive": 6,
+      "causal": 3,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "first": 4,
+      "then": 3,
+      "moreover": 3,
+      "because": 3,
+      "also": 3,
+      "although": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "because",
+      "first",
+      "moreover",
+      "then"
+    ]
+  },
+  "NAL_DiL_AS1_P107": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P107.docx",
+    "sentence_count": 52,
+    "total_markers": 5,
+    "density_per_100_sentences": 9.62,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "sequential": 1,
+      "causal": 2,
+      "additive": 2
+    },
+    "marker_counts": {
+      "because": 2,
+      "also": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "NAL_DiL_AS1_P108": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P108.docx",
+    "sentence_count": 48,
+    "total_markers": 12,
+    "density_per_100_sentences": 25.0,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "sequential": 4,
+      "causal": 7,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 7,
+      "then": 2,
+      "first": 2,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first",
+      "furthermore",
+      "then"
+    ]
+  },
+  "NAL_DiL_AS1_P109": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P109.docx",
+    "sentence_count": 75,
+    "total_markers": 6,
+    "density_per_100_sentences": 8.0,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "sequential": 3,
+      "causal": 1,
+      "adversative": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "first": 2,
+      "then": 1,
+      "thus": 1,
+      "on the other hand": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "first",
+      "moreover",
+      "on the other hand",
+      "then",
+      "thus"
+    ]
+  },
+  "NAL_DiL_AS1_P166": {
+    "discipline": "NAL_DiL",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/DI LORETO_TRASCRIZIONI/NAL_DiL_AS1_P166.docx",
+    "sentence_count": 54,
+    "total_markers": 5,
+    "density_per_100_sentences": 9.26,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1,
+      "adversative": 2,
+      "causal": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "then": 1,
+      "yet": 1,
+      "because": 1,
+      "nevertheless": 1,
+      "moreover": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "moreover",
+      "nevertheless",
+      "then",
+      "yet"
+    ]
+  },
+  "SCSA_Bon_AS1_P54": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P54.docx",
+    "sentence_count": 21,
+    "total_markers": 7,
+    "density_per_100_sentences": 33.33,
+    "diversity_index": 0.7143,
+    "category_counts": {
+      "causal": 3,
+      "sequential": 2,
+      "adversative": 1,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "first": 1,
+      "then": 1,
+      "on the other hand": 1,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS1_P55": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P55.docx",
+    "sentence_count": 27,
+    "total_markers": 4,
+    "density_per_100_sentences": 14.81,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "sequential": 1,
+      "causal": 1,
+      "additive": 2
+    },
+    "marker_counts": {
+      "subsequently": 1,
+      "because": 1,
+      "besides": 1,
+      "furthermore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "besides",
+      "furthermore",
+      "subsequently"
+    ]
+  },
+  "SCSA_Bon_AS1_P56": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P56.docx",
+    "sentence_count": 29,
+    "total_markers": 4,
+    "density_per_100_sentences": 13.79,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 3,
+      "additive": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS1_P57": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P57.docx",
+    "sentence_count": 38,
+    "total_markers": 12,
+    "density_per_100_sentences": 31.58,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 8,
+      "adversative": 1,
+      "causal": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 8,
+      "because": 2,
+      "yet": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "yet"
+    ]
+  },
+  "SCSA_Bon_AS1_P58": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P58.docx",
+    "sentence_count": 50,
+    "total_markers": 11,
+    "density_per_100_sentences": 22.0,
+    "diversity_index": 0.3636,
+    "category_counts": {
+      "causal": 4,
+      "adversative": 3,
+      "additive": 4
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 3,
+      "however": 3,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however",
+      "thus"
+    ]
+  },
+  "SCSA_Bon_AS1_P59": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P59.docx",
+    "sentence_count": 37,
+    "total_markers": 6,
+    "density_per_100_sentences": 16.22,
+    "diversity_index": 0.8333,
+    "category_counts": {
+      "adversative": 1,
+      "causal": 2,
+      "additive": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 2,
+      "however": 1,
+      "also": 1,
+      "moreover": 1,
+      "finally": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "however",
+      "moreover"
+    ]
+  },
+  "SCSA_Bon_AS1_P60": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P60.docx",
+    "sentence_count": 39,
+    "total_markers": 6,
+    "density_per_100_sentences": 15.38,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "causal": 4,
+      "adversative": 1,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "as a result": 1,
+      "on the other hand": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "as a result",
+      "because",
+      "first",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon_AS1_P61": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P61.docx",
+    "sentence_count": 78,
+    "total_markers": 16,
+    "density_per_100_sentences": 20.51,
+    "diversity_index": 0.3125,
+    "category_counts": {
+      "adversative": 1,
+      "causal": 6,
+      "additive": 8,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 7,
+      "because": 6,
+      "on the other hand": 1,
+      "furthermore": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "furthermore",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon_AS1_P62": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P62.docx",
+    "sentence_count": 19,
+    "total_markers": 0,
+    "density_per_100_sentences": 0.0,
+    "diversity_index": 0.0,
+    "category_counts": {},
+    "marker_counts": {},
+    "unique_markers_found": []
+  },
+  "SCSA_Bon_AS1_P63": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P63.docx",
+    "sentence_count": 80,
+    "total_markers": 5,
+    "density_per_100_sentences": 6.25,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "adversative": 2,
+      "additive": 3
+    },
+    "marker_counts": {
+      "also": 2,
+      "although": 1,
+      "on the other hand": 1,
+      "besides": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "although",
+      "besides",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon_AS1_P64": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P64.docx",
+    "sentence_count": 57,
+    "total_markers": 4,
+    "density_per_100_sentences": 7.02,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS1_P65": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P65.docx",
+    "sentence_count": 39,
+    "total_markers": 6,
+    "density_per_100_sentences": 15.38,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "sequential": 1,
+      "causal": 2,
+      "additive": 3
+    },
+    "marker_counts": {
+      "also": 3,
+      "therefore": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then",
+      "therefore"
+    ]
+  },
+  "SCSA_Bon_AS1_P66": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P66.docx",
+    "sentence_count": 31,
+    "total_markers": 6,
+    "density_per_100_sentences": 19.35,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 3,
+      "additive": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 3,
+      "also": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first"
+    ]
+  },
+  "SCSA_Bon_AS1_P67": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P67.docx",
+    "sentence_count": 24,
+    "total_markers": 1,
+    "density_per_100_sentences": 4.17,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 1
+    },
+    "marker_counts": {
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS1_P68": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P68.docx",
+    "sentence_count": 24,
+    "total_markers": 2,
+    "density_per_100_sentences": 8.33,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 2
+    },
+    "marker_counts": {
+      "because": 1,
+      "therefore": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "therefore"
+    ]
+  },
+  "SCSA_Bon_AS1_P69": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P69.docx",
+    "sentence_count": 36,
+    "total_markers": 10,
+    "density_per_100_sentences": 27.78,
+    "diversity_index": 0.4,
+    "category_counts": {
+      "additive": 4,
+      "causal": 3,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 4,
+      "because": 3,
+      "first": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS1_P70": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P70.docx",
+    "sentence_count": 44,
+    "total_markers": 9,
+    "density_per_100_sentences": 20.45,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 2,
+      "causal": 6,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "because": 6,
+      "also": 2,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS1_P71": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P71.docx",
+    "sentence_count": 42,
+    "total_markers": 14,
+    "density_per_100_sentences": 33.33,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "adversative": 2,
+      "causal": 4,
+      "additive": 7,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 7,
+      "because": 2,
+      "on the other hand": 1,
+      "hence": 1,
+      "first": 1,
+      "as a result": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "as a result",
+      "because",
+      "first",
+      "hence",
+      "however",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon_AS1_P72": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS1/SCSA_Bon_AS1_P72.docx",
+    "sentence_count": 29,
+    "total_markers": 1,
+    "density_per_100_sentences": 3.45,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1
+    },
+    "marker_counts": {
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P54": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P54.docx",
+    "sentence_count": 37,
+    "total_markers": 2,
+    "density_per_100_sentences": 5.41,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "causal": 2
+    },
+    "marker_counts": {
+      "therefore": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "therefore"
+    ]
+  },
+  "SCSA_Bon_AS2_P56": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P56.docx",
+    "sentence_count": 44,
+    "total_markers": 9,
+    "density_per_100_sentences": 20.45,
+    "diversity_index": 0.5556,
+    "category_counts": {
+      "additive": 4,
+      "causal": 2,
+      "sequential": 2,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 4,
+      "then": 2,
+      "thus": 1,
+      "because": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "however",
+      "then",
+      "thus"
+    ]
+  },
+  "SCSA_Bon_AS2_P62": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P62.docx",
+    "sentence_count": 24,
+    "total_markers": 2,
+    "density_per_100_sentences": 8.33,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 2
+    },
+    "marker_counts": {
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P67": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P67.docx",
+    "sentence_count": 36,
+    "total_markers": 5,
+    "density_per_100_sentences": 13.89,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "additive": 3,
+      "causal": 1,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "thus": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then",
+      "thus"
+    ]
+  },
+  "SCSA_Bon_AS2_P68": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P68.docx",
+    "sentence_count": 41,
+    "total_markers": 6,
+    "density_per_100_sentences": 14.63,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "causal": 3,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "because": 3,
+      "then": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P69": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P69.docx",
+    "sentence_count": 57,
+    "total_markers": 9,
+    "density_per_100_sentences": 15.79,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 5,
+      "sequential": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 5,
+      "then": 3,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P70": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P70.docx",
+    "sentence_count": 43,
+    "total_markers": 11,
+    "density_per_100_sentences": 25.58,
+    "diversity_index": 0.2727,
+    "category_counts": {
+      "causal": 6,
+      "sequential": 5
+    },
+    "marker_counts": {
+      "because": 6,
+      "first": 3,
+      "then": 2
+    },
+    "unique_markers_found": [
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P72": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P72.docx",
+    "sentence_count": 26,
+    "total_markers": 0,
+    "density_per_100_sentences": 0.0,
+    "diversity_index": 0.0,
+    "category_counts": {},
+    "marker_counts": {},
+    "unique_markers_found": []
+  },
+  "SCSA_Bon_AS2_P73": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P73.docx",
+    "sentence_count": 41,
+    "total_markers": 3,
+    "density_per_100_sentences": 7.32,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS2_P74": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P74.docx",
+    "sentence_count": 45,
+    "total_markers": 4,
+    "density_per_100_sentences": 8.89,
+    "diversity_index": 0.25,
+    "category_counts": {
+      "additive": 4
+    },
+    "marker_counts": {
+      "also": 4
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P75": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P75.docx",
+    "sentence_count": 39,
+    "total_markers": 7,
+    "density_per_100_sentences": 17.95,
+    "diversity_index": 0.5714,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "sequential": 4
+    },
+    "marker_counts": {
+      "also": 2,
+      "first": 2,
+      "then": 2,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P76": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P76.docx",
+    "sentence_count": 29,
+    "total_markers": 2,
+    "density_per_100_sentences": 6.9,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 2
+    },
+    "marker_counts": {
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P77": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P77.docx",
+    "sentence_count": 55,
+    "total_markers": 8,
+    "density_per_100_sentences": 14.55,
+    "diversity_index": 0.625,
+    "category_counts": {
+      "additive": 3,
+      "causal": 3,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 3,
+      "because": 2,
+      "thus": 1,
+      "first": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then",
+      "thus"
+    ]
+  },
+  "SCSA_Bon_AS2_P78": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P78.docx",
+    "sentence_count": 29,
+    "total_markers": 4,
+    "density_per_100_sentences": 13.79,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "therefore": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then",
+      "therefore"
+    ]
+  },
+  "SCSA_Bon_AS2_P79": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P79.docx",
+    "sentence_count": 22,
+    "total_markers": 1,
+    "density_per_100_sentences": 4.55,
+    "diversity_index": 1.0,
+    "category_counts": {
+      "additive": 1
+    },
+    "marker_counts": {
+      "also": 1
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P80": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P80.docx",
+    "sentence_count": 54,
+    "total_markers": 9,
+    "density_per_100_sentences": 16.67,
+    "diversity_index": 0.4444,
+    "category_counts": {
+      "additive": 2,
+      "sequential": 3,
+      "causal": 4
+    },
+    "marker_counts": {
+      "then": 3,
+      "because": 3,
+      "also": 2,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then",
+      "thus"
+    ]
+  },
+  "SCSA_Bon_AS2_P81": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P81.docx",
+    "sentence_count": 46,
+    "total_markers": 17,
+    "density_per_100_sentences": 36.96,
+    "diversity_index": 0.2353,
+    "category_counts": {
+      "additive": 14,
+      "sequential": 1,
+      "adversative": 1,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 14,
+      "then": 1,
+      "yet": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then",
+      "yet"
+    ]
+  },
+  "SCSA_Bon_AS2_P82": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P82.docx",
+    "sentence_count": 42,
+    "total_markers": 5,
+    "density_per_100_sentences": 11.9,
+    "diversity_index": 0.2,
+    "category_counts": {
+      "additive": 5
+    },
+    "marker_counts": {
+      "also": 5
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P83": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P83.docx",
+    "sentence_count": 26,
+    "total_markers": 4,
+    "density_per_100_sentences": 15.38,
+    "diversity_index": 0.75,
+    "category_counts": {
+      "additive": 2,
+      "causal": 1,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "because": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P84": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P84.docx",
+    "sentence_count": 22,
+    "total_markers": 2,
+    "density_per_100_sentences": 9.09,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 2
+    },
+    "marker_counts": {
+      "also": 2
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P85": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P85.docx",
+    "sentence_count": 25,
+    "total_markers": 4,
+    "density_per_100_sentences": 16.0,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 2,
+      "sequential": 2
+    },
+    "marker_counts": {
+      "also": 2,
+      "then": 2
+    },
+    "unique_markers_found": [
+      "also",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P86": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P86.docx",
+    "sentence_count": 34,
+    "total_markers": 4,
+    "density_per_100_sentences": 11.76,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 3,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P87": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P87.docx",
+    "sentence_count": 44,
+    "total_markers": 3,
+    "density_per_100_sentences": 6.82,
+    "diversity_index": 0.6667,
+    "category_counts": {
+      "additive": 2,
+      "sequential": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first"
+    ]
+  },
+  "SCSA_Bon_AS2_P88": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P88.docx",
+    "sentence_count": 45,
+    "total_markers": 5,
+    "density_per_100_sentences": 11.11,
+    "diversity_index": 0.8,
+    "category_counts": {
+      "additive": 2,
+      "sequential": 2,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 2,
+      "then": 1,
+      "because": 1,
+      "first": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P89": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P89.docx",
+    "sentence_count": 42,
+    "total_markers": 4,
+    "density_per_100_sentences": 9.52,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 3,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "on the other hand": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "on the other hand"
+    ]
+  },
+  "SCSA_Bon_AS2_P90": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P90.docx",
+    "sentence_count": 37,
+    "total_markers": 14,
+    "density_per_100_sentences": 37.84,
+    "diversity_index": 0.4286,
+    "category_counts": {
+      "additive": 6,
+      "sequential": 6,
+      "causal": 2
+    },
+    "marker_counts": {
+      "also": 5,
+      "first": 3,
+      "then": 3,
+      "moreover": 1,
+      "as a result": 1,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "as a result",
+      "because",
+      "first",
+      "moreover",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P91": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P91.docx",
+    "sentence_count": 42,
+    "total_markers": 4,
+    "density_per_100_sentences": 9.52,
+    "diversity_index": 0.5,
+    "category_counts": {
+      "additive": 3,
+      "causal": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "because": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS2_P92": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P92.docx",
+    "sentence_count": 68,
+    "total_markers": 7,
+    "density_per_100_sentences": 10.29,
+    "diversity_index": 0.5714,
+    "category_counts": {
+      "additive": 3,
+      "causal": 1,
+      "sequential": 3
+    },
+    "marker_counts": {
+      "also": 3,
+      "first": 2,
+      "because": 1,
+      "then": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P93": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P93.docx",
+    "sentence_count": 60,
+    "total_markers": 11,
+    "density_per_100_sentences": 18.33,
+    "diversity_index": 0.1818,
+    "category_counts": {
+      "additive": 8,
+      "causal": 3
+    },
+    "marker_counts": {
+      "also": 8,
+      "because": 3
+    },
+    "unique_markers_found": [
+      "also",
+      "because"
+    ]
+  },
+  "SCSA_Bon_AS2_P94": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P94.docx",
+    "sentence_count": 39,
+    "total_markers": 5,
+    "density_per_100_sentences": 12.82,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "additive": 3,
+      "sequential": 1,
+      "adversative": 1
+    },
+    "marker_counts": {
+      "also": 3,
+      "first": 1,
+      "however": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "first",
+      "however"
+    ]
+  },
+  "SCSA_Bon_AS2_P95": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P95.docx",
+    "sentence_count": 50,
+    "total_markers": 3,
+    "density_per_100_sentences": 6.0,
+    "diversity_index": 0.3333,
+    "category_counts": {
+      "additive": 3
+    },
+    "marker_counts": {
+      "also": 3
+    },
+    "unique_markers_found": [
+      "also"
+    ]
+  },
+  "SCSA_Bon_AS2_P96": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P96.docx",
+    "sentence_count": 80,
+    "total_markers": 18,
+    "density_per_100_sentences": 22.5,
+    "diversity_index": 0.3889,
+    "category_counts": {
+      "additive": 6,
+      "sequential": 4,
+      "adversative": 3,
+      "causal": 4,
+      "conclusive": 1
+    },
+    "marker_counts": {
+      "also": 6,
+      "because": 4,
+      "first": 2,
+      "however": 2,
+      "then": 2,
+      "on the other hand": 1,
+      "in summary": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "first",
+      "however",
+      "in summary",
+      "on the other hand",
+      "then"
+    ]
+  },
+  "SCSA_Bon_AS2_P97": {
+    "discipline": "SCSA_Bon",
+    "path": "/Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/BONOMO_trascrizioni/SCSA_Bon_AS2/SCSA_Bon_AS2_P97.docx",
+    "sentence_count": 33,
+    "total_markers": 10,
+    "density_per_100_sentences": 30.3,
+    "diversity_index": 0.6,
+    "category_counts": {
+      "additive": 3,
+      "causal": 3,
+      "sequential": 4
+    },
+    "marker_counts": {
+      "also": 3,
+      "because": 2,
+      "first": 2,
+      "finally": 1,
+      "then": 1,
+      "thus": 1
+    },
+    "unique_markers_found": [
+      "also",
+      "because",
+      "finally",
+      "first",
+      "then",
+      "thus"
+    ]
+  }
+}

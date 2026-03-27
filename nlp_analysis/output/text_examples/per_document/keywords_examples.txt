@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Keyword TF-IDF #1: 'nigeria' (score=0.105336)
+[TEXT]   Top 5 keywords: nigeria, women education, tratto, tratto da, da https
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Keyword TF-IDF #1: 'surveillance' (score=0.115816)
+[TEXT]   Top 5 keywords: surveillance, digital, digital authoritarianism, authoritarianism, internet
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Keyword TF-IDF #1: 'transgender' (score=0.084053)
+[TEXT]   Top 5 keywords: transgender, transgender people, source https, apartheid, lgbtqi
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Keyword TF-IDF #1: 'orientalism' (score=0.095612)
+[TEXT]   Top 5 keywords: orientalism, italian, faccetta, nera, faccetta nera
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Keyword TF-IDF #1: 'food' (score=0.114998)
+[TEXT]   Top 5 keywords: food, food insecurity, insecurity, urbanization, food desert
+

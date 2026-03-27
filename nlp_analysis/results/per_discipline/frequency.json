@@ -1,0 +1,4418 @@
+{
+  "AS_Gus": {
+    "top_words": [
+      [
+        "africa",
+        321
+      ],
+      [
+        "african",
+        214
+      ],
+      [
+        "women",
+        150
+      ],
+      [
+        "food",
+        147
+      ],
+      [
+        "people",
+        139
+      ],
+      [
+        "global",
+        131
+      ],
+      [
+        "countries",
+        127
+      ],
+      [
+        "economic",
+        116
+      ],
+      [
+        "education",
+        105
+      ],
+      [
+        "social",
+        101
+      ],
+      [
+        "globalization",
+        101
+      ],
+      [
+        "south",
+        95
+      ],
+      [
+        "world",
+        94
+      ],
+      [
+        "gender",
+        90
+      ],
+      [
+        "continent",
+        90
+      ],
+      [
+        "government",
+        86
+      ],
+      [
+        "development",
+        80
+      ],
+      [
+        "ferguson",
+        77
+      ],
+      [
+        "country",
+        76
+      ],
+      [
+        "rights",
+        74
+      ],
+      [
+        "political",
+        73
+      ],
+      [
+        "western",
+        71
+      ],
+      [
+        "transgender",
+        66
+      ],
+      [
+        "access",
+        65
+      ],
+      [
+        "urban",
+        61
+      ],
+      [
+        "areas",
+        60
+      ],
+      [
+        "nigeria",
+        58
+      ],
+      [
+        "cultural",
+        55
+      ],
+      [
+        "human",
+        55
+      ],
+      [
+        "digital",
+        55
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "south africa",
+        60
+      ],
+      [
+        "transgender people",
+        32
+      ],
+      [
+        "african countries",
+        29
+      ],
+      [
+        "food insecurity",
+        26
+      ],
+      [
+        "human rights",
+        25
+      ],
+      [
+        "african continent",
+        24
+      ],
+      [
+        "et al",
+        23
+      ],
+      [
+        "economic political",
+        22
+      ],
+      [
+        "digital authoritarianism",
+        22
+      ],
+      [
+        "urban areas",
+        22
+      ],
+      [
+        "global shadows",
+        20
+      ],
+      [
+        "social media",
+        19
+      ],
+      [
+        "access education",
+        18
+      ],
+      [
+        "food desert",
+        17
+      ],
+      [
+        "food security",
+        17
+      ],
+      [
+        "economic growth",
+        15
+      ],
+      [
+        "african people",
+        15
+      ],
+      [
+        "women education",
+        14
+      ],
+      [
+        "point view",
+        14
+      ],
+      [
+        "black women",
+        14
+      ],
+      [
+        "south africans",
+        14
+      ],
+      [
+        "sex workers",
+        14
+      ],
+      [
+        "global economic",
+        14
+      ],
+      [
+        "political convergence",
+        14
+      ],
+      [
+        "food deserts",
+        13
+      ],
+      [
+        "tratto da",
+        12
+      ],
+      [
+        "globe hopping",
+        12
+      ],
+      [
+        "chapter global",
+        11
+      ],
+      [
+        "globe covering",
+        11
+      ],
+      [
+        "world bank",
+        10
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "economic political convergence",
+        14
+      ],
+      [
+        "global economic political",
+        12
+      ],
+      [
+        "chapter global shadows",
+        8
+      ],
+      [
+        "rights south africa",
+        7
+      ],
+      [
+        "sub saharan africa",
+        7
+      ],
+      [
+        "recent history africa",
+        7
+      ],
+      [
+        "instead globe covering",
+        7
+      ],
+      [
+        "globe covering better",
+        7
+      ],
+      [
+        "covering better described",
+        7
+      ],
+      [
+        "better described globe",
+        7
+      ],
+      [
+        "described globe hopping",
+        7
+      ],
+      [
+        "topics discussed course",
+        7
+      ],
+      [
+        "people south africa",
+        6
+      ],
+      [
+        "gender non conforming",
+        6
+      ],
+      [
+        "transgender sex workers",
+        6
+      ],
+      [
+        "global shadows read",
+        6
+      ],
+      [
+        "shadows read recent",
+        6
+      ],
+      [
+        "read recent history",
+        6
+      ],
+      [
+        "history africa pose",
+        6
+      ],
+      [
+        "africa pose profound",
+        6
+      ],
+      [
+        "pose profound challenge",
+        6
+      ],
+      [
+        "profound challenge ideas",
+        6
+      ],
+      [
+        "challenge ideas global",
+        6
+      ],
+      [
+        "ideas global economic",
+        6
+      ],
+      [
+        "political convergence globalization",
+        6
+      ],
+      [
+        "convergence globalization instead",
+        6
+      ],
+      [
+        "globalization instead globe",
+        6
+      ],
+      [
+        "globe hopping discuss",
+        6
+      ],
+      [
+        "hopping discuss assertions",
+        6
+      ],
+      [
+        "discuss assertions reflect",
+        6
+      ]
+    ]
+  },
+  "CILE_Pol": {
+    "top_words": [
+      [
+        "shareholders",
+        251
+      ],
+      [
+        "company",
+        219
+      ],
+      [
+        "market",
+        174
+      ],
+      [
+        "position",
+        138
+      ],
+      [
+        "legal",
+        134
+      ],
+      [
+        "strategies",
+        130
+      ],
+      [
+        "law",
+        120
+      ],
+      [
+        "ownership",
+        119
+      ],
+      [
+        "dominant",
+        114
+      ],
+      [
+        "managers",
+        110
+      ],
+      [
+        "business",
+        109
+      ],
+      [
+        "corporation",
+        102
+      ],
+      [
+        "interests",
+        95
+      ],
+      [
+        "corporate",
+        93
+      ],
+      [
+        "external",
+        88
+      ],
+      [
+        "shares",
+        83
+      ],
+      [
+        "case",
+        82
+      ],
+      [
+        "firm",
+        82
+      ],
+      [
+        "constituencies",
+        81
+      ],
+      [
+        "minority",
+        79
+      ],
+      [
+        "voting",
+        75
+      ],
+      [
+        "strategy",
+        73
+      ],
+      [
+        "companies",
+        69
+      ],
+      [
+        "shareholder",
+        66
+      ],
+      [
+        "share",
+        62
+      ],
+      [
+        "personality",
+        61
+      ],
+      [
+        "protection",
+        59
+      ],
+      [
+        "directors",
+        58
+      ],
+      [
+        "disclosure",
+        56
+      ],
+      [
+        "merger",
+        54
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "dominant position",
+        101
+      ],
+      [
+        "external constituencies",
+        76
+      ],
+      [
+        "corporate law",
+        57
+      ],
+      [
+        "legal personality",
+        55
+      ],
+      [
+        "business corporation",
+        55
+      ],
+      [
+        "minority shareholders",
+        44
+      ],
+      [
+        "dispersed ownership",
+        43
+      ],
+      [
+        "slate voting",
+        41
+      ],
+      [
+        "legal strategies",
+        40
+      ],
+      [
+        "ownership structure",
+        37
+      ],
+      [
+        "concentrated ownership",
+        36
+      ],
+      [
+        "voting system",
+        35
+      ],
+      [
+        "constituencies interests",
+        32
+      ],
+      [
+        "market share",
+        29
+      ],
+      [
+        "competition law",
+        26
+      ],
+      [
+        "characteristics business",
+        26
+      ],
+      [
+        "position voided",
+        25
+      ],
+      [
+        "protection external",
+        25
+      ],
+      [
+        "undertaking market",
+        24
+      ],
+      [
+        "position undertaking",
+        23
+      ],
+      [
+        "core characteristics",
+        23
+      ],
+      [
+        "legal strategy",
+        22
+      ],
+      [
+        "indicators dominant",
+        21
+      ],
+      [
+        "according competition",
+        20
+      ],
+      [
+        "ex ante",
+        20
+      ],
+      [
+        "market position",
+        19
+      ],
+      [
+        "personality core",
+        19
+      ],
+      [
+        "fundamental business",
+        19
+      ],
+      [
+        "corporation function",
+        19
+      ],
+      [
+        "category legal",
+        19
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "slate voting system",
+        31
+      ],
+      [
+        "external constituencies interests",
+        31
+      ],
+      [
+        "characteristics business corporation",
+        25
+      ],
+      [
+        "dominant position undertaking",
+        23
+      ],
+      [
+        "core characteristics business",
+        23
+      ],
+      [
+        "protection external constituencies",
+        23
+      ],
+      [
+        "indicators dominant position",
+        21
+      ],
+      [
+        "according competition law",
+        20
+      ],
+      [
+        "position undertaking market",
+        19
+      ],
+      [
+        "legal personality core",
+        19
+      ],
+      [
+        "fundamental business corporation",
+        19
+      ],
+      [
+        "business corporation function",
+        19
+      ],
+      [
+        "corporate law effective",
+        19
+      ],
+      [
+        "law effective protection",
+        19
+      ],
+      [
+        "effective protection external",
+        19
+      ],
+      [
+        "law indicators dominant",
+        18
+      ],
+      [
+        "market position voided",
+        18
+      ],
+      [
+        "personality core characteristics",
+        18
+      ],
+      [
+        "list describe strategies",
+        18
+      ],
+      [
+        "describe strategies deployed",
+        18
+      ],
+      [
+        "strategies deployed corporate",
+        18
+      ],
+      [
+        "competition law indicators",
+        17
+      ],
+      [
+        "undertaking market position",
+        17
+      ],
+      [
+        "business corporation sides",
+        17
+      ],
+      [
+        "corporation sides rule",
+        17
+      ],
+      [
+        "sides rule fundamental",
+        17
+      ],
+      [
+        "rule fundamental business",
+        17
+      ],
+      [
+        "mean refer slate",
+        17
+      ],
+      [
+        "refer slate voting",
+        17
+      ],
+      [
+        "voting system state",
+        17
+      ]
+    ]
+  },
+  "CLA_Pol": {
+    "top_words": [
+      [
+        "price",
+        124
+      ],
+      [
+        "financial",
+        117
+      ],
+      [
+        "trading",
+        97
+      ],
+      [
+        "instruments",
+        96
+      ],
+      [
+        "contract",
+        78
+      ],
+      [
+        "alpha",
+        69
+      ],
+      [
+        "market",
+        68
+      ],
+      [
+        "investment",
+        64
+      ],
+      [
+        "mifid",
+        56
+      ],
+      [
+        "company",
+        55
+      ],
+      [
+        "gas",
+        55
+      ],
+      [
+        "client",
+        54
+      ],
+      [
+        "ii",
+        51
+      ],
+      [
+        "instrument",
+        48
+      ],
+      [
+        "future",
+        45
+      ],
+      [
+        "buy",
+        42
+      ],
+      [
+        "underlying",
+        38
+      ],
+      [
+        "option",
+        37
+      ],
+      [
+        "list",
+        34
+      ],
+      [
+        "derivative",
+        34
+      ],
+      [
+        "high",
+        34
+      ],
+      [
+        "types",
+        33
+      ],
+      [
+        "firm",
+        33
+      ],
+      [
+        "sell",
+        32
+      ],
+      [
+        "advice",
+        32
+      ],
+      [
+        "case",
+        31
+      ],
+      [
+        "type",
+        30
+      ],
+      [
+        "interest",
+        30
+      ],
+      [
+        "order",
+        30
+      ],
+      [
+        "natural",
+        30
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "mifid ii",
+        49
+      ],
+      [
+        "financial instruments",
+        36
+      ],
+      [
+        "financial instrument",
+        33
+      ],
+      [
+        "natural gas",
+        30
+      ],
+      [
+        "algorithmic trading",
+        26
+      ],
+      [
+        "company alpha",
+        25
+      ],
+      [
+        "product providers",
+        24
+      ],
+      [
+        "high frequency",
+        23
+      ],
+      [
+        "frequency trading",
+        22
+      ],
+      [
+        "types financial",
+        21
+      ],
+      [
+        "imagine corporate",
+        19
+      ],
+      [
+        "corporate consultant",
+        19
+      ],
+      [
+        "consultant company",
+        19
+      ],
+      [
+        "comes asking",
+        19
+      ],
+      [
+        "asking advice",
+        19
+      ],
+      [
+        "price natural",
+        19
+      ],
+      [
+        "buy sell",
+        18
+      ],
+      [
+        "investment firm",
+        18
+      ],
+      [
+        "company beta",
+        16
+      ],
+      [
+        "derivative contract",
+        16
+      ],
+      [
+        "definition financial",
+        15
+      ],
+      [
+        "strike price",
+        14
+      ],
+      [
+        "gain difference",
+        14
+      ],
+      [
+        "risks connected",
+        13
+      ],
+      [
+        "alpha wants",
+        13
+      ],
+      [
+        "difference prices",
+        13
+      ],
+      [
+        "behalf client",
+        12
+      ],
+      [
+        "conflict interest",
+        12
+      ],
+      [
+        "trading high",
+        12
+      ],
+      [
+        "wants gain",
+        12
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "high frequency trading",
+        22
+      ],
+      [
+        "imagine corporate consultant",
+        19
+      ],
+      [
+        "corporate consultant company",
+        19
+      ],
+      [
+        "comes asking advice",
+        19
+      ],
+      [
+        "price natural gas",
+        19
+      ],
+      [
+        "definition financial instrument",
+        13
+      ],
+      [
+        "gain difference prices",
+        13
+      ],
+      [
+        "algorithmic trading high",
+        12
+      ],
+      [
+        "trading high frequency",
+        12
+      ],
+      [
+        "alpha wants gain",
+        12
+      ],
+      [
+        "financial instrument mifid",
+        11
+      ],
+      [
+        "instrument mifid ii",
+        11
+      ],
+      [
+        "commission product providers",
+        11
+      ],
+      [
+        "rules governing situation",
+        11
+      ],
+      [
+        "risks connected types",
+        11
+      ],
+      [
+        "connected types financial",
+        11
+      ],
+      [
+        "consultant company alpha",
+        11
+      ],
+      [
+        "company alpha operating",
+        11
+      ],
+      [
+        "alpha operating field",
+        11
+      ],
+      [
+        "operating field plastic",
+        11
+      ],
+      [
+        "field plastic packaging",
+        11
+      ],
+      [
+        "plastic packaging comes",
+        11
+      ],
+      [
+        "packaging comes asking",
+        11
+      ],
+      [
+        "asking advice expecting",
+        11
+      ],
+      [
+        "advice expecting price",
+        11
+      ],
+      [
+        "expecting price natural",
+        11
+      ],
+      [
+        "natural gas grow",
+        11
+      ],
+      [
+        "gas grow alpha",
+        11
+      ],
+      [
+        "grow alpha wants",
+        11
+      ],
+      [
+        "wants gain difference",
+        11
+      ]
+    ]
+  },
+  "CPH_Mor": {
+    "top_words": [
+      [
+        "people",
+        122
+      ],
+      [
+        "british",
+        117
+      ],
+      [
+        "india",
+        117
+      ],
+      [
+        "century",
+        114
+      ],
+      [
+        "trade",
+        103
+      ],
+      [
+        "decolonization",
+        88
+      ],
+      [
+        "empires",
+        87
+      ],
+      [
+        "world",
+        83
+      ],
+      [
+        "native",
+        81
+      ],
+      [
+        "europeans",
+        77
+      ],
+      [
+        "colonialism",
+        75
+      ],
+      [
+        "colonial",
+        74
+      ],
+      [
+        "empire",
+        72
+      ],
+      [
+        "new",
+        69
+      ],
+      [
+        "important",
+        64
+      ],
+      [
+        "networks",
+        60
+      ],
+      [
+        "economy",
+        59
+      ],
+      [
+        "process",
+        59
+      ],
+      [
+        "african",
+        57
+      ],
+      [
+        "america",
+        56
+      ],
+      [
+        "drain",
+        55
+      ],
+      [
+        "britain",
+        55
+      ],
+      [
+        "european",
+        55
+      ],
+      [
+        "merchants",
+        55
+      ],
+      [
+        "merchant",
+        54
+      ],
+      [
+        "asia",
+        51
+      ],
+      [
+        "explain",
+        49
+      ],
+      [
+        "history",
+        46
+      ],
+      [
+        "countries",
+        46
+      ],
+      [
+        "indian",
+        45
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "merchant networks",
+        39
+      ],
+      [
+        "theory drain",
+        27
+      ],
+      [
+        "british empire",
+        27
+      ],
+      [
+        "south asia",
+        26
+      ],
+      [
+        "native american",
+        26
+      ],
+      [
+        "british imperial",
+        23
+      ],
+      [
+        "imperial economy",
+        23
+      ],
+      [
+        "american people",
+        21
+      ],
+      [
+        "african native",
+        20
+      ],
+      [
+        "representations important",
+        19
+      ],
+      [
+        "decolonization century",
+        19
+      ],
+      [
+        "native people",
+        17
+      ],
+      [
+        "economy south",
+        17
+      ],
+      [
+        "explain colonialism",
+        17
+      ],
+      [
+        "influenced british",
+        16
+      ],
+      [
+        "people century",
+        16
+      ],
+      [
+        "important explain",
+        16
+      ],
+      [
+        "history empires",
+        16
+      ],
+      [
+        "explain theory",
+        15
+      ],
+      [
+        "drain examples",
+        15
+      ],
+      [
+        "examples way",
+        15
+      ],
+      [
+        "way influenced",
+        15
+      ],
+      [
+        "europeans depict",
+        15
+      ],
+      [
+        "depict african",
+        15
+      ],
+      [
+        "century representations",
+        15
+      ],
+      [
+        "native americans",
+        15
+      ],
+      [
+        "early modern",
+        14
+      ],
+      [
+        "atlantic world",
+        14
+      ],
+      [
+        "networks relevant",
+        14
+      ],
+      [
+        "new world",
+        13
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "british imperial economy",
+        22
+      ],
+      [
+        "native american people",
+        21
+      ],
+      [
+        "african native american",
+        19
+      ],
+      [
+        "imperial economy south",
+        17
+      ],
+      [
+        "economy south asia",
+        17
+      ],
+      [
+        "influenced british imperial",
+        16
+      ],
+      [
+        "american people century",
+        16
+      ],
+      [
+        "representations important explain",
+        16
+      ],
+      [
+        "important explain colonialism",
+        16
+      ],
+      [
+        "explain theory drain",
+        15
+      ],
+      [
+        "theory drain examples",
+        15
+      ],
+      [
+        "drain examples way",
+        15
+      ],
+      [
+        "examples way influenced",
+        15
+      ],
+      [
+        "way influenced british",
+        15
+      ],
+      [
+        "europeans depict african",
+        15
+      ],
+      [
+        "depict african native",
+        15
+      ],
+      [
+        "people century representations",
+        15
+      ],
+      [
+        "century representations important",
+        15
+      ],
+      [
+        "merchant networks relevant",
+        13
+      ],
+      [
+        "decolonization century atlantic",
+        13
+      ],
+      [
+        "networks relevant history",
+        12
+      ],
+      [
+        "relevant history empires",
+        12
+      ],
+      [
+        "century atlantic world",
+        12
+      ],
+      [
+        "history empires explain",
+        11
+      ],
+      [
+        "empires explain examples",
+        11
+      ],
+      [
+        "explain examples taken",
+        11
+      ],
+      [
+        "examples taken readings",
+        11
+      ],
+      [
+        "illustrate meanings decolonization",
+        11
+      ],
+      [
+        "meanings decolonization century",
+        11
+      ],
+      [
+        "atlantic world differentiate",
+        11
+      ]
+    ]
+  },
+  "DEIC_San": {
+    "top_words": [
+      [
+        "informal",
+        53
+      ],
+      [
+        "economy",
+        25
+      ],
+      [
+        "economic",
+        22
+      ],
+      [
+        "informality",
+        22
+      ],
+      [
+        "employment",
+        19
+      ],
+      [
+        "formal",
+        18
+      ],
+      [
+        "sector",
+        17
+      ],
+      [
+        "development",
+        13
+      ],
+      [
+        "income",
+        12
+      ],
+      [
+        "countries",
+        11
+      ],
+      [
+        "tax",
+        11
+      ],
+      [
+        "work",
+        11
+      ],
+      [
+        "ilo",
+        11
+      ],
+      [
+        "world",
+        10
+      ],
+      [
+        "source",
+        10
+      ],
+      [
+        "al",
+        10
+      ],
+      [
+        "institutions",
+        10
+      ],
+      [
+        "low",
+        9
+      ],
+      [
+        "figure",
+        9
+      ],
+      [
+        "poverty",
+        9
+      ],
+      [
+        "related",
+        9
+      ],
+      [
+        "elgin",
+        9
+      ],
+      [
+        "labor",
+        8
+      ],
+      [
+        "higher",
+        8
+      ],
+      [
+        "bank",
+        8
+      ],
+      [
+        "companies",
+        8
+      ],
+      [
+        "productivity",
+        7
+      ],
+      [
+        "social",
+        7
+      ],
+      [
+        "africa",
+        7
+      ],
+      [
+        "regions",
+        7
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "informal economy",
+        23
+      ],
+      [
+        "informal sector",
+        9
+      ],
+      [
+        "informal employment",
+        8
+      ],
+      [
+        "world bank",
+        7
+      ],
+      [
+        "formal sector",
+        6
+      ],
+      [
+        "et al",
+        6
+      ],
+      [
+        "la porta",
+        5
+      ],
+      [
+        "income neighborhoods",
+        5
+      ],
+      [
+        "economic agents",
+        5
+      ],
+      [
+        "source data",
+        5
+      ],
+      [
+        "porta shleifer",
+        4
+      ],
+      [
+        "share informal",
+        4
+      ],
+      [
+        "informal work",
+        4
+      ],
+      [
+        "data elgin",
+        4
+      ],
+      [
+        "elgin al",
+        4
+      ],
+      [
+        "latin america",
+        4
+      ],
+      [
+        "tax evasion",
+        3
+      ],
+      [
+        "value added",
+        3
+      ],
+      [
+        "asia pacific",
+        3
+      ],
+      [
+        "figure share",
+        3
+      ],
+      [
+        "employment total",
+        3
+      ],
+      [
+        "total employment",
+        3
+      ],
+      [
+        "latin american",
+        3
+      ],
+      [
+        "american countries",
+        3
+      ],
+      [
+        "low income",
+        3
+      ],
+      [
+        "higher income",
+        3
+      ],
+      [
+        "participation informal",
+        3
+      ],
+      [
+        "perry et",
+        3
+      ],
+      [
+        "formal institutions",
+        3
+      ],
+      [
+        "informal institutions",
+        3
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "la porta shleifer",
+        4
+      ],
+      [
+        "share informal employment",
+        4
+      ],
+      [
+        "source data elgin",
+        4
+      ],
+      [
+        "data elgin al",
+        4
+      ],
+      [
+        "figure share informal",
+        3
+      ],
+      [
+        "informal employment total",
+        3
+      ],
+      [
+        "employment total employment",
+        3
+      ],
+      [
+        "latin american countries",
+        3
+      ],
+      [
+        "participation informal economy",
+        3
+      ],
+      [
+        "perry et al",
+        3
+      ],
+      [
+        "elgin et al",
+        3
+      ],
+      [
+        "times source ilostat",
+        2
+      ],
+      [
+        "formal informal sector",
+        2
+      ],
+      [
+        "assume costs formalization",
+        2
+      ],
+      [
+        "costs formalization ilo",
+        2
+      ],
+      [
+        "low income neighborhoods",
+        2
+      ],
+      [
+        "income neighborhoods informal",
+        2
+      ],
+      [
+        "neighborhoods informal work",
+        2
+      ],
+      [
+        "higher income neighborhoods",
+        2
+      ],
+      [
+        "workers formal sector",
+        2
+      ],
+      [
+        "higher informal sector",
+        2
+      ],
+      [
+        "segmentation labor market",
+        2
+      ],
+      [
+        "micro small enterprises",
+        2
+      ],
+      [
+        "informal economy voluntary",
+        2
+      ],
+      [
+        "economic agents find",
+        2
+      ],
+      [
+        "tax morale tax",
+        2
+      ],
+      [
+        "regions source data",
+        2
+      ],
+      [
+        "economic freedom index",
+        2
+      ],
+      [
+        "tax burden labor",
+        2
+      ],
+      [
+        "social security contributions",
+        2
+      ]
+    ]
+  },
+  "ELClass_Zot": {
+    "top_words": [
+      [
+        "language",
+        54
+      ],
+      [
+        "person",
+        44
+      ],
+      [
+        "people",
+        39
+      ],
+      [
+        "disability",
+        38
+      ],
+      [
+        "example",
+        23
+      ],
+      [
+        "model",
+        20
+      ],
+      [
+        "describe",
+        19
+      ],
+      [
+        "examples",
+        18
+      ],
+      [
+        "different",
+        18
+      ],
+      [
+        "linguistic",
+        17
+      ],
+      [
+        "way",
+        17
+      ],
+      [
+        "sexism",
+        17
+      ],
+      [
+        "identified",
+        16
+      ],
+      [
+        "provide",
+        15
+      ],
+      [
+        "forms",
+        15
+      ],
+      [
+        "related",
+        13
+      ],
+      [
+        "community",
+        13
+      ],
+      [
+        "racist",
+        13
+      ],
+      [
+        "ethnolect",
+        13
+      ],
+      [
+        "discourse",
+        12
+      ],
+      [
+        "medical",
+        11
+      ],
+      [
+        "identity",
+        11
+      ],
+      [
+        "speak",
+        10
+      ],
+      [
+        "form",
+        10
+      ],
+      [
+        "van",
+        10
+      ],
+      [
+        "dijk",
+        10
+      ],
+      [
+        "use",
+        10
+      ],
+      [
+        "english",
+        9
+      ],
+      [
+        "strategies",
+        9
+      ],
+      [
+        "women",
+        9
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "provide examples",
+        13
+      ],
+      [
+        "racist discourse",
+        12
+      ],
+      [
+        "medical model",
+        11
+      ],
+      [
+        "van dijk",
+        10
+      ],
+      [
+        "linguistic strategies",
+        9
+      ],
+      [
+        "strategies identified",
+        8
+      ],
+      [
+        "identified forms",
+        8
+      ],
+      [
+        "identity language",
+        8
+      ],
+      [
+        "direct sexism",
+        7
+      ],
+      [
+        "model language",
+        6
+      ],
+      [
+        "related disability",
+        6
+      ],
+      [
+        "community practice",
+        6
+      ],
+      [
+        "language related",
+        5
+      ],
+      [
+        "disability shaped",
+        5
+      ],
+      [
+        "shaped past",
+        5
+      ],
+      [
+        "past provide",
+        5
+      ],
+      [
+        "describe linguistic",
+        5
+      ],
+      [
+        "forms racist",
+        5
+      ],
+      [
+        "discourse identified",
+        5
+      ],
+      [
+        "identified van",
+        5
+      ],
+      [
+        "examples ethnolect",
+        5
+      ],
+      [
+        "forms direct",
+        5
+      ],
+      [
+        "blind person",
+        5
+      ],
+      [
+        "disability person",
+        5
+      ],
+      [
+        "person language",
+        5
+      ],
+      [
+        "overt prestige",
+        4
+      ],
+      [
+        "dijk describe",
+        4
+      ],
+      [
+        "describe explain",
+        4
+      ],
+      [
+        "explain providing",
+        4
+      ],
+      [
+        "providing example",
+        4
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "linguistic strategies identified",
+        8
+      ],
+      [
+        "strategies identified forms",
+        6
+      ],
+      [
+        "model language related",
+        5
+      ],
+      [
+        "language related disability",
+        5
+      ],
+      [
+        "related disability shaped",
+        5
+      ],
+      [
+        "disability shaped past",
+        5
+      ],
+      [
+        "shaped past provide",
+        5
+      ],
+      [
+        "past provide examples",
+        5
+      ],
+      [
+        "describe linguistic strategies",
+        5
+      ],
+      [
+        "forms racist discourse",
+        5
+      ],
+      [
+        "racist discourse identified",
+        5
+      ],
+      [
+        "discourse identified van",
+        5
+      ],
+      [
+        "identified van dijk",
+        5
+      ],
+      [
+        "identified forms direct",
+        5
+      ],
+      [
+        "forms direct sexism",
+        5
+      ],
+      [
+        "van dijk describe",
+        4
+      ],
+      [
+        "dijk describe explain",
+        4
+      ],
+      [
+        "describe explain providing",
+        4
+      ],
+      [
+        "explain providing example",
+        4
+      ],
+      [
+        "ethnolect provide examples",
+        4
+      ],
+      [
+        "provide examples ethnolect",
+        4
+      ],
+      [
+        "describe medical model",
+        4
+      ],
+      [
+        "medical model language",
+        4
+      ],
+      [
+        "american african english",
+        3
+      ],
+      [
+        "van dijk identified",
+        3
+      ],
+      [
+        "sapir whorf hypothesis",
+        3
+      ],
+      [
+        "person identity language",
+        3
+      ],
+      [
+        "linguistic relativism according",
+        2
+      ],
+      [
+        "medical model social",
+        2
+      ],
+      [
+        "model social model",
+        2
+      ]
+    ]
+  },
+  "ELSPS_Zot": {
+    "top_words": [
+      [
+        "example",
+        71
+      ],
+      [
+        "persuasion",
+        51
+      ],
+      [
+        "model",
+        46
+      ],
+      [
+        "answer",
+        44
+      ],
+      [
+        "provide",
+        36
+      ],
+      [
+        "justify",
+        36
+      ],
+      [
+        "discourse",
+        33
+      ],
+      [
+        "describe",
+        28
+      ],
+      [
+        "defined",
+        28
+      ],
+      [
+        "question",
+        22
+      ],
+      [
+        "person",
+        22
+      ],
+      [
+        "face",
+        22
+      ],
+      [
+        "appeal",
+        21
+      ],
+      [
+        "speaker",
+        20
+      ],
+      [
+        "problem",
+        20
+      ],
+      [
+        "argumentation",
+        20
+      ],
+      [
+        "way",
+        20
+      ],
+      [
+        "argument",
+        19
+      ],
+      [
+        "solution",
+        19
+      ],
+      [
+        "word",
+        19
+      ],
+      [
+        "political",
+        18
+      ],
+      [
+        "people",
+        17
+      ],
+      [
+        "authority",
+        16
+      ],
+      [
+        "words",
+        16
+      ],
+      [
+        "define",
+        16
+      ],
+      [
+        "irony",
+        16
+      ],
+      [
+        "power",
+        15
+      ],
+      [
+        "sarcasm",
+        14
+      ],
+      [
+        "evaluation",
+        13
+      ],
+      [
+        "questions",
+        13
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "justify answer",
+        35
+      ],
+      [
+        "provide example",
+        33
+      ],
+      [
+        "example justify",
+        33
+      ],
+      [
+        "describe model",
+        19
+      ],
+      [
+        "model persuasion",
+        19
+      ],
+      [
+        "model argumentation",
+        16
+      ],
+      [
+        "persuasion defined",
+        14
+      ],
+      [
+        "argumentation defined",
+        12
+      ],
+      [
+        "political discourse",
+        12
+      ],
+      [
+        "answer model",
+        11
+      ],
+      [
+        "persuasion appeal",
+        11
+      ],
+      [
+        "institutional discourse",
+        10
+      ],
+      [
+        "tu quoque",
+        10
+      ],
+      [
+        "problem solution",
+        9
+      ],
+      [
+        "slippery slope",
+        8
+      ],
+      [
+        "comparison contrast",
+        8
+      ],
+      [
+        "appeal authority",
+        7
+      ],
+      [
+        "appeal emotions",
+        7
+      ],
+      [
+        "binary opposition",
+        7
+      ],
+      [
+        "boo words",
+        7
+      ],
+      [
+        "denotational meaning",
+        6
+      ],
+      [
+        "competence face",
+        6
+      ],
+      [
+        "hypothesis evidence",
+        6
+      ],
+      [
+        "evidence explanation",
+        6
+      ],
+      [
+        "appeals rhetoric",
+        6
+      ],
+      [
+        "sarcasm political",
+        6
+      ],
+      [
+        "ad hominem",
+        6
+      ],
+      [
+        "negative evaluation",
+        5
+      ],
+      [
+        "meaning word",
+        5
+      ],
+      [
+        "affective face",
+        5
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "provide example justify",
+        33
+      ],
+      [
+        "example justify answer",
+        33
+      ],
+      [
+        "model persuasion defined",
+        14
+      ],
+      [
+        "describe model persuasion",
+        12
+      ],
+      [
+        "model argumentation defined",
+        12
+      ],
+      [
+        "justify answer model",
+        11
+      ],
+      [
+        "describe model argumentation",
+        7
+      ],
+      [
+        "hypothesis evidence explanation",
+        6
+      ],
+      [
+        "sarcasm political discourse",
+        6
+      ],
+      [
+        "basic appeals rhetoric",
+        5
+      ],
+      [
+        "persuasion defined appeal",
+        4
+      ],
+      [
+        "defined appeal authority",
+        4
+      ],
+      [
+        "persuasion defined problem",
+        4
+      ],
+      [
+        "defined problem solution",
+        4
+      ],
+      [
+        "argumentation defined slippery",
+        4
+      ],
+      [
+        "defined slippery slope",
+        4
+      ],
+      [
+        "denotational meaning word",
+        4
+      ],
+      [
+        "appeals rhetoric identified",
+        4
+      ],
+      [
+        "rhetoric identified aristotle",
+        4
+      ],
+      [
+        "persuasion appeal reason",
+        4
+      ],
+      [
+        "persuasion appeal emotions",
+        4
+      ],
+      [
+        "hooray boo words",
+        4
+      ],
+      [
+        "appeal authority provide",
+        3
+      ],
+      [
+        "authority provide example",
+        3
+      ],
+      [
+        "problem solution provide",
+        3
+      ],
+      [
+        "solution provide example",
+        3
+      ],
+      [
+        "define model argumentation",
+        3
+      ],
+      [
+        "slippery slope provide",
+        3
+      ],
+      [
+        "slope provide example",
+        3
+      ],
+      [
+        "usually negative evaluation",
+        3
+      ]
+    ]
+  },
+  "EOK_Geu": {
+    "top_words": [
+      [
+        "hub",
+        111
+      ],
+      [
+        "sci",
+        110
+      ],
+      [
+        "countries",
+        108
+      ],
+      [
+        "innovation",
+        101
+      ],
+      [
+        "research",
+        91
+      ],
+      [
+        "access",
+        81
+      ],
+      [
+        "knowledge",
+        81
+      ],
+      [
+        "migration",
+        73
+      ],
+      [
+        "industry",
+        67
+      ],
+      [
+        "use",
+        60
+      ],
+      [
+        "scientific",
+        58
+      ],
+      [
+        "university",
+        58
+      ],
+      [
+        "high",
+        56
+      ],
+      [
+        "et",
+        54
+      ],
+      [
+        "al",
+        54
+      ],
+      [
+        "brain",
+        52
+      ],
+      [
+        "skilled",
+        50
+      ],
+      [
+        "drain",
+        44
+      ],
+      [
+        "firms",
+        43
+      ],
+      [
+        "model",
+        42
+      ],
+      [
+        "country",
+        40
+      ],
+      [
+        "women",
+        39
+      ],
+      [
+        "higher",
+        38
+      ],
+      [
+        "science",
+        37
+      ],
+      [
+        "education",
+        37
+      ],
+      [
+        "firm",
+        36
+      ],
+      [
+        "literature",
+        35
+      ],
+      [
+        "different",
+        35
+      ],
+      [
+        "female",
+        34
+      ],
+      [
+        "journal",
+        32
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "sci hub",
+        110
+      ],
+      [
+        "et al",
+        54
+      ],
+      [
+        "brain drain",
+        44
+      ],
+      [
+        "skilled migration",
+        25
+      ],
+      [
+        "developing countries",
+        23
+      ],
+      [
+        "high skilled",
+        23
+      ],
+      [
+        "shadow libraries",
+        20
+      ],
+      [
+        "university industry",
+        19
+      ],
+      [
+        "journal publishing",
+        15
+      ],
+      [
+        "use sci",
+        14
+      ],
+      [
+        "access scientific",
+        13
+      ],
+      [
+        "open access",
+        13
+      ],
+      [
+        "female brain",
+        13
+      ],
+      [
+        "highly skilled",
+        13
+      ],
+      [
+        "higher education",
+        12
+      ],
+      [
+        "technological capabilities",
+        12
+      ],
+      [
+        "human capital",
+        11
+      ],
+      [
+        "secondary enrolment",
+        11
+      ],
+      [
+        "origin countries",
+        11
+      ],
+      [
+        "regions europe",
+        11
+      ],
+      [
+        "scientific literature",
+        10
+      ],
+      [
+        "emigration rates",
+        10
+      ],
+      [
+        "different regions",
+        10
+      ],
+      [
+        "industry relationships",
+        10
+      ],
+      [
+        "scientific journal",
+        9
+      ],
+      [
+        "access use",
+        9
+      ],
+      [
+        "pull factors",
+        9
+      ],
+      [
+        "main indicators",
+        9
+      ],
+      [
+        "measure technological",
+        9
+      ],
+      [
+        "capabilities different",
+        9
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "high skilled migration",
+        17
+      ],
+      [
+        "use sci hub",
+        14
+      ],
+      [
+        "female brain drain",
+        13
+      ],
+      [
+        "different regions europe",
+        10
+      ],
+      [
+        "university industry relationships",
+        10
+      ],
+      [
+        "scientific journal publishing",
+        9
+      ],
+      [
+        "technological capabilities different",
+        9
+      ],
+      [
+        "capabilities different regions",
+        9
+      ],
+      [
+        "sci hub scientific",
+        8
+      ],
+      [
+        "docquier et al",
+        8
+      ],
+      [
+        "measure technological capabilities",
+        8
+      ],
+      [
+        "econometric analysis university",
+        8
+      ],
+      [
+        "analysis university industry",
+        8
+      ],
+      [
+        "access scientific literature",
+        7
+      ],
+      [
+        "access use sci",
+        7
+      ],
+      [
+        "push pull factors",
+        7
+      ],
+      [
+        "examples use measure",
+        7
+      ],
+      [
+        "use measure technological",
+        7
+      ],
+      [
+        "industries model dominant",
+        7
+      ],
+      [
+        "hub scientific journal",
+        6
+      ],
+      [
+        "female high skilled",
+        6
+      ],
+      [
+        "brücker et al",
+        6
+      ],
+      [
+        "describe main indicators",
+        6
+      ],
+      [
+        "main indicators examples",
+        6
+      ],
+      [
+        "indicators examples use",
+        6
+      ],
+      [
+        "explain econometric analysis",
+        6
+      ],
+      [
+        "industry relationships define",
+        6
+      ],
+      [
+        "relationships define dependent",
+        6
+      ],
+      [
+        "define dependent independent",
+        6
+      ],
+      [
+        "dependent independent variables",
+        6
+      ]
+    ]
+  },
+  "GLD_Gog": {
+    "top_words": [
+      [
+        "development",
+        110
+      ],
+      [
+        "ngos",
+        65
+      ],
+      [
+        "article",
+        50
+      ],
+      [
+        "sdgs",
+        40
+      ],
+      [
+        "authors",
+        39
+      ],
+      [
+        "global",
+        36
+      ],
+      [
+        "countries",
+        36
+      ],
+      [
+        "interdisciplinarity",
+        33
+      ],
+      [
+        "studies",
+        30
+      ],
+      [
+        "human",
+        29
+      ],
+      [
+        "foreign",
+        28
+      ],
+      [
+        "paper",
+        27
+      ],
+      [
+        "anthropocene",
+        26
+      ],
+      [
+        "new",
+        23
+      ],
+      [
+        "research",
+        23
+      ],
+      [
+        "law",
+        23
+      ],
+      [
+        "goals",
+        22
+      ],
+      [
+        "risk",
+        21
+      ],
+      [
+        "state",
+        21
+      ],
+      [
+        "example",
+        20
+      ],
+      [
+        "main",
+        20
+      ],
+      [
+        "different",
+        19
+      ],
+      [
+        "finance",
+        19
+      ],
+      [
+        "environmental",
+        18
+      ],
+      [
+        "world",
+        18
+      ],
+      [
+        "years",
+        18
+      ],
+      [
+        "organizations",
+        18
+      ],
+      [
+        "russia",
+        18
+      ],
+      [
+        "indicators",
+        17
+      ],
+      [
+        "agents",
+        17
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "development studies",
+        21
+      ],
+      [
+        "foreign agents",
+        17
+      ],
+      [
+        "anthropocene risk",
+        15
+      ],
+      [
+        "sustainable development",
+        10
+      ],
+      [
+        "civil society",
+        10
+      ],
+      [
+        "agents law",
+        10
+      ],
+      [
+        "development goals",
+        8
+      ],
+      [
+        "united nations",
+        8
+      ],
+      [
+        "human rights",
+        8
+      ],
+      [
+        "non governmental",
+        7
+      ],
+      [
+        "authoritarian regimes",
+        7
+      ],
+      [
+        "applicative implications",
+        6
+      ],
+      [
+        "interdisciplinarity development",
+        6
+      ],
+      [
+        "ruth haug",
+        6
+      ],
+      [
+        "nations un",
+        6
+      ],
+      [
+        "russian ngos",
+        6
+      ],
+      [
+        "survival strategies",
+        6
+      ],
+      [
+        "environmental changes",
+        5
+      ],
+      [
+        "case studies",
+        5
+      ],
+      [
+        "developed countries",
+        5
+      ],
+      [
+        "implementation monitoring",
+        5
+      ],
+      [
+        "georgeson maslin",
+        5
+      ],
+      [
+        "new york",
+        5
+      ],
+      [
+        "russia kazakhstan",
+        5
+      ],
+      [
+        "activities ngos",
+        5
+      ],
+      [
+        "human environment",
+        4
+      ],
+      [
+        "human activity",
+        4
+      ],
+      [
+        "cross scale",
+        4
+      ],
+      [
+        "anthropocene risks",
+        4
+      ],
+      [
+        "systemic risks",
+        4
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "foreign agents law",
+        10
+      ],
+      [
+        "interdisciplinarity development studies",
+        6
+      ],
+      [
+        "united nations un",
+        6
+      ],
+      [
+        "sustainable development goals",
+        4
+      ],
+      [
+        "elisabeth molteberg cassandra",
+        4
+      ],
+      [
+        "molteberg cassandra bergstrøm",
+        4
+      ],
+      [
+        "cassandra bergstrøm ruth",
+        4
+      ],
+      [
+        "bergstrøm ruth haug",
+        4
+      ],
+      [
+        "non governmental organizations",
+        4
+      ],
+      [
+        "millennium development goals",
+        4
+      ],
+      [
+        "implementation monitoring finance",
+        4
+      ],
+      [
+        "un statistical commission",
+        4
+      ],
+      [
+        "new york ny",
+        4
+      ],
+      [
+        "york ny united",
+        4
+      ],
+      [
+        "development studies myths",
+        3
+      ],
+      [
+        "studies myths realities",
+        3
+      ],
+      [
+        "sahel sudan ethiopia",
+        3
+      ],
+      [
+        "sudan ethiopia programme",
+        3
+      ],
+      [
+        "ny united nations",
+        3
+      ],
+      [
+        "russian ngos struggle",
+        3
+      ],
+      [
+        "human environment interactions",
+        2
+      ],
+      [
+        "current global risk",
+        2
+      ],
+      [
+        "global risk framework",
+        2
+      ],
+      [
+        "biome migration sahel",
+        2
+      ],
+      [
+        "migration sahel sea",
+        2
+      ],
+      [
+        "sahel sea level",
+        2
+      ],
+      [
+        "sea level rise",
+        2
+      ],
+      [
+        "level rise coastal",
+        2
+      ],
+      [
+        "rise coastal cities",
+        2
+      ],
+      [
+        "strengths article article",
+        2
+      ]
+    ]
+  },
+  "NAL_Car": {
+    "top_words": [
+      [
+        "american",
+        78
+      ],
+      [
+        "individualism",
+        55
+      ],
+      [
+        "murray",
+        36
+      ],
+      [
+        "self",
+        36
+      ],
+      [
+        "government",
+        35
+      ],
+      [
+        "individual",
+        31
+      ],
+      [
+        "myth",
+        28
+      ],
+      [
+        "reliance",
+        26
+      ],
+      [
+        "america",
+        23
+      ],
+      [
+        "society",
+        23
+      ],
+      [
+        "families",
+        22
+      ],
+      [
+        "culture",
+        22
+      ],
+      [
+        "family",
+        21
+      ],
+      [
+        "order",
+        19
+      ],
+      [
+        "article",
+        18
+      ],
+      [
+        "thoreau",
+        16
+      ],
+      [
+        "melting",
+        16
+      ],
+      [
+        "pot",
+        16
+      ],
+      [
+        "essay",
+        15
+      ],
+      [
+        "state",
+        15
+      ],
+      [
+        "system",
+        15
+      ],
+      [
+        "people",
+        14
+      ],
+      [
+        "americans",
+        14
+      ],
+      [
+        "author",
+        14
+      ],
+      [
+        "freedom",
+        14
+      ],
+      [
+        "independence",
+        13
+      ],
+      [
+        "claims",
+        13
+      ],
+      [
+        "work",
+        12
+      ],
+      [
+        "life",
+        12
+      ],
+      [
+        "bellah",
+        12
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "self reliance",
+        22
+      ],
+      [
+        "melting pot",
+        16
+      ],
+      [
+        "american individualism",
+        11
+      ],
+      [
+        "american families",
+        10
+      ],
+      [
+        "myth independent",
+        9
+      ],
+      [
+        "independent american",
+        9
+      ],
+      [
+        "american culture",
+        8
+      ],
+      [
+        "american system",
+        8
+      ],
+      [
+        "individual freedom",
+        8
+      ],
+      [
+        "resistance civil",
+        7
+      ],
+      [
+        "civil government",
+        7
+      ],
+      [
+        "stephanie murray",
+        6
+      ],
+      [
+        "individualism self",
+        6
+      ],
+      [
+        "united states",
+        6
+      ],
+      [
+        "american dream",
+        6
+      ],
+      [
+        "junot diaz",
+        5
+      ],
+      [
+        "review myth",
+        4
+      ],
+      [
+        "american life",
+        4
+      ],
+      [
+        "government best",
+        4
+      ],
+      [
+        "best governs",
+        4
+      ],
+      [
+        "american society",
+        4
+      ],
+      [
+        "robert bellah",
+        4
+      ],
+      [
+        "heike paul",
+        4
+      ],
+      [
+        "glazer moynihan",
+        4
+      ],
+      [
+        "system hoover",
+        4
+      ],
+      [
+        "families stephanie",
+        3
+      ],
+      [
+        "individualism commitment",
+        3
+      ],
+      [
+        "commitment american",
+        3
+      ],
+      [
+        "spirit capitalism",
+        3
+      ],
+      [
+        "core american",
+        3
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "myth independent american",
+        9
+      ],
+      [
+        "independent american families",
+        9
+      ],
+      [
+        "resistance civil government",
+        7
+      ],
+      [
+        "individualism self reliance",
+        5
+      ],
+      [
+        "review myth independent",
+        4
+      ],
+      [
+        "government best governs",
+        4
+      ],
+      [
+        "american system hoover",
+        4
+      ],
+      [
+        "american families stephanie",
+        3
+      ],
+      [
+        "families stephanie murray",
+        3
+      ],
+      [
+        "individualism commitment american",
+        3
+      ],
+      [
+        "commitment american life",
+        3
+      ],
+      [
+        "americans confused individualism",
+        3
+      ],
+      [
+        "american individualism myth",
+        3
+      ],
+      [
+        "e pluribus unum",
+        3
+      ],
+      [
+        "idea melting pot",
+        3
+      ],
+      [
+        "civil government thoreau",
+        3
+      ],
+      [
+        "culture self reliance",
+        2
+      ],
+      [
+        "profoundly un american",
+        2
+      ],
+      [
+        "habits heart individualism",
+        2
+      ],
+      [
+        "points profound ambivalence",
+        2
+      ],
+      [
+        "confused individualism antistatism",
+        2
+      ],
+      [
+        "stephanie murray topic",
+        2
+      ],
+      [
+        "murray topic essay",
+        2
+      ],
+      [
+        "topic essay american",
+        2
+      ],
+      [
+        "european point view",
+        2
+      ],
+      [
+        "ralph waldo emerson",
+        2
+      ],
+      [
+        "stephanie murray article",
+        2
+      ],
+      [
+        "autonomy self reliance",
+        2
+      ],
+      [
+        "pluribus unum myth",
+        2
+      ],
+      [
+        "unum myth melting",
+        2
+      ]
+    ]
+  },
+  "NAL_DiL": {
+    "top_words": [
+      [
+        "passage",
+        39
+      ],
+      [
+        "white",
+        35
+      ],
+      [
+        "life",
+        31
+      ],
+      [
+        "black",
+        29
+      ],
+      [
+        "man",
+        22
+      ],
+      [
+        "like",
+        22
+      ],
+      [
+        "mercy",
+        22
+      ],
+      [
+        "girl",
+        20
+      ],
+      [
+        "read",
+        19
+      ],
+      [
+        "pride",
+        19
+      ],
+      [
+        "novel",
+        19
+      ],
+      [
+        "person",
+        19
+      ],
+      [
+        "slave",
+        18
+      ],
+      [
+        "reader",
+        18
+      ],
+      [
+        "master",
+        17
+      ],
+      [
+        "ah",
+        16
+      ],
+      [
+        "narrative",
+        14
+      ],
+      [
+        "written",
+        14
+      ],
+      [
+        "voice",
+        13
+      ],
+      [
+        "harriet",
+        13
+      ],
+      [
+        "published",
+        13
+      ],
+      [
+        "good",
+        13
+      ],
+      [
+        "people",
+        13
+      ],
+      [
+        "morrison",
+        13
+      ],
+      [
+        "jacobs",
+        13
+      ],
+      [
+        "family",
+        13
+      ],
+      [
+        "author",
+        12
+      ],
+      [
+        "period",
+        12
+      ],
+      [
+        "book",
+        12
+      ],
+      [
+        "way",
+        12
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "toni morrison",
+        11
+      ],
+      [
+        "phillis wheatley",
+        10
+      ],
+      [
+        "narrative voice",
+        9
+      ],
+      [
+        "slave girl",
+        9
+      ],
+      [
+        "harriet jacobs",
+        9
+      ],
+      [
+        "pay attention",
+        7
+      ],
+      [
+        "incidents life",
+        7
+      ],
+      [
+        "life slave",
+        7
+      ],
+      [
+        "white person",
+        7
+      ],
+      [
+        "read following",
+        6
+      ],
+      [
+        "following passages",
+        6
+      ],
+      [
+        "passages identify",
+        6
+      ],
+      [
+        "identify work",
+        6
+      ],
+      [
+        "work excerpted",
+        6
+      ],
+      [
+        "excerpted relevant",
+        6
+      ],
+      [
+        "relevant information",
+        6
+      ],
+      [
+        "information title",
+        6
+      ],
+      [
+        "title author",
+        6
+      ],
+      [
+        "author period",
+        6
+      ],
+      [
+        "period publication",
+        6
+      ],
+      [
+        "publication provide",
+        6
+      ],
+      [
+        "provide close",
+        6
+      ],
+      [
+        "close reading",
+        6
+      ],
+      [
+        "reading passage",
+        6
+      ],
+      [
+        "passage pay",
+        6
+      ],
+      [
+        "attention figurative",
+        6
+      ],
+      [
+        "figurative language",
+        6
+      ],
+      [
+        "language recurrent",
+        6
+      ],
+      [
+        "recurrent images",
+        6
+      ],
+      [
+        "images metaphors",
+        6
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "incidents life slave",
+        7
+      ],
+      [
+        "life slave girl",
+        7
+      ],
+      [
+        "read following passages",
+        6
+      ],
+      [
+        "following passages identify",
+        6
+      ],
+      [
+        "passages identify work",
+        6
+      ],
+      [
+        "identify work excerpted",
+        6
+      ],
+      [
+        "work excerpted relevant",
+        6
+      ],
+      [
+        "excerpted relevant information",
+        6
+      ],
+      [
+        "relevant information title",
+        6
+      ],
+      [
+        "information title author",
+        6
+      ],
+      [
+        "title author period",
+        6
+      ],
+      [
+        "author period publication",
+        6
+      ],
+      [
+        "period publication provide",
+        6
+      ],
+      [
+        "publication provide close",
+        6
+      ],
+      [
+        "provide close reading",
+        6
+      ],
+      [
+        "close reading passage",
+        6
+      ],
+      [
+        "reading passage pay",
+        6
+      ],
+      [
+        "passage pay attention",
+        6
+      ],
+      [
+        "pay attention figurative",
+        6
+      ],
+      [
+        "attention figurative language",
+        6
+      ],
+      [
+        "figurative language recurrent",
+        6
+      ],
+      [
+        "language recurrent images",
+        6
+      ],
+      [
+        "recurrent images metaphors",
+        6
+      ],
+      [
+        "images metaphors symbols",
+        6
+      ],
+      [
+        "metaphors symbols irony",
+        6
+      ],
+      [
+        "symbols irony etc",
+        6
+      ],
+      [
+        "irony etc choice",
+        6
+      ],
+      [
+        "etc choice words",
+        6
+      ],
+      [
+        "choice words narrative",
+        6
+      ],
+      [
+        "words narrative voice",
+        6
+      ]
+    ]
+  },
+  "SCSA_Bon": {
+    "top_words": [
+      [
+        "reaction",
+        418
+      ],
+      [
+        "band",
+        331
+      ],
+      [
+        "reactions",
+        208
+      ],
+      [
+        "gap",
+        186
+      ],
+      [
+        "material",
+        175
+      ],
+      [
+        "energy",
+        170
+      ],
+      [
+        "bioconjugation",
+        166
+      ],
+      [
+        "catalyst",
+        160
+      ],
+      [
+        "describe",
+        152
+      ],
+      [
+        "c",
+        152
+      ],
+      [
+        "groups",
+        128
+      ],
+      [
+        "bond",
+        119
+      ],
+      [
+        "pd",
+        113
+      ],
+      [
+        "polymers",
+        112
+      ],
+      [
+        "semiconductor",
+        109
+      ],
+      [
+        "conductivity",
+        109
+      ],
+      [
+        "solar",
+        108
+      ],
+      [
+        "polymer",
+        107
+      ],
+      [
+        "example",
+        105
+      ],
+      [
+        "metal",
+        102
+      ],
+      [
+        "use",
+        102
+      ],
+      [
+        "temperature",
+        97
+      ],
+      [
+        "form",
+        95
+      ],
+      [
+        "palladium",
+        91
+      ],
+      [
+        "nm",
+        90
+      ],
+      [
+        "general",
+        89
+      ],
+      [
+        "high",
+        87
+      ],
+      [
+        "n",
+        85
+      ],
+      [
+        "cycle",
+        81
+      ],
+      [
+        "different",
+        80
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "band gap",
+        165
+      ],
+      [
+        "graphic representation",
+        68
+      ],
+      [
+        "c n",
+        67
+      ],
+      [
+        "describe bioconjugation",
+        66
+      ],
+      [
+        "micellar catalysis",
+        64
+      ],
+      [
+        "functional groups",
+        61
+      ],
+      [
+        "metal semiconductor",
+        57
+      ],
+      [
+        "general aspects",
+        53
+      ],
+      [
+        "describe general",
+        51
+      ],
+      [
+        "form c",
+        51
+      ],
+      [
+        "representation follows",
+        51
+      ],
+      [
+        "bioconjugation reaction",
+        46
+      ],
+      [
+        "primary amine",
+        46
+      ],
+      [
+        "cross coupling",
+        43
+      ],
+      [
+        "gap material",
+        42
+      ],
+      [
+        "conduction band",
+        41
+      ],
+      [
+        "ps pdt",
+        41
+      ],
+      [
+        "catalytic cycle",
+        39
+      ],
+      [
+        "advantages disadvantages",
+        37
+      ],
+      [
+        "band band",
+        37
+      ],
+      [
+        "reaction primary",
+        37
+      ],
+      [
+        "c c",
+        37
+      ],
+      [
+        "aspects palladium",
+        36
+      ],
+      [
+        "catalysed reactions",
+        36
+      ],
+      [
+        "example catalytic",
+        36
+      ],
+      [
+        "involved reaction",
+        36
+      ],
+      [
+        "valence band",
+        35
+      ],
+      [
+        "reactions occur",
+        35
+      ],
+      [
+        "needed fluorophore",
+        35
+      ],
+      [
+        "palladium catalysed",
+        35
+      ]
+    ],
+    "top_trigrams": [
+      [
+        "graphic representation follows",
+        50
+      ],
+      [
+        "describe general aspects",
+        49
+      ],
+      [
+        "form c n",
+        44
+      ],
+      [
+        "band gap material",
+        42
+      ],
+      [
+        "example catalytic cycle",
+        36
+      ],
+      [
+        "bioconjugation reaction primary",
+        35
+      ],
+      [
+        "general aspects palladium",
+        35
+      ],
+      [
+        "palladium catalysed reactions",
+        35
+      ],
+      [
+        "reaction primary amine",
+        34
+      ],
+      [
+        "aspects palladium catalysed",
+        34
+      ],
+      [
+        "main steps cycle",
+        34
+      ],
+      [
+        "carbon nitrogen bond",
+        34
+      ],
+      [
+        "describe bioconjugation kind",
+        33
+      ],
+      [
+        "bioconjugation kind applications",
+        33
+      ],
+      [
+        "kind applications useful",
+        33
+      ],
+      [
+        "applications useful describe",
+        33
+      ],
+      [
+        "useful describe bioconjugation",
+        33
+      ],
+      [
+        "describe bioconjugation reaction",
+        33
+      ],
+      [
+        "primary amine ii",
+        33
+      ],
+      [
+        "amine ii thiol",
+        33
+      ],
+      [
+        "ii thiol reactions",
+        33
+      ],
+      [
+        "thiol reactions occur",
+        33
+      ],
+      [
+        "reactions occur functional",
+        33
+      ],
+      [
+        "occur functional groups",
+        33
+      ],
+      [
+        "functional groups needed",
+        33
+      ],
+      [
+        "groups needed fluorophore",
+        33
+      ],
+      [
+        "catalysed reactions example",
+        33
+      ],
+      [
+        "reactions example catalytic",
+        33
+      ],
+      [
+        "catalytic cycle describe",
+        33
+      ],
+      [
+        "cycle describe main",
+        33
+      ]
+    ]
+  }
+}

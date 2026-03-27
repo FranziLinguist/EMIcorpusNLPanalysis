@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: could
+[TEXT]   In addition to issues of poverty, declining social development and general inequalities, Nigeria are facing another important problem that, if resolved, could not only change the economic flow of the country but also give a cultural reset to achieve more equity and independence for women and other marginalized groups: the lack of education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Modale: could
+[TEXT]   There have been concerns that China is using its technological assistance as a way to gain access to data and information about African citizens, which could be used for political purposes.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: could
+[TEXT]   They created in Cape, future Cape Town, a secure base camp where passing ships could be repaired and resupplied.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: could
+[TEXT]   Approximately 700.000 South Africans verbally abused (shouted at or teased) gender non-conforming people and eventually, three million of them estimate that they could harm transgender people in the future22.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: could
+[TEXT]   This prejudice was especially prevalent when thinking about the potential sexual threat that transgender people could present to white women when they were in the same room with them.
+

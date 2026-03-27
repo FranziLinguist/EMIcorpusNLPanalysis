@@ -1,0 +1,12 @@
+======================================================================
+  TOPIC MODELING LDA  –  CORPUS
+======================================================================
+
+Topic  0: example, model, person, provide, define, describe, discourse, persuasion, people, answer
+Topic  1: woman, hub, sci, access, india, education, country, british, colonial, scientific
+Topic  2: company, shareholder, market, strategy, price, interest, financial, share, firm, position
+Topic  3: development, industry, firm, university, innovation, example, ngos, research, informal, government
+Topic  4: country, migration, high, brain, drain, skilled, people, modernity, native, woman
+Topic  5: development, country, passage, way, indicator, investment, like, africa, life, global
+Topic  6: reaction, band, material, polymer, group, gap, catalyst, energy, bioconjugation, describe
+Topic  7: africa, country, african, people, food, global, world, social, economic, globalization

@@ -1,0 +1,22 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Frase più complessa
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P46_P47.docx
+[LABEL]  Frase più complessa
+[TEXT]   In areas that lack internet access and phone signals, authorities conserve control via considerable systems of ‘informants’ that replace surveillance technologies, which leads people in these areas to consider phones as well as the internet as a new technique imposed by the government to control and spy over them even more.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Frase più complessa
+[TEXT]   As far as acceptance and inclusion are concerned, the last few words uttered in the interview could be representative: “I think there are two schools of thought, the first one is that we live in South African constitutional democracy, so at the base of it, ultimately, we need to respect everyone’s human rights and not try to impede or violate anyone on that, but at a social level, it’s about learning, it’s about respecting one another and seeing one another the very human and, at a very basic level, to say I see you, you see me, I respect you, you respect me and that’s what it’s all about”.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P51_P52.docx
+[LABEL]  Frase più complessa
+[TEXT]   The song is in fact talking about an Ethiopian woman (Faccetta Nera) who is a beautiful slave among the slaves, who will be governed by the “Blackshirts” becoming a “Blackshirt” herself.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P53_P171.docx
+[LABEL]  Frase più complessa
+[TEXT]   Hence, there is growing evidence that the urban poor, especially those in Africa, are particularly vulnerable to nutrition insecurity, resulting from the combination of a myriad of factors, ranging from the nature of urban foodscapes and lifestyle changes resulting in unhealthy behaviors, to the limited options of available, accessible and nutritious food of quality, limited cooking resources or storage capacity, and challenges of reduced productivity brought on by climate change, environmental degradation, and access to land, among others.
+

@@ -1,0 +1,21 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: source_attribution (soggetto: 'paper')
+[TEXT]   By answering the question “How easy is it for women in Nigeria to access and conclude a study?”, the paper will give first an introduction to the geographical, economic, and social context of the country; then, deeply examine the relationship between Nigerian women and education through time.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: source_attribution (soggetto: 'paper')
+[TEXT]   Finally, the paper will show examples of successful stories that help to see a concrete cycle of helping educate.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: source_attribution (soggetto: 'paper')
+[TEXT]   The paper will first examine the historical trends and transformations regarding the relationship between education and women in Nigeria, analysing the obstacles and barriers that still today hinder girls' and women’s access to education.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: source_attribution (soggetto: 'paper')
+[TEXT]   The paper aspires to demonstrate the positive effects of women’s education and its impact on Nigerian society.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: source_attribution (soggetto: 'Education')
+[TEXT]   Education and women in Nigeria
+Education is a fundamental tool for the individual empowerment of any person.
+

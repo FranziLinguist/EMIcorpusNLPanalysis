@@ -1,0 +1,12 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx
+[LABEL]  Modale: shall
+[TEXT]   Legislators ruling over service provision in different countries can either follow (i) the host country legislation, where the company shall abide to company laws of the country in which the service is provided; (ii) home-country legislation, where the company abide to the legislation of the registered office’s country; and (iii) harmonization strategies, where different countries find common grounds so that companies can provide services in several countries following a single legislation.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx
+[LABEL]  Modale: shall
+[TEXT]   This process of harmonization is mainly done through regulations and directives which each market member states shall directly (in the first case) adopt or making it into law (for the second case).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Pollastro CILE_TRASCRIZIONI/CILE_Pol_AS2_P123.docx
+[LABEL]  Modale: shall
+[TEXT]   When they are listed, they shall provide financial statements respecting the IFRS standards and still abide to all the other standards needed to stay listed.
+

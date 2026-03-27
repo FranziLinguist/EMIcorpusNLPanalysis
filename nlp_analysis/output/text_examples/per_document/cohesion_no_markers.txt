@@ -1,0 +1,29 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentences 5–9)
+[LABEL]  Passaggio senza connettivi (5 frasi)
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon. Located in West Africa, Nigeria is one of the countries with the largest populations in the world. With over 211, 4 million citizens, the state …
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentences 5–10)
+[LABEL]  Passaggio senza connettivi (6 frasi)
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon. Located in West Africa, Nigeria is one of the countries with the largest populations in the world. With over 211, 4 million citizens, the state …
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentences 5–11)
+[LABEL]  Passaggio senza connettivi (7 frasi)
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon. Located in West Africa, Nigeria is one of the countries with the largest populations in the world. With over 211, 4 million citizens, the state …
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentences 5–12)
+[LABEL]  Passaggio senza connettivi (8 frasi)
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon. Located in West Africa, Nigeria is one of the countries with the largest populations in the world. With over 211, 4 million citizens, the state …
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx (sentences 28–32)
+[LABEL]  Passaggio senza connettivi (5 frasi)
+[TEXT]   A few interesting cases of women fighting for their rights give hope for future gains in this field. Some recommendations are offered in the conclusion. Education and women in Nigeria
+Education is a fundamental tool for the individual empowerment of any person. More specifically, education is defined as “the processes by which a child or young adult (male or female) develops the abilities, attitud…
+

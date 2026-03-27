@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: impersonal (soggetto: 'it')
+[TEXT]   Next, it will explain the employment situation and job opportunities characterizing women linking it to the topic of migration.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: impersonal (soggetto: 'It')
+[TEXT]   It is a process through which a person acquires knowledge, skills, habits, and values that enable him to function effectively as a member of the society.”
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: impersonal (soggetto: 'it')
+[TEXT]   Among these, it is worth mentioning the “National Policy on Women” (2001), the “Education for All Fast-track Initiative” (2002), and the “Strategy for Acceleration of Girls Education in Nigeria” (2003).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: impersonal (soggetto: 'it')
+[TEXT]   While it is near to 61% the intellectual poverty for women (Ojuolape, 2000).
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: impersonal (soggetto: 'it')
+[TEXT]   As the study ‘Barriers to Equality of Access to Educational Opportunity in Nigeria: A Philosophical Perspective’ (Nwogu, 2015) underlines, it must be acknowledged here the presence of economic barriers, which make the costs of education unaffordable for the government and consequently there is a constant lack of adequate infrastructure and facilities; this makes it impossible to admit everyone to have access in the schools or universities.
+

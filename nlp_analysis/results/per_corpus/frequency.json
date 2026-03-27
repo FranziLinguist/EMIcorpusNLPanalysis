@@ -1,0 +1,368 @@
+{
+  "top_words": [
+    [
+      "reaction",
+      420
+    ],
+    [
+      "africa",
+      381
+    ],
+    [
+      "example",
+      370
+    ],
+    [
+      "people",
+      369
+    ],
+    [
+      "countries",
+      351
+    ],
+    [
+      "band",
+      331
+    ],
+    [
+      "different",
+      310
+    ],
+    [
+      "company",
+      309
+    ],
+    [
+      "describe",
+      291
+    ],
+    [
+      "market",
+      291
+    ],
+    [
+      "african",
+      288
+    ],
+    [
+      "use",
+      278
+    ],
+    [
+      "development",
+      254
+    ],
+    [
+      "shareholders",
+      251
+    ],
+    [
+      "world",
+      249
+    ],
+    [
+      "case",
+      247
+    ],
+    [
+      "new",
+      237
+    ],
+    [
+      "economic",
+      236
+    ],
+    [
+      "high",
+      230
+    ],
+    [
+      "important",
+      227
+    ],
+    [
+      "like",
+      222
+    ],
+    [
+      "way",
+      220
+    ],
+    [
+      "women",
+      217
+    ],
+    [
+      "social",
+      215
+    ],
+    [
+      "reactions",
+      208
+    ],
+    [
+      "main",
+      205
+    ],
+    [
+      "global",
+      200
+    ],
+    [
+      "gap",
+      199
+    ],
+    [
+      "material",
+      193
+    ],
+    [
+      "financial",
+      192
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "band gap",
+      165
+    ],
+    [
+      "sci hub",
+      110
+    ],
+    [
+      "dominant position",
+      101
+    ],
+    [
+      "et al",
+      85
+    ],
+    [
+      "external constituencies",
+      76
+    ],
+    [
+      "graphic representation",
+      68
+    ],
+    [
+      "c n",
+      67
+    ],
+    [
+      "describe bioconjugation",
+      66
+    ],
+    [
+      "micellar catalysis",
+      64
+    ],
+    [
+      "south africa",
+      63
+    ],
+    [
+      "functional groups",
+      61
+    ],
+    [
+      "corporate law",
+      57
+    ],
+    [
+      "metal semiconductor",
+      57
+    ],
+    [
+      "legal personality",
+      55
+    ],
+    [
+      "business corporation",
+      55
+    ],
+    [
+      "general aspects",
+      53
+    ],
+    [
+      "describe general",
+      51
+    ],
+    [
+      "form c",
+      51
+    ],
+    [
+      "representation follows",
+      51
+    ],
+    [
+      "mifid ii",
+      49
+    ],
+    [
+      "bioconjugation reaction",
+      46
+    ],
+    [
+      "primary amine",
+      46
+    ],
+    [
+      "brain drain",
+      45
+    ],
+    [
+      "minority shareholders",
+      44
+    ],
+    [
+      "dispersed ownership",
+      43
+    ],
+    [
+      "cross coupling",
+      43
+    ],
+    [
+      "gap material",
+      42
+    ],
+    [
+      "slate voting",
+      41
+    ],
+    [
+      "conduction band",
+      41
+    ],
+    [
+      "ps pdt",
+      41
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "graphic representation follows",
+      50
+    ],
+    [
+      "describe general aspects",
+      49
+    ],
+    [
+      "form c n",
+      44
+    ],
+    [
+      "band gap material",
+      42
+    ],
+    [
+      "example catalytic cycle",
+      36
+    ],
+    [
+      "bioconjugation reaction primary",
+      35
+    ],
+    [
+      "general aspects palladium",
+      35
+    ],
+    [
+      "palladium catalysed reactions",
+      35
+    ],
+    [
+      "reaction primary amine",
+      34
+    ],
+    [
+      "aspects palladium catalysed",
+      34
+    ],
+    [
+      "main steps cycle",
+      34
+    ],
+    [
+      "carbon nitrogen bond",
+      34
+    ],
+    [
+      "provide example justify",
+      33
+    ],
+    [
+      "example justify answer",
+      33
+    ],
+    [
+      "describe bioconjugation kind",
+      33
+    ],
+    [
+      "bioconjugation kind applications",
+      33
+    ],
+    [
+      "kind applications useful",
+      33
+    ],
+    [
+      "applications useful describe",
+      33
+    ],
+    [
+      "useful describe bioconjugation",
+      33
+    ],
+    [
+      "describe bioconjugation reaction",
+      33
+    ],
+    [
+      "primary amine ii",
+      33
+    ],
+    [
+      "amine ii thiol",
+      33
+    ],
+    [
+      "ii thiol reactions",
+      33
+    ],
+    [
+      "thiol reactions occur",
+      33
+    ],
+    [
+      "reactions occur functional",
+      33
+    ],
+    [
+      "occur functional groups",
+      33
+    ],
+    [
+      "functional groups needed",
+      33
+    ],
+    [
+      "groups needed fluorophore",
+      33
+    ],
+    [
+      "catalysed reactions example",
+      33
+    ],
+    [
+      "reactions example catalytic",
+      33
+    ]
+  ]
+}

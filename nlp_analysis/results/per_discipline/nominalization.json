@@ -1,0 +1,1153 @@
+{
+  "AS_Gus": {
+    "total_nominalizations": 2014,
+    "density_per_100_tokens": 4.74,
+    "total_tokens": 42472,
+    "suffix_distribution": {
+      "-tion": 924,
+      "-ment": 292,
+      "-ity": 396,
+      "-ence": 162,
+      "-sion": 100,
+      "-ance": 108,
+      "-ness": 32
+    },
+    "top_forms": [
+      [
+        "globalization",
+        100
+      ],
+      [
+        "education",
+        90
+      ],
+      [
+        "government",
+        85
+      ],
+      [
+        "development",
+        74
+      ],
+      [
+        "population",
+        38
+      ],
+      [
+        "convergence",
+        35
+      ],
+      [
+        "insecurity",
+        34
+      ],
+      [
+        "modernity",
+        34
+      ],
+      [
+        "surveillance",
+        33
+      ],
+      [
+        "reality",
+        30
+      ],
+      [
+        "migration",
+        27
+      ],
+      [
+        "information",
+        26
+      ],
+      [
+        "security",
+        25
+      ],
+      [
+        "violence",
+        25
+      ],
+      [
+        "globalisation",
+        25
+      ],
+      [
+        "discrimination",
+        20
+      ],
+      [
+        "investment",
+        20
+      ],
+      [
+        "situation",
+        19
+      ],
+      [
+        "governance",
+        18
+      ],
+      [
+        "production",
+        18
+      ]
+    ]
+  },
+  "CILE_Pol": {
+    "total_nominalizations": 1369,
+    "density_per_100_tokens": 5.29,
+    "total_tokens": 25899,
+    "suffix_distribution": {
+      "-tion": 619,
+      "-ity": 386,
+      "-ness": 113,
+      "-ment": 135,
+      "-sion": 36,
+      "-ance": 46,
+      "-ence": 34
+    },
+    "top_forms": [
+      [
+        "business",
+        105
+      ],
+      [
+        "corporation",
+        102
+      ],
+      [
+        "minority",
+        79
+      ],
+      [
+        "personality",
+        61
+      ],
+      [
+        "protection",
+        58
+      ],
+      [
+        "information",
+        51
+      ],
+      [
+        "majority",
+        50
+      ],
+      [
+        "situation",
+        50
+      ],
+      [
+        "competition",
+        45
+      ],
+      [
+        "management",
+        28
+      ],
+      [
+        "relation",
+        27
+      ],
+      [
+        "entity",
+        27
+      ],
+      [
+        "possibility",
+        25
+      ],
+      [
+        "appointment",
+        23
+      ],
+      [
+        "decision",
+        23
+      ],
+      [
+        "jurisdiction",
+        21
+      ],
+      [
+        "activity",
+        20
+      ],
+      [
+        "legislation",
+        19
+      ],
+      [
+        "security",
+        19
+      ],
+      [
+        "coordination",
+        18
+      ]
+    ]
+  },
+  "CLA_Pol": {
+    "total_nominalizations": 516,
+    "density_per_100_tokens": 4.21,
+    "total_tokens": 12242,
+    "suffix_distribution": {
+      "-tion": 198,
+      "-ment": 137,
+      "-ity": 100,
+      "-sion": 35,
+      "-ness": 6,
+      "-ence": 36,
+      "-ance": 4
+    },
+    "top_forms": [
+      [
+        "investment",
+        63
+      ],
+      [
+        "instrument",
+        47
+      ],
+      [
+        "option",
+        35
+      ],
+      [
+        "difference",
+        29
+      ],
+      [
+        "definition",
+        26
+      ],
+      [
+        "situation",
+        23
+      ],
+      [
+        "maturity",
+        17
+      ],
+      [
+        "commission",
+        16
+      ],
+      [
+        "security",
+        14
+      ],
+      [
+        "execution",
+        13
+      ],
+      [
+        "violation",
+        12
+      ],
+      [
+        "inducement",
+        11
+      ],
+      [
+        "commodity",
+        10
+      ],
+      [
+        "obligation",
+        10
+      ],
+      [
+        "emission",
+        9
+      ],
+      [
+        "liquidity",
+        8
+      ],
+      [
+        "equity",
+        8
+      ],
+      [
+        "information",
+        7
+      ],
+      [
+        "intervention",
+        7
+      ],
+      [
+        "regulation",
+        6
+      ]
+    ]
+  },
+  "CPH_Mor": {
+    "total_nominalizations": 803,
+    "density_per_100_tokens": 3.52,
+    "total_tokens": 22826,
+    "suffix_distribution": {
+      "-tion": 457,
+      "-ity": 79,
+      "-ment": 75,
+      "-ness": 16,
+      "-ence": 91,
+      "-sion": 51,
+      "-ance": 34
+    },
+    "top_forms": [
+      [
+        "decolonization",
+        88
+      ],
+      [
+        "independence",
+        34
+      ],
+      [
+        "population",
+        28
+      ],
+      [
+        "globalization",
+        25
+      ],
+      [
+        "colonization",
+        24
+      ],
+      [
+        "development",
+        20
+      ],
+      [
+        "production",
+        20
+      ],
+      [
+        "expansion",
+        17
+      ],
+      [
+        "exploitation",
+        11
+      ],
+      [
+        "violence",
+        10
+      ],
+      [
+        "superiority",
+        10
+      ],
+      [
+        "indipendence",
+        10
+      ],
+      [
+        "influence",
+        9
+      ],
+      [
+        "creation",
+        9
+      ],
+      [
+        "relation",
+        7
+      ],
+      [
+        "importance",
+        7
+      ],
+      [
+        "consequence",
+        7
+      ],
+      [
+        "modernization",
+        7
+      ],
+      [
+        "revolution",
+        7
+      ],
+      [
+        "decolonisation",
+        7
+      ]
+    ]
+  },
+  "DEIC_San": {
+    "total_nominalizations": 125,
+    "density_per_100_tokens": 4.88,
+    "total_tokens": 2563,
+    "suffix_distribution": {
+      "-ment": 24,
+      "-ity": 42,
+      "-ence": 8,
+      "-ance": 8,
+      "-sion": 4,
+      "-tion": 37,
+      "-ness": 2
+    },
+    "top_forms": [
+      [
+        "informality",
+        19
+      ],
+      [
+        "employment",
+        16
+      ],
+      [
+        "productivity",
+        6
+      ],
+      [
+        "participation",
+        6
+      ],
+      [
+        "development",
+        5
+      ],
+      [
+        "formalization",
+        4
+      ],
+      [
+        "formality",
+        4
+      ],
+      [
+        "evidence",
+        4
+      ],
+      [
+        "education",
+        3
+      ],
+      [
+        "operation",
+        3
+      ],
+      [
+        "evasion",
+        2
+      ],
+      [
+        "activity",
+        2
+      ],
+      [
+        "experience",
+        2
+      ],
+      [
+        "probability",
+        2
+      ],
+      [
+        "segmentation",
+        2
+      ],
+      [
+        "motivation",
+        2
+      ],
+      [
+        "creation",
+        2
+      ],
+      [
+        "security",
+        2
+      ],
+      [
+        "transition",
+        2
+      ],
+      [
+        "absence",
+        1
+      ]
+    ]
+  },
+  "ELClass_Zot": {
+    "total_nominalizations": 104,
+    "density_per_100_tokens": 3.82,
+    "total_tokens": 2724,
+    "suffix_distribution": {
+      "-ence": 8,
+      "-tion": 19,
+      "-ity": 71,
+      "-ance": 3,
+      "-ment": 2,
+      "-ness": 1
+    },
+    "top_forms": [
+      [
+        "disability",
+        38
+      ],
+      [
+        "community",
+        13
+      ],
+      [
+        "identity",
+        11
+      ],
+      [
+        "difference",
+        7
+      ],
+      [
+        "discrimination",
+        6
+      ],
+      [
+        "minority",
+        3
+      ],
+      [
+        "interpretation",
+        2
+      ],
+      [
+        "deviance",
+        2
+      ],
+      [
+        "malfunction",
+        2
+      ],
+      [
+        "limitation",
+        2
+      ],
+      [
+        "impairment",
+        2
+      ],
+      [
+        "stigmatization",
+        1
+      ],
+      [
+        "connotation",
+        1
+      ],
+      [
+        "distinction",
+        1
+      ],
+      [
+        "variation",
+        1
+      ],
+      [
+        "marginalization",
+        1
+      ],
+      [
+        "appareance",
+        1
+      ],
+      [
+        "sentence",
+        1
+      ],
+      [
+        "probability",
+        1
+      ],
+      [
+        "communication",
+        1
+      ]
+    ]
+  },
+  "ELSPS_Zot": {
+    "total_nominalizations": 315,
+    "density_per_100_tokens": 5.22,
+    "total_tokens": 6033,
+    "suffix_distribution": {
+      "-sion": 57,
+      "-ity": 35,
+      "-ment": 30,
+      "-tion": 151,
+      "-ence": 36,
+      "-ance": 5,
+      "-ness": 1
+    },
+    "top_forms": [
+      [
+        "persuasion",
+        51
+      ],
+      [
+        "argumentation",
+        20
+      ],
+      [
+        "solution",
+        19
+      ],
+      [
+        "argument",
+        18
+      ],
+      [
+        "authority",
+        16
+      ],
+      [
+        "evaluation",
+        13
+      ],
+      [
+        "audience",
+        12
+      ],
+      [
+        "evidence",
+        10
+      ],
+      [
+        "explanation",
+        9
+      ],
+      [
+        "opposition",
+        9
+      ],
+      [
+        "competence",
+        7
+      ],
+      [
+        "association",
+        7
+      ],
+      [
+        "assertion",
+        7
+      ],
+      [
+        "presupposition",
+        7
+      ],
+      [
+        "definition",
+        6
+      ],
+      [
+        "difference",
+        5
+      ],
+      [
+        "repetition",
+        5
+      ],
+      [
+        "connotation",
+        5
+      ],
+      [
+        "interruption",
+        4
+      ],
+      [
+        "statement",
+        4
+      ]
+    ]
+  },
+  "EOK_Geu": {
+    "total_nominalizations": 747,
+    "density_per_100_tokens": 4.5,
+    "total_tokens": 16596,
+    "suffix_distribution": {
+      "-tion": 409,
+      "-ence": 54,
+      "-ity": 146,
+      "-ment": 96,
+      "-ness": 12,
+      "-ance": 17,
+      "-sion": 13
+    },
+    "top_forms": [
+      [
+        "innovation",
+        97
+      ],
+      [
+        "migration",
+        59
+      ],
+      [
+        "university",
+        51
+      ],
+      [
+        "education",
+        35
+      ],
+      [
+        "development",
+        25
+      ],
+      [
+        "information",
+        23
+      ],
+      [
+        "science",
+        22
+      ],
+      [
+        "enrolment",
+        17
+      ],
+      [
+        "emigration",
+        15
+      ],
+      [
+        "government",
+        12
+      ],
+      [
+        "production",
+        11
+      ],
+      [
+        "activity",
+        10
+      ],
+      [
+        "collaboration",
+        10
+      ],
+      [
+        "invention",
+        10
+      ],
+      [
+        "difference",
+        9
+      ],
+      [
+        "subscription",
+        8
+      ],
+      [
+        "business",
+        8
+      ],
+      [
+        "quality",
+        8
+      ],
+      [
+        "population",
+        8
+      ],
+      [
+        "investment",
+        8
+      ]
+    ]
+  },
+  "GLD_Gog": {
+    "total_nominalizations": 530,
+    "density_per_100_tokens": 4.76,
+    "total_tokens": 11124,
+    "suffix_distribution": {
+      "-tion": 176,
+      "-ence": 38,
+      "-ment": 147,
+      "-ity": 98,
+      "-sion": 24,
+      "-ness": 11,
+      "-ance": 36
+    },
+    "top_forms": [
+      [
+        "development",
+        89
+      ],
+      [
+        "interdisciplinarity",
+        22
+      ],
+      [
+        "finance",
+        16
+      ],
+      [
+        "government",
+        15
+      ],
+      [
+        "environment",
+        14
+      ],
+      [
+        "implementation",
+        14
+      ],
+      [
+        "science",
+        12
+      ],
+      [
+        "integration",
+        9
+      ],
+      [
+        "activity",
+        8
+      ],
+      [
+        "education",
+        8
+      ],
+      [
+        "situation",
+        7
+      ],
+      [
+        "information",
+        7
+      ],
+      [
+        "community",
+        7
+      ],
+      [
+        "influence",
+        6
+      ],
+      [
+        "complexity",
+        6
+      ],
+      [
+        "cooperation",
+        6
+      ],
+      [
+        "notion",
+        5
+      ],
+      [
+        "capacity",
+        5
+      ],
+      [
+        "conclusion",
+        5
+      ],
+      [
+        "definition",
+        5
+      ]
+    ]
+  },
+  "NAL_Car": {
+    "total_nominalizations": 241,
+    "density_per_100_tokens": 4.17,
+    "total_tokens": 5785,
+    "suffix_distribution": {
+      "-ance": 34,
+      "-tion": 61,
+      "-ence": 41,
+      "-ity": 52,
+      "-ment": 42,
+      "-sion": 10,
+      "-ness": 1
+    },
+    "top_forms": [
+      [
+        "government",
+        28
+      ],
+      [
+        "reliance",
+        22
+      ],
+      [
+        "independence",
+        13
+      ],
+      [
+        "identity",
+        10
+      ],
+      [
+        "dependence",
+        8
+      ],
+      [
+        "importance",
+        6
+      ],
+      [
+        "disability",
+        6
+      ],
+      [
+        "imagination",
+        5
+      ],
+      [
+        "violence",
+        5
+      ],
+      [
+        "ambivalence",
+        4
+      ],
+      [
+        "condition",
+        4
+      ],
+      [
+        "education",
+        4
+      ],
+      [
+        "argument",
+        4
+      ],
+      [
+        "relation",
+        4
+      ],
+      [
+        "notion",
+        4
+      ],
+      [
+        "reputation",
+        3
+      ],
+      [
+        "reality",
+        3
+      ],
+      [
+        "ambiguity",
+        3
+      ],
+      [
+        "inequality",
+        3
+      ],
+      [
+        "difference",
+        3
+      ]
+    ]
+  },
+  "NAL_DiL": {
+    "total_nominalizations": 155,
+    "density_per_100_tokens": 2.0,
+    "total_tokens": 7732,
+    "suffix_distribution": {
+      "-tion": 60,
+      "-ment": 14,
+      "-sion": 12,
+      "-ness": 8,
+      "-ity": 28,
+      "-ance": 12,
+      "-ence": 21
+    },
+    "top_forms": [
+      [
+        "condition",
+        8
+      ],
+      [
+        "information",
+        6
+      ],
+      [
+        "publication",
+        6
+      ],
+      [
+        "situation",
+        6
+      ],
+      [
+        "compulsion",
+        6
+      ],
+      [
+        "element",
+        6
+      ],
+      [
+        "calculation",
+        6
+      ],
+      [
+        "violence",
+        5
+      ],
+      [
+        "morality",
+        4
+      ],
+      [
+        "realization",
+        4
+      ],
+      [
+        "consolation",
+        4
+      ],
+      [
+        "devotion",
+        4
+      ],
+      [
+        "impertinence",
+        4
+      ],
+      [
+        "remembrance",
+        4
+      ],
+      [
+        "ignorance",
+        4
+      ],
+      [
+        "thoughtlessness",
+        4
+      ],
+      [
+        "density",
+        4
+      ],
+      [
+        "ability",
+        3
+      ],
+      [
+        "identity",
+        3
+      ],
+      [
+        "authority",
+        3
+      ]
+    ]
+  },
+  "SCSA_Bon": {
+    "total_nominalizations": 1982,
+    "density_per_100_tokens": 5.27,
+    "total_tokens": 37605,
+    "suffix_distribution": {
+      "-ence": 141,
+      "-ity": 361,
+      "-tion": 1296,
+      "-ment": 51,
+      "-ance": 112,
+      "-sion": 16,
+      "-ness": 5
+    },
+    "top_forms": [
+      [
+        "reaction",
+        411
+      ],
+      [
+        "bioconjugation",
+        144
+      ],
+      [
+        "conductivity",
+        108
+      ],
+      [
+        "representation",
+        70
+      ],
+      [
+        "conduction",
+        49
+      ],
+      [
+        "absorption",
+        46
+      ],
+      [
+        "solubility",
+        45
+      ],
+      [
+        "generation",
+        43
+      ],
+      [
+        "difference",
+        40
+      ],
+      [
+        "presence",
+        40
+      ],
+      [
+        "valence",
+        39
+      ],
+      [
+        "elimination",
+        34
+      ],
+      [
+        "reflectance",
+        32
+      ],
+      [
+        "formation",
+        31
+      ],
+      [
+        "information",
+        30
+      ],
+      [
+        "transmittance",
+        30
+      ],
+      [
+        "stability",
+        29
+      ],
+      [
+        "application",
+        28
+      ],
+      [
+        "assumption",
+        27
+      ],
+      [
+        "function",
+        23
+      ]
+    ]
+  }
+}

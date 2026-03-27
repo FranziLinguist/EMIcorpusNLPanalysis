@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: will
+[TEXT]   By answering the question “How easy is it for women in Nigeria to access and conclude a study?”, the paper will give first an introduction to the geographical, economic, and social context of the country; then, deeply examine the relationship between Nigerian women and education through time.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: will
+[TEXT]   After, there will be a comparison between educated women and non-educated ones; and next, the analysis of women's job opportunities.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: will
+[TEXT]   Finally, the paper will show examples of successful stories that help to see a concrete cycle of helping educate.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: will
+[TEXT]   The lack of education – especially in the north of Nigeria - is driven by economic difficulties and socio- cultural customs and practices that will be explained in detail throughout the paper, which discourage attendance in formal education, especially for girls.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: will
+[TEXT]   The paper will first examine the historical trends and transformations regarding the relationship between education and women in Nigeria, analysing the obstacles and barriers that still today hinder girls' and women’s access to education.
+

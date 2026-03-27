@@ -1,0 +1,21 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Modale: should
+[TEXT]   (We should All Be Feminists, 2014)
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: should
+[TEXT]   The “sexual orientation” part was added because of the widespread belief that, in post- apartheid South Africa, no one should experience prejudice, exclusion, or violence just because of who they are.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: should
+[TEXT]   The Issues Faced by Transgender People in South Africa
+A transgender person is an individual who does not identify with the biological sex that they were born with, and believes that they should belong to another sex.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: should
+[TEXT]   Raising consciousness about gender issues and LGBTQI+ struggles is therefore fundamental and might be reached by intensifying education programs on gender discourses: “Maybe in the school they should be taught about transgender people, maybe we should teach others that we are human and we’re supposed to learn more about one another”58.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: should
+[TEXT]   Raising consciousness about gender issues and LGBTQI+ struggles is therefore fundamental and might be reached by intensifying education programs on gender discourses: “Maybe in the school they should be taught about transgender people, maybe we should teach others that we are human and we’re supposed to learn more about one another”58.
+

@@ -1,0 +1,172 @@
+======================================================================
+  KEYWORDS TF-IDF  –  PER DISCIPLINA
+======================================================================
+
+--- AS_Gus ---
+  ferguson                            0.055617
+  transgender                         0.054012
+  nigeria                             0.053692
+  insecurity                          0.047411
+  surveillance                        0.047411
+  convergence                         0.047411
+  transgender people                  0.046478
+  source https                        0.045088
+  ferguson 2006                       0.045088
+  south                               0.044413
+  globalization                       0.044335
+  food insecurity                     0.044317
+
+--- CILE_Pol ---
+  shareholders                        0.078249
+  corporation                         0.067451
+  dominant position                   0.067333
+  constituencies                      0.064687
+  external constituencies             0.063923
+  shareholder                         0.062231
+  directors                           0.060682
+  corporate law                       0.060473
+  legal personality                   0.060045
+  business corporation                0.060045
+  merger                              0.059825
+  ownership                           0.059515
+
+--- CLA_Pol ---
+  mifid                               0.085191
+  mifid ii                            0.082928
+  instruments                         0.081011
+  financial instruments               0.077701
+  derivative                          0.076732
+  financial instrument                0.076226
+  alpha                               0.076203
+  natural gas                         0.074611
+  client                              0.072634
+  algorithmic trading                 0.072185
+  algorithmic                         0.072185
+  company alpha                       0.071520
+
+--- CPH_Mor ---
+  empires                             0.078719
+  merchants                           0.072115
+  merchant                            0.071851
+  spanish                             0.068901
+  merchant networks                   0.067164
+  empire                              0.065264
+  15th                                0.063385
+  theory drain                        0.061868
+  south asia                          0.061324
+  native american                     0.061324
+  15th 16th                           0.061324
+  16th century                        0.060760
+
+--- DEIC_San ---
+  informal economy                    0.152465
+  informality                         0.150826
+  ilo                                 0.141320
+  elgin                               0.117873
+  informal                            0.113568
+  informal employment                 0.113531
+  formal sector                       0.102925
+  informal sector                     0.101231
+  graph                               0.101231
+  formal                              0.097665
+  shleifer 2014                       0.096203
+  shleifer                            0.096203
+
+--- ELClass_Zot ---
+  ethnolect                           0.147601
+  disability                          0.145667
+  racist discourse                    0.144287
+  medical model                       0.140685
+  dijk                                0.136738
+  van dijk                            0.136738
+  sexism                              0.136300
+  linguistic strategies               0.132376
+  strategies identified               0.127499
+  identified forms                    0.127499
+  identity language                   0.127499
+  direct sexism                       0.121971
+
+--- ELSPS_Zot ---
+  persuasion                          0.134836
+  justify answer                      0.124543
+  example justify                     0.122935
+  speaker                             0.109243
+  model persuasion                    0.107841
+  provide example                     0.105578
+  model argumentation                 0.103143
+  persuasion defined                  0.099492
+  sarcasm                             0.099492
+  interviewer                         0.097466
+  interviewee                         0.097466
+  argumentation defined               0.095277
+
+--- EOK_Geu ---
+  sci hub                             0.089597
+  sci                                 0.089597
+  hub                                 0.076947
+  libraries                           0.067771
+  innovation                          0.066639
+  brain                               0.066519
+  skilled migration                   0.065998
+  skilled                             0.065992
+  brain drain                         0.064275
+  shadow libraries                    0.062507
+  university industry                 0.061705
+  publishers                          0.058007
+
+--- GLD_Gog ---
+  sdgs                                0.096587
+  interdisciplinarity                 0.092625
+  ngos                                0.091539
+  anthropocene                        0.087713
+  development studies                 0.083314
+  foreign agents                      0.078961
+  anthropocene risk                   0.076383
+  targets                             0.076383
+  norwegian                           0.073435
+  programme                           0.071786
+  agents law                          0.068031
+  interdisciplinary                   0.068031
+
+--- NAL_Car ---
+  individualism                       0.148108
+  murray                              0.135573
+  reliance                            0.125947
+  self reliance                       0.121006
+  melting                             0.111587
+  thoreau                             0.111587
+  pot                                 0.111587
+  melting pot                         0.111587
+  bellah                              0.103078
+  hoover                              0.103078
+  diaz                                0.100504
+  emerson                             0.100504
+
+--- NAL_DiL ---
+  mercy                               0.092907
+  master                              0.087052
+  ah                                  0.085675
+  harriet                             0.080960
+  jacobs                              0.080960
+  passage                             0.080346
+  irene                               0.079142
+  wheatley                            0.079142
+  jacob                               0.079142
+  girl                                0.077931
+  excerpted                           0.077166
+  toni                                0.077166
+
+--- SCSA_Bon ---
+  band                                0.065283
+  pd                                  0.061363
+  reactions                           0.060824
+  bioconjugation                      0.058660
+  band gap                            0.058602
+  polymers                            0.054883
+  conductivity                        0.054623
+  semiconductor                       0.054623
+  solar                               0.054534
+  polymer                             0.054445
+  metal                               0.053986
+  palladium                           0.052890
+

@@ -1,0 +1,52 @@
+======================================================================
+  FREQUENZE  –  PER DISCIPLINA
+======================================================================
+
+--- AS_Gus ---
+Top 10 parole: africa(321), african(214), women(150), food(147), people(139), global(131), countries(127), economic(116), education(105), social(101)
+Top 5 bigrammi: south africa(60), transgender people(32), african countries(29), food insecurity(26), human rights(25)
+
+--- CILE_Pol ---
+Top 10 parole: shareholders(251), company(219), market(174), position(138), legal(134), strategies(130), law(120), ownership(119), dominant(114), managers(110)
+Top 5 bigrammi: dominant position(101), external constituencies(76), corporate law(57), legal personality(55), business corporation(55)
+
+--- CLA_Pol ---
+Top 10 parole: price(124), financial(117), trading(97), instruments(96), contract(78), alpha(69), market(68), investment(64), mifid(56), company(55)
+Top 5 bigrammi: mifid ii(49), financial instruments(36), financial instrument(33), natural gas(30), algorithmic trading(26)
+
+--- CPH_Mor ---
+Top 10 parole: people(122), british(117), india(117), century(114), trade(103), decolonization(88), empires(87), world(83), native(81), europeans(77)
+Top 5 bigrammi: merchant networks(39), theory drain(27), british empire(27), south asia(26), native american(26)
+
+--- DEIC_San ---
+Top 10 parole: informal(53), economy(25), economic(22), informality(22), employment(19), formal(18), sector(17), development(13), income(12), countries(11)
+Top 5 bigrammi: informal economy(23), informal sector(9), informal employment(8), world bank(7), formal sector(6)
+
+--- ELClass_Zot ---
+Top 10 parole: language(54), person(44), people(39), disability(38), example(23), model(20), describe(19), examples(18), different(18), linguistic(17)
+Top 5 bigrammi: provide examples(13), racist discourse(12), medical model(11), van dijk(10), linguistic strategies(9)
+
+--- ELSPS_Zot ---
+Top 10 parole: example(71), persuasion(51), model(46), answer(44), provide(36), justify(36), discourse(33), describe(28), defined(28), question(22)
+Top 5 bigrammi: justify answer(35), provide example(33), example justify(33), describe model(19), model persuasion(19)
+
+--- EOK_Geu ---
+Top 10 parole: hub(111), sci(110), countries(108), innovation(101), research(91), access(81), knowledge(81), migration(73), industry(67), use(60)
+Top 5 bigrammi: sci hub(110), et al(54), brain drain(44), skilled migration(25), developing countries(23)
+
+--- GLD_Gog ---
+Top 10 parole: development(110), ngos(65), article(50), sdgs(40), authors(39), global(36), countries(36), interdisciplinarity(33), studies(30), human(29)
+Top 5 bigrammi: development studies(21), foreign agents(17), anthropocene risk(15), sustainable development(10), civil society(10)
+
+--- NAL_Car ---
+Top 10 parole: american(78), individualism(55), murray(36), self(36), government(35), individual(31), myth(28), reliance(26), america(23), society(23)
+Top 5 bigrammi: self reliance(22), melting pot(16), american individualism(11), american families(10), myth independent(9)
+
+--- NAL_DiL ---
+Top 10 parole: passage(39), white(35), life(31), black(29), man(22), like(22), mercy(22), girl(20), read(19), pride(19)
+Top 5 bigrammi: toni morrison(11), phillis wheatley(10), narrative voice(9), slave girl(9), harriet jacobs(9)
+
+--- SCSA_Bon ---
+Top 10 parole: reaction(418), band(331), reactions(208), gap(186), material(175), energy(170), bioconjugation(166), catalyst(160), describe(152), c(152)
+Top 5 bigrammi: band gap(165), graphic representation(68), c n(67), describe bioconjugation(66), micellar catalysis(64)
+

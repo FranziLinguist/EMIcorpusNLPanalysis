@@ -1,0 +1,23 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: would
+[TEXT]   The Land Act would have represented a cornerstone of legalized racial discrimination for the following decades, forcing the relocation of thousands of Africans from urban centers to what became known as Bantustan7 or homeland.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: would
+[TEXT]   Source: http://theotherfoundation.org/wp-content/uploads/2016/09/ProgPrudes_Report_d5.pdf
+Research data21 show that the majority of citizens, 8 out of 10 people, have never verbally or physically abused a person who identifies as another gender and they would never consider doing so.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: would
+[TEXT]   https://giveout.org/access-chapter-2
+However, the illustration of these discriminatory events would be incomplete if it wasn’t supported by a theoretical framework able to explicate, differentiate and examine the phenomena that have been mentioned so far.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: would
+[TEXT]   In order to trace the origins of gender anthropology, it would be impossible not to mention the American anthropologist Margaret Mead.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P48_P49_P50.docx
+[LABEL]  Modale: would
+[TEXT]   Sex, Gender and Sexuality
+To proceed with our discourse, it would be now necessary to take a step back and provide a clear and precise explanation of the notions of sex, gender and sexuality, making particular reference to Lia Viola’s work “Al di là del genere” (2013).
+

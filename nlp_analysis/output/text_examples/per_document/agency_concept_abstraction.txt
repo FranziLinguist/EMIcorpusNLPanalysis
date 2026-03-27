@@ -1,0 +1,22 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: concept_abstraction (soggetto: 'women')
+[TEXT]   By answering the question “How easy is it for women in Nigeria to access and conclude a study?”, the paper will give first an introduction to the geographical, economic, and social context of the country; then, deeply examine the relationship between Nigerian women and education through time.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: concept_abstraction (soggetto: 'women')
+[TEXT]   Table of Contents
+Introduction
+Before starting and discussing how easy it is for women in Nigeria to access and conclude a study it is important to introduce and describe the context of the nation to learn and understand the environment of the phenomenon.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: concept_abstraction (soggetto: 'Nigeria')
+[TEXT]   Located in West Africa, Nigeria is one of the countries with the largest populations in the world.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: concept_abstraction (soggetto: 'state')
+[TEXT]   With over 211, 4 million citizens, the state offers an enormous variety of people counting on 250 ethnic groups and 500 different languages.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: concept_abstraction (soggetto: 'religion')
+[TEXT]   The inhabitants’ religion is predominantly divided into Muslims (54%), followed by Christians (11%), Protestants and Roman Catholics (35%).
+

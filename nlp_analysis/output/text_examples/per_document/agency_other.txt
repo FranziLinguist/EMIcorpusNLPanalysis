@@ -1,0 +1,20 @@
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: other (soggetto: 'that')
+[TEXT]   Finally, the paper will show examples of successful stories that help to see a concrete cycle of helping educate.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: other (soggetto: 'little')
+[TEXT]   Due to the corruption issue made by the government itself, very little of Nigeria’s income was being spent on the people and their needs.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: other (soggetto: 'that')
+[TEXT]   The migration is also influenced by one of the current main problems of the country: the continuous fight against the terroristic action by Boko Haram that caused numerous escapes and refugees to seek asylum; and the Herder– farmer conflict, a continuous clash between Muslims and Christians in the centre of Nigeria.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: other (soggetto: 'million')
+[TEXT]   Even if primary education is free and compulsory, about 10.5 million of the country’s children aged 5-14 years are not in school.
+
+[SOURCE] /Users/stefanolocci/Documents/nlp_analysis/docs/EMI_/Gusman_TRASCRIZIONI/GROUP ESSAYS/AS_Gus_AS2_P44_P45.docx
+[LABEL]  Agentività: other (soggetto: 'that')
+[TEXT]   The lack of education – especially in the north of Nigeria - is driven by economic difficulties and socio- cultural customs and practices that will be explained in detail throughout the paper, which discourage attendance in formal education, especially for girls.
+
